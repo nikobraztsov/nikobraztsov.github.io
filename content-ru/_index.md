@@ -1,0 +1,22 @@
+---
+title: Никита Образцов
+params:
+  profileMode:
+    enabled: true
+    title: Никита Образцов
+    subtitle: "Магистрант программы «Вычислительные социальные науки» в Европейском университете в Санкт-Петербурге. Изучаю устойчивость религиозных сетей в условиях секуляризации методом агентного моделирования. Читаю публичные лекции по религиоведению."
+    imageUrl: "picture.jpeg"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: Публикации
+        url: /ru/publications/
+      - name: Выступления
+        url: /ru/talks/
+      - name: Новости
+        url: /ru/news/
+      - name: Контакты
+        url: /ru/contact/
+      - name: EN
+        url: /
+---

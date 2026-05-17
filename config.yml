@@ -9,6 +9,28 @@ languages:
   en:
     languageName: EN
     weight: 1
+    contentDir: content
+    params:
+      profileMode:
+        enabled: true
+        title: Nikita Obraztsov
+        subtitle: "I am a master's student in Computational Sociology at the European University at St. Petersburg. My research focuses on religious network topology, secularization, and agent-based modeling. I also lecture on world religions and the sociology of religion for general audiences."
+        imageUrl: "picture.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        buttons:
+          - name: Publications
+            url: /publications/
+          - name: Talks
+            url: /talks/
+          - name: Notes
+            url: /notes/
+          - name: News
+            url: /news/
+          - name: Contact
+            url: /contact/
+          - name: RU
+            url: /ru/
     menu:
       main:
         - name: About
@@ -35,6 +57,26 @@ languages:
   ru:
     languageName: RU
     weight: 2
+    contentDir: content-ru
+    params:
+      profileMode:
+        enabled: true
+        title: Никита Образцов
+        subtitle: "Магистрант программы «Вычислительные социальные науки» в Европейском университете в Санкт-Петербурге. Изучаю устойчивость религиозных сетей в условиях секуляризации методом агентного моделирования. Читаю публичные лекции по религиоведению."
+        imageUrl: "picture.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        buttons:
+          - name: Публикации
+            url: /ru/publications/
+          - name: Выступления
+            url: /ru/talks/
+          - name: Новости
+            url: /ru/news/
+          - name: Контакты
+            url: /ru/contact/
+          - name: EN
+            url: /
     menu:
       main:
         - name: Обо мне
@@ -66,6 +108,7 @@ pagination:
 
 taxonomies:
     tag: tags
+
 params:
     description: "Nikita Obraztsov — sociologist of religion, computational social scientist. Research on secularization, religious networks, and agent-based modeling."
     author: Nikita Obraztsov
@@ -98,15 +141,17 @@ params:
           imageHeight: 160
           buttons:
             - name: Publications
-              url: publications/
+              url: /publications/
             - name: Talks
-              url: talks/
+              url: /talks/
             - name: Notes
-              url: notes/
+              url: /notes/
             - name: News
-              url: news/
+              url: /news/
             - name: Contact
-              url: contact/
+              url: /contact/
+            - name: RU
+              url: /ru/
 
     socialIcons:
         - name: CV
