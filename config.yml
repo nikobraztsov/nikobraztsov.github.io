@@ -59,7 +59,7 @@ languages:
   ru:
     languageName: RU
     weight: 2
-    contentDir: /Users/nikitaobraztsov/Documents/nikobraztsov.github.io/content-ru
+    contentDir: content-ru
     params:
       profileMode:
         enabled: true
