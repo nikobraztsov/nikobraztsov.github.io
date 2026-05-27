@@ -4,7 +4,6 @@ date: 2026-05-18
 description: "Public lecture at Trening-tsentr Izmailovsky, St. Petersburg."
 tags: ["announcement", "lecture"]
 ---
-
 Public lecture at [Medio Modo](https://mediomodo.ru/obraztsov-spb), St. Petersburg.
 
 What if religion does not begin with belief in God? Secular meditation has conquered Silicon Valley and turned into a corporate productivity tool. Atheist churches across the world gather hundreds of people for Sunday meetings with songs, lectures, and something very much like a sermon. Harvard's chief chaplain is an atheist.
