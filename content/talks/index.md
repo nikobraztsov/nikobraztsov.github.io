@@ -22,7 +22,7 @@ International Conference "Religious Studies in Tsarskoye Selo", St. Petersburg, 
 VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025. [My sertificate (in Russian) →](/docs/rel-congress.pdf)
 
 **The Popularity of Religious Chatbots as an Indicator of Religious Transformation**
-II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [My sertificate (in Russian) →](/docs/ai-culture.pdf) 
+II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [My sertificate (in Russian) →](/docs/ai-culture.jpg) 
 
 ---
 
