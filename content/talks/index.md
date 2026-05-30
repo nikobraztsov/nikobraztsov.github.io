@@ -35,13 +35,15 @@ St. Petersburg, May 2026.
 
 **From Discordia to the Flying Spaghetti Monster: Parody Religions in the Modern World**
 Moscow, May 2026. 
-[Lecture transcript →](/lectures/parody-religions-en/)
+[Lecture transcript →](/texts/parody-religions/)
 
 **What Does the Modern Person Believe? From Horoscopes to Neural Networks**
 Moscow, March 2026.
+[Lecture transcript →](/texts/lecture-moscow-20052026/)
 
 **Pravoe Polusharie Introverta**
 Staff lecturer since 2022. 100+ lectures on world religions, Orthodox Christianity, and cultural history of religion. Available on the platform via subscription.
+[My page →](https://new.artforintrovert.ru/lecturer/63c79ad8f3cf3a0028f9b335/)
 
 ---
 

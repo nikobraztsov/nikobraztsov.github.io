@@ -16,16 +16,16 @@ My CV is available [here](https://nikitaobraztsov.com/cv.pdf).
 ## Research interests
 
 - Sociology of religion and secularization theory
-- Agent-based modeling of social dynamics
-- Social network analysis and network topology
+- History of atheism and freethought. Personal research interest: John Toland (1670–1722) and the early Enlightenment. 
+- Social network analysis and network topology (using agent-based modeling in my current research)
 - Religion and digital culture
 - Orthodox Christianity: theology, liturgics, and popular traditions
 
 ## Education
 
-- MA, Computational Social Sciences — European University at St. Petersburg (in progress)
-- MA, Religious Studies — St. Petersburg State University (with distinction)
-- BA, Law — Moscow State University of Law, MSAL (with distinction)
+- 2025-2027: MA, Computational Social Sciences — European University at St. Petersburg (in progress)
+- 2018-2020: MA, Religious Studies — St. Petersburg State University (with distinction)
+- 2014-2018: BA, Law — Moscow State University of Law, MSAL (with distinction)
 
 ## Selected honours
 
