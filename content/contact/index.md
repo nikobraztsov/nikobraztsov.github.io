@@ -2,12 +2,11 @@
 title: "Contact"
 description: "Contact Nikita Obraztsov"
 ---
-
 ## Get in touch
 
 **Email:** [nikobrazets@gmail.com](mailto:nikobrazets@gmail.com)
 
-**Telegram:** [@nikobraz19](https://t.me/nikobraz19)
+**Telegram (direct messages):** [@nikobraz19](https://t.me/nikobraz19)
 
 ## Academic profiles
 
@@ -15,8 +14,16 @@ description: "Contact Nikita Obraztsov"
 
 **LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)
 
-## Channels
+## Social media
 
-**YouTube — religion & culture:** [@ON_religio](https://www.youtube.com/@ON_religio)
+**My YouTube (English)** [@ON_religio](https://www.youtube.com/@ON_religio)
 
-**YouTube — popular lectures:** [@Nikobraz](https://www.youtube.com/@Nikobraz)
+**My YouTube (Russian)** [@Nikobraz](https://www.youtube.com/@Nikobraz)
+
+**My Instagram (Russian)** [@nikita_religioved](https://www.instagram.com/nikita_religioved/)
+
+**Telegram-Channel (Russian)** [@Никита Образцов](https://t.me/nikitaobraztsov)
+
+
+
+

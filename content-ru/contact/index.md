@@ -9,7 +9,7 @@ description: "Контактная информация"
 
 **Резервная почта** [nikobraz19@yandex.ru]
 
-**Telegram:** [@nikobraz19](https://t.me/nikobraz19)
+**Личный контакт в telegram:** [@nikobraz19](https://t.me/nikobraz19)
 
 **LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)
 
@@ -20,10 +20,12 @@ description: "Контактная информация"
 **LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)
 
 
-## Каналы
+## Социальные сети
 
-**YouTube — религия и культура:** [@ON_religio](https://www.youtube.com/@ON_religio)
+**Ютуб-канал на английском** [@ON_religio](https://www.youtube.com/@ON_religio)
 
-**YouTube — публичные лекции:** [@Nikobraz](https://www.youtube.com/@Nikobraz)
+**Ютуб-канал на русском** [@Nikobraz](https://www.youtube.com/@Nikobraz)
 
-**Telegram-канал:** [@nikitaobraztsov](https://t.me/nikitaobraztsov)
+**Инстаграм** [@nikita_religioved](https://www.instagram.com/nikita_religioved/)
+
+**Телеграм-канал** [@Никита Образцов](https://t.me/nikitaobraztsov)
