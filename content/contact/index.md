@@ -11,7 +11,7 @@ description: "Contact Nikita Obraztsov"
 
 ## Academic profiles
 
- Google Scholar: [**Nikita Obraztsov** ](https://scholar.google.com/citations?hl=ru&user=tYxoJv8AAAAJ&view_op=list_works&gmla=AIqSsVvQBcgHLNkByHfvhNJk-ILIUDxpm9YKwCjv3YTW7_85A5W8npKqNnPcLrPo-I0wSa-I5FOTTExf7EcQxM2icbdy9cnD1bQmqGCfnigUkw)
+**Google Scholar:** [Nikita Obraztsov ](https://scholar.google.com/citations?hl=ru&user=tYxoJv8AAAAJ&view_op=list_works&gmla=AIqSsVvQBcgHLNkByHfvhNJk-ILIUDxpm9YKwCjv3YTW7_85A5W8npKqNnPcLrPo-I0wSa-I5FOTTExf7EcQxM2icbdy9cnD1bQmqGCfnigUkw)
 
 **LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)
 
