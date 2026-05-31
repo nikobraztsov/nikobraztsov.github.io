@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    languageName: EN
+    languageName: ""
     weight: 1
     contentDir: content
     params:
@@ -59,7 +59,7 @@ languages:
           url: /contact/
           weight: 7
   ru:
-    languageName: RU
+    languageName: ""
     weight: 2
     contentDir: content-ru
     params:
@@ -145,7 +145,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: /cv.pdf
         - name: Email
           url: mailto:nikobrazets@gmail.com
         - name: Google Scholar
