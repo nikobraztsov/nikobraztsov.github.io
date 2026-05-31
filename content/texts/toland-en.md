@@ -8,7 +8,6 @@ tags:
   - freethought
   - enlightenment
 ---
-
 *Based on a video lecture.*
 
 *Video lecture: [YouTube](https://www.youtube.com/watch?v=xfYNydG7zY8)*

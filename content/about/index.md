@@ -2,7 +2,6 @@
 title: "About"
 description: "About Nikita Obraztsov"
 ---
-
 I am a master's student in Computational Social Sciences at the European University at St. Petersburg (EUSPb), a staff lecturer at the popular science platform Pravoe Polusharie Introverta, and a member of the Russian Religious Studies Association.
 
 My research sits at the intersection of computational sociology, social network analysis, and the sociology of religion. I study how network topology shapes religious community resilience under secularization pressure, using agent-based modeling as my primary method. My work has been presented at the European Social Networks Conference (EUSN 2026, Norrköping, Sweden) and the Computational Social Science conference (CSS 2026, St. Petersburg).
