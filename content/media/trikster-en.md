@@ -9,3 +9,6 @@ tags:
 Interview for [Alexander Bydantsev's channel](https://dzen.ru/a/YlAFQBX5QBrAGBen) on Yandex Zen. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method.
 
 [Read in Russian→](https://dzen.ru/a/YlAFQBX5QBrAGBen)
+
+[Read the interview in English→](/texts/trickster-interview-en/)
+
