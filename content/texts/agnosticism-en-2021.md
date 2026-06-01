@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Today I want to talk about agnosticism. At first glance, a simple topic: ask anyone with an interest in philosophy or religion what agnosticism is, and they will confidently tell you it is the position that one cannot know for certain whether god exists or not. Neither believer nor atheist: a person allows for some higher power without asserting either way. The answer is broadly correct, just far from complete.
+Today I want to talk about agnosticism. At first glance, it's a simple topic: ask anyone with an interest in philosophy or religion what agnosticism is, and they will confidently tell you it is the position that one cannot know for certain whether god exists or not. Neither believer nor atheist: a person allows for some higher power without asserting either way. The answer is broadly correct, just far from complete.
 
 ## Basic Definition and Philosophical Context
 
