@@ -24,10 +24,3 @@ In: *Sociology and Society: Formation and Functioning of Social Memory*. Proceed
 *Abstract.* Analyzing the religious identity of Orthodox Christians in contemporary Russia, the author concludes that the concept of belonging without believing can be successfully applied to interpret sociological data. The article draws attention to a significant gap between declared religiosity and actual religious practice, and proposes possible mechanisms for interpreting empirically observable facts.
 
 *Keywords:* contemporary religious situation, belonging without believing, secularization, Orthodoxy.
-
----
-
-## Working papers and research in progress
-
-**Network Segregation as a Temporal Buffer Against Secularization: An Agent-Based Model**
-Presented at EUSN 2026 (Norrköping) and CSS 2026 (St. Petersburg). Manuscript in preparation.
