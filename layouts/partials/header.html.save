@@ -1,4 +1,11 @@
-{{- /* theme-toggle is enabled */}}
+python3 -c "
+content = open('$HOME/Documents/nikobraztsov.github.io/layouts/partials/header.html').read()
+# Найти и удалить первый lang-switch блок
+import re
+pattern = r'\{\{- \\\$lang := \.Lang \}\}\s*\{\{- with \.Site\.Home\.Translations \}\}.*?\{\{- end \}\}'
+result = re.sub(pattern, '', content, count=1, flags=re.DOTALL)
+open('$HOME/Documents/nikobraztsov.github.io/layouts/partials/header.html', 'w').write(result)
+print('Done'{{- /* theme-toggle is enabled */}}
 {{- if (not site.Params.disableThemeToggle) }}
 {{- /* theme is light */}}
 {{- if (eq site.Params.defaultTheme "light") }}
@@ -92,7 +99,19 @@
                             </svg>
                         </button>
                         {{- end }}
-                        
+                        {{- $lang := .Lang }}
+                        {{- with .Site.Home.Translations }}
+                        <ul class="lang-switch">
+                            <li>|</li>
+                            {{- range . -}}
+                            {{- if ne $lang .Lang }}
+                            <li>
+                                <a href="{{- .Permalink -}}">{{- .Lang | upper -}}</a>
+                            </li>
+                            {{- end -}}
+                            {{- end}}
+                        </ul>
+                        {{- end }}
 
                         {{- $lang := .Lang}}
                         {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
