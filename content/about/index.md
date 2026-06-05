@@ -37,10 +37,10 @@ BA diploma can be found [Here →](/docs/bak-diploma.pdf)
 
 ### Selected Achievements
 
-- Triple prize-winner, IV All-Russian Student Olympiad "Sociologist of the 21st Century" (2026): 3rd place individual ranking; Best Video Essay; Best VCIOM Analytics Report ([source](https://eusp.org/news/nikita-obrazcov-stal-trizhdy-prizyorom-olimpiady-sociolog-v-xxi-veke))
-- Shortlisted for the Crystal Penguinopithecus Award (2023) for best popular science video of the year
+- Triple prize-winner, IV All-Russian Student Olympiad "Sociologist of the 21st Century" (2026): 3rd place individual ranking; Best Video Essay; Best VCIOM Analytics Report ([source](https://eusp.org/news/nikita-obrazcov-stal-trizhdy-prizyorom-olimpiady-sociolog-v-xxi-veke)). Diploma is [Here →](/docs/sociolog.pdf)
+- Shortlisted for the Crystal Penguinopithecus Award (2023) for best popular science video of the year. 
 - First-degree diploma, HSE Olympiad for Students and Graduates in Philosophy (track: Philosophy and History of Religion), 84/100 (2018). [Certificate →](/docs/religiovedenie-hse.pdf)
-- Winner, All-Russian Olympiad in Social Studies, national level (2013)
+- Winner, All-Russian Olympiad in Social Studies, national level (2013). Diploma is here  [Here →](/docs/sociolog.pdf)
 
 ### CV
 
