@@ -6,9 +6,9 @@ description: "Conference presentations, public lectures, and video lectures by N
 ## Conference presentations
 
 **Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
-European Social Networks Conference (EUSN 2026), Norrköping, Sweden, June 2026.
+European Social Networks Conference (EUSN 2026), Norrköping, Sweden, August 2026 (preparing for presentation)
 
-EU SPb Computational Social Science conference (CSS 2026), St. Petersburg, April 2026. About the conference https://cssconference.eusp.org/
+EU SPb Computational Social Science conference (CSS 2026), St. Petersburg, April 2026. [About the conference](https://cssconference.eusp.org/)
 
 **Structural Limits of Religious Minority Resilience in Secular Society: An Agent-Based Modeling Approach**
 All-Russian Academic Conference "Studies of Religion: Past, Present, Future", Russian Religious Studies Association, online, April 2026. [My sertificate (in Russian) →](/docs/spring-2026.pdf)
