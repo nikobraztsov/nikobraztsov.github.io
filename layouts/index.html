@@ -1,0 +1,16 @@
+{{- define "main" }}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $paginator := .Paginate $pages }}
+
+{{- if site.Params.profileMode.enabled }}
+{{- partial "index_profile.html" . }}
+{{- else }}
+{{- partial "index_archives.html" . }}
+{{- end }}
+
+<div style="max-width:640px; margin:3rem auto 0; padding:0 1rem; text-align:center;">
+  <hr style="margin-bottom:2rem;">
+  {{ .Content }}
+</div>
+
+{{- end }}

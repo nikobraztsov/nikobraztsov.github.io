@@ -85,6 +85,8 @@ languages:
             url: /ru/news/
           - name: Контакты
             url: /ru/contact/
+          - name: Консультации
+            url: /ru/consult/
           - name: EN
             url: /
     menu:
