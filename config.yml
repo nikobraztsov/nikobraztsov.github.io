@@ -26,7 +26,7 @@ languages:
           - name: Talks
             url: /talks/
           - name: Texts
-            url: /Texts/
+            url: /texts/
           - name: Media
             url: /media/
           - name: News
@@ -47,7 +47,7 @@ languages:
           url: /talks/
           weight: 3
         - name: Texts
-          url: /Texts/
+          url: /texts/
           weight: 4
         - name: Media
           url: /media/
