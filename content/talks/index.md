@@ -25,6 +25,11 @@ VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025. 
 **The Popularity of Religious Chatbots as an Indicator of Religious Transformation**
 II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [My sertificate (in Russian) →](/docs/ai-culture.jpg) 
 
+**The Religiosity of Young People Today: Data and Interpretations**
+XXX International Educational Readings "Peter the Great at 350: A Secular World and Religiosity", Moscow, May 2022. [Read paper →](/texts/religiosity-en/)
+
+![описание](/images/religiosity.png)
+
 ---
 
 ## Public lectures
@@ -41,6 +46,10 @@ Moscow, May 2026.
 **What Does the Modern Person Believe? From Horoscopes to Neural Networks**
 Moscow, March 2026.
 [Lecture transcript →](/texts/lecture-moscow-20052026/)
+
+**Religious Meanings in the Harry Potter Novels**
+Tele2 Art Space, Yelagin Island, St. Petersburg, August 2023. [Read text →](/texts/potter-en/) [Video →](https://www.youtube.com/watch?v=AgXWRvpMtEc&t=1937s)
+![описание](/images/potter.png)
 
 **Pravoe Polusharie Introverta**
 Staff lecturer since 2022. 100+ lectures on world religions, Orthodox Christianity, and cultural history of religion. Available on the platform via subscription.
