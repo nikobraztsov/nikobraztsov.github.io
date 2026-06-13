@@ -109,6 +109,9 @@ languages:
         - name: Новости
           url: /ru/news/
           weight: 6
+        - name: Консультации
+          url: /ru/consult/
+          weight: 8
         - name: Контакты
           url: /ru/contact/
           weight: 7
