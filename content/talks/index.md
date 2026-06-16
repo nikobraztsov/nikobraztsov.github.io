@@ -2,7 +2,7 @@
 title: "Talks"
 description: "Conference presentations, public lectures, and video lectures by Nikita Obraztsov"
 ---
-
+ 
 ## Conference presentations
 
 **Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
@@ -33,11 +33,10 @@ XXX International Educational Readings "Peter the Great at 350: A Secular World 
 ---
 
 ## Public lectures
-
-Lectures organised by [Medio Modo](https://mediomodo.ru).
+ 
 
 **Religion Without God: Buddhism, Daoism, and Secular Humanism**
-St. Petersburg, May 2026.
+St. Petersburg, May 2026. Organised by [Medio Modo](https://mediomodo.ru).
 
 **From Discordia to the Flying Spaghetti Monster: Parody Religions in the Modern World**
 Moscow, May 2026. 
@@ -47,9 +46,16 @@ Moscow, May 2026.
 Moscow, March 2026.
 [Lecture transcript →](/texts/lecture-moscow-20052026/)
 
+**Goddesses and Their Many Faces: Why Mythological Female Images Are More Complex Than They Seem**
+Ceramania Festival (Russia's largest handmade ceramics festival), St. Petersburh, March 2026. [Announcement →](https://t.me/ceramania/8033)
+
 **Religious Meanings in the Harry Potter Novels**
 Tele2 Art Space, Yelagin Island, St. Petersburg, August 2023. [Read text →](/texts/potter-en/) [Video →](https://www.youtube.com/watch?v=AgXWRvpMtEc&t=1937s)
 ![описание](/images/potter.png)
+
+**Online-conference** 
+How Religions Answer the Question of Meaning: Finding Common Ground in Diversity
+Online conference "Buddha, Brain, and the Neurophysiology of Happiness", Tergar Meditation Centre, November 2025. Other participants included neuroscientist Richard Davidson (University of Wisconsin) and meditation master Mingyur Rinpoche. [Conference website →](https://conference.tergar.ru/)
 
 **Pravoe Polusharie Introverta**
 Staff lecturer since 2022. 100+ lectures on world religions, Orthodox Christianity, and cultural history of religion. Available on the platform via subscription.
