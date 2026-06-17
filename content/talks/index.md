@@ -49,6 +49,9 @@ Moscow, March 2026.
 **Goddesses and Their Many Faces: Why Mythological Female Images Are More Complex Than They Seem**
 Ceramania Festival (Russia's largest handmade ceramics festival), St. Petersburh, March 2026. [Announcement →](https://t.me/ceramania/8033)
 
+
+![Nikita Obraztsov lecturing on the Goddesses](/images/ceramania.jpg)
+
 **Religious Meanings in the Harry Potter Novels**
 Tele2 Art Space, Yelagin Island, St. Petersburg, August 2023. [Read text →](/texts/potter-en/) [Video →](https://www.youtube.com/watch?v=AgXWRvpMtEc&t=1937s)
 ![описание](/images/potter.png)

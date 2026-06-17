@@ -37,6 +37,19 @@ Analyzing the religious identity of Orthodox Christians in contemporary Russia, 
 
 [English translation →](/texts/belonging-without-believing-en/)
 
+---
+## Essays 
+
+Why Do Young People with Higher Education Deconvert from Religion More Often?
+
+*Essay for the course "Introduction to Analytical Sociology" Nikita Obraztsov, European University at St. Petersburg, 2025*
+[Read the article →](/docs/deconversion-en.pdf)
+
+Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Randomised Experiment
+
+*Essay for the course "Introduction to Causality" Nikita Obraztsov, European University at St. Petersburg, 2025*
+
+[Read the article →](/docs/deconversion-en.pdf)
 
 
 
