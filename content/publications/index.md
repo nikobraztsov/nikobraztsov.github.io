@@ -51,5 +51,11 @@ Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Random
 
 [Read the article →](/docs/deconversion-en.pdf)
 
+Chaves, M. (2010). Rain Dances in the Dry Season: Overcoming the Religious Congruence Fallacy. Journal for the Scientific Study of Religion, 49(1), 1–14.
+
+_Academic review written for the European University at St. Petersburg, 2025._
+
+[Read the article →](/docs/chaves-review.pdf)
+
 
 
