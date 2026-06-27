@@ -164,7 +164,6 @@ params:
 
     assets:
         disableScrollBarStyle: true
-        favicon: "favicon.svg"
 
     cover:
         hiddenInList: false
