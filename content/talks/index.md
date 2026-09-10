@@ -6,7 +6,9 @@ description: "Conference presentations, public lectures, and video lectures by N
 ## Conference presentations
 
 **Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
-European Social Networks Conference (EUSN 2026), Norrköping, Sweden, August 2026 (preparing for presentation)
+European Social Networks Conference (EUSN 2026), Norrköping, Sweden, August 2026 [Conference program →](/docs/EUSN_Program.pdf)
+
+[My slides →](/docs/EUSN.pdf)
 
 EU SPb Computational Social Science conference (CSS 2026), St. Petersburg, April 2026. [About the conference](https://cssconference.eusp.org/)
 
