@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Мифы О Религии on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%BC%D0%B8%D1%84%D1%8B-%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/</link>
+    <description>Recent content in Мифы О Религии on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BC%D0%B8%D1%84%D1%8B-%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Главный миф о религии: разбор концепции прамонотеизма</title>
+      <link>http://localhost:1313/ru/texts/primordial-ru/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/primordial-ru/</guid>
+      <description>Что такое прамонотеизм, откуда взялась эта идея, почему она привлекательна и почему этнографические данные её опровергают.</description>
+    </item>
+  </channel>
+</rss>

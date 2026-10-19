@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="ru" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Sic Mundus #1: Нейросеть как оракул — ИИ и религия | Nikita Obraztsov</title>
+<meta name="keywords" content="подкаст, ИИ, религиоведение, Sic Mundus">
+<meta name="description" content="Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.">
+<meta name="author" content="Nikita Obraztsov">
+<link rel="canonical" href="http://localhost:1313/ru/smi/podcast-sic-mundus-ru/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4821507cccb780f3ee5b4d4f05137c47589c2e420e1e6ad635dfd44d720c29cc.css" integrity="sha256-SCFQfMy3gPPuW01PBRN8R1icLkIOHmrWNd/UTXIMKcw=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="ru" href="http://localhost:1313/ru/smi/podcast-sic-mundus-ru/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/ru/smi/podcast-sic-mundus-ru/">
+  <meta property="og:site_name" content="Nikita Obraztsov">
+  <meta property="og:title" content="Sic Mundus #1: Нейросеть как оракул — ИИ и религия">
+  <meta property="og:description" content="Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.">
+  <meta property="og:locale" content="ru">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="smi">
+    <meta property="article:published_time" content="2026-09-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-09-01T00:00:00+00:00">
+    <meta property="article:tag" content="Подкаст">
+    <meta property="article:tag" content="ИИ">
+    <meta property="article:tag" content="Религиоведение">
+    <meta property="article:tag" content="Sic Mundus">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Sic Mundus #1: Нейросеть как оракул — ИИ и религия">
+<meta name="twitter:description" content="Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "СМИ",
+      "item": "http://localhost:1313/ru/smi/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Sic Mundus #1: Нейросеть как оракул — ИИ и религия",
+      "item": "http://localhost:1313/ru/smi/podcast-sic-mundus-ru/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Sic Mundus #1: Нейросеть как оракул — ИИ и религия",
+  "name": "Sic Mundus #1: Нейросеть как оракул — ИИ и религия",
+  "description": "Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.",
+  "keywords": [
+    "подкаст", "ИИ", "религиоведение", "Sic Mundus"
+  ],
+  "articleBody": "Первый выпуск подкаста Sic Mundus.\nСмотреть на YouTube →\nПервый выпуск подкаста Sic Mundus — о том, как устроен мир в его самых интересных проявлениях.\nТема выпуска: искусственный интеллект и религия. В 2026 году только ленивый не слышал об ИИ, но мало кто разбирается в том, как он реально устроен. И ещё меньше людей думали о том, как LLM-ки встраиваются в религиозную жизнь — и почему это не курьёз, а большой социальный тренд.\nКак устроена большая языковая модель Задача нейросети — предсказать следующий токен. Модель не думает, не осознаёт, не стремится к цели. Она выращивается через градиентный спуск на огромных массивах текста, и её веса — сотни миллиардов числовых параметров — непрозрачны даже для создателей. Элиезер Юдковский и Нейт Суарес описывают это так: модель не создаётся, а выращивается. Интеллект здесь — эмерджентное статистическое свойство предсказания текста.\nОтсюда проблема выравнивания (Alignment Problem): вложить в такую систему человеческие ценности надёжно невозможно. Три закона робототехники Азимова здесь просто не работают физически.\nПять типов религиозного ИИ Молитвенные приложения — Hallow, YouVersion. По сути большие библиотеки с алгоритмизацией, а не языковые модели. Чат-боты на священных текстах — Magisterium AI (католический), специализированные исламские боты. Обучены на конкретных корпусах. Симуляторы религиозных персон — Ask Jesus, Chat with God AI. Позволяют вести диалог якобы от лица Иисуса, Девы Марии, Бога. Роботы-священники — буддийский робот Mindar в Киото, Буддароид, робот Габи в Сеуле. Тупиковое направление: лапидарные ответы, нет эмпатии. Универсальные LLM — то, чем пользуется большинство: DeepSeek, ChatGPT, Claude. По данным опроса православных верующих (2026), большинство не знает о специализированных ботах и обращается к общим моделям. Почему люди доверяют ИИ в духовных вопросах Шесть механизмов: антропоморфизация и анимизм; «льстивый оракул» (модель подстраивается под пользователя); отсутствие общины и риск эхо-камеры; сакрализация непостижимого (чёрный ящик как mysterium tremendum по Рудольфу Отто); демократизация доступа (как Реформация Лютера); отсутствие стыда при общении с машиной.\nГлавный вывод LLM не уничтожают религию, но ускоряют её деинституционализацию и приватизацию. Религиозный авторитет смещается от института к распределённой сети. Это не конец религии — это её трансформация.\nSic Mundus creatus est.\n",
+  "wordCount" : "333",
+  "inLanguage": "ru",
+  "datePublished": "2026-09-01T00:00:00Z",
+  "dateModified": "2026-09-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Nikita Obraztsov"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/ru/smi/podcast-sic-mundus-ru/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nikita Obraztsov",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/ru/" accesskey="h" title="Nikita Obraztsov (Alt + H)">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18">Nikita Obraztsov</a>
+                    <div class="logo-switches">
+                        <ul class="lang-switch"><li>|</li>
+                            <li>
+                                <a href="http://localhost:1313/"
+                                    title="En"
+                                    aria-label="En">En</a>
+                            </li>
+                        </ul>
+                    </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/ru/about/" title="Обо мне">
+                    <span>Обо мне</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/publications/" title="Публикации">
+                    <span>Публикации</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/talks/" title="Выступления">
+                    <span>Выступления</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/texts/" title="Тексты">
+                    <span>Тексты</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/smi/" title="СМИ">
+                    <span>СМИ</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/news/" title="Новости">
+                    <span>Новости</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/contact/" title="Контакты">
+                    <span>Контакты</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ru/consult/" title="Консультации">
+                    <span>Консультации</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Sic Mundus #1: Нейросеть как оракул — ИИ и религия
+    </h1>
+    <div class="post-meta"><span title='2026-09-01 00:00:00 +0000 UTC'>сентября 2026</span>&nbsp;&middot;&nbsp;Nikita Obraztsov
+
+</div>
+  </header> 
+  <div class="post-content"><p><em>Первый выпуск подкаста Sic Mundus.</em></p>
+<p><em><a href="https://youtu.be/MjQHmDVDVug" target="_blank">Смотреть на YouTube →</a></em></p>
+<hr>
+<p>Первый выпуск подкаста Sic Mundus — о том, как устроен мир в его самых интересных проявлениях.</p>
+<p>Тема выпуска: искусственный интеллект и религия. В 2026 году только ленивый не слышал об ИИ, но мало кто разбирается в том, как он реально устроен. И ещё меньше людей думали о том, как LLM-ки встраиваются в религиозную жизнь — и почему это не курьёз, а большой социальный тренд.</p>
+<h2 id="как-устроена-большая-языковая-модель">Как устроена большая языковая модель</h2>
+<p>Задача нейросети — предсказать следующий токен. Модель не думает, не осознаёт, не стремится к цели. Она выращивается через градиентный спуск на огромных массивах текста, и её веса — сотни миллиардов числовых параметров — непрозрачны даже для создателей. Элиезер Юдковский и Нейт Суарес описывают это так: модель не создаётся, а выращивается. Интеллект здесь — эмерджентное статистическое свойство предсказания текста.</p>
+<p>Отсюда проблема выравнивания (Alignment Problem): вложить в такую систему человеческие ценности надёжно невозможно. Три закона робототехники Азимова здесь просто не работают физически.</p>
+<h2 id="пять-типов-религиозного-ии">Пять типов религиозного ИИ</h2>
+<ol>
+<li><strong>Молитвенные приложения</strong> — Hallow, YouVersion. По сути большие библиотеки с алгоритмизацией, а не языковые модели.</li>
+<li><strong>Чат-боты на священных текстах</strong> — Magisterium AI (католический), специализированные исламские боты. Обучены на конкретных корпусах.</li>
+<li><strong>Симуляторы религиозных персон</strong> — Ask Jesus, Chat with God AI. Позволяют вести диалог якобы от лица Иисуса, Девы Марии, Бога.</li>
+<li><strong>Роботы-священники</strong> — буддийский робот Mindar в Киото, Буддароид, робот Габи в Сеуле. Тупиковое направление: лапидарные ответы, нет эмпатии.</li>
+<li><strong>Универсальные LLM</strong> — то, чем пользуется большинство: DeepSeek, ChatGPT, Claude. По данным опроса православных верующих (2026), большинство не знает о специализированных ботах и обращается к общим моделям.</li>
+</ol>
+<h2 id="почему-люди-доверяют-ии-в-духовных-вопросах">Почему люди доверяют ИИ в духовных вопросах</h2>
+<p>Шесть механизмов: антропоморфизация и анимизм; «льстивый оракул» (модель подстраивается под пользователя); отсутствие общины и риск эхо-камеры; сакрализация непостижимого (чёрный ящик как mysterium tremendum по Рудольфу Отто); демократизация доступа (как Реформация Лютера); отсутствие стыда при общении с машиной.</p>
+<h2 id="главный-вывод">Главный вывод</h2>
+<p>LLM не уничтожают религию, но ускоряют её деинституционализацию и приватизацию. Религиозный авторитет смещается от института к распределённой сети. Это не конец религии — это её трансформация.</p>
+<p><em>Sic Mundus creatus est.</em></p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/ru/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/">Подкаст</a></li>
+      <li><a href="http://localhost:1313/ru/tags/%D0%B8%D0%B8/">ИИ</a></li>
+      <li><a href="http://localhost:1313/ru/tags/%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/">Религиоведение</a></li>
+      <li><a href="http://localhost:1313/ru/tags/sic-mundus/">Sic Mundus</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 Nikita Obraztsov</span> · 
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'копировать';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'скопировано!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'копировать';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script></body>
+</html>

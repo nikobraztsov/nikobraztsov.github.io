@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community | Nikita Obraztsov</title>
+<meta name="keywords" content="texts, religious studies">
+<meta name="description" content="Empty">
+<meta name="author" content="Nikita Obraztsov">
+<link rel="canonical" href="http://localhost:1313/texts/seminar-en/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4821507cccb780f3ee5b4d4f05137c47589c2e420e1e6ad635dfd44d720c29cc.css" integrity="sha256-SCFQfMy3gPPuW01PBRN8R1icLkIOHmrWNd/UTXIMKcw=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/texts/seminar-en/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/texts/seminar-en/">
+  <meta property="og:site_name" content="Nikita Obraztsov">
+  <meta property="og:title" content="Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community">
+  <meta property="og:description" content="Empty">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="texts">
+    <meta property="article:published_time" content="2026-06-24T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-06-24T00:00:00+00:00">
+    <meta property="article:tag" content="Texts">
+    <meta property="article:tag" content="Religious Studies">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community">
+<meta name="twitter:description" content="Empty">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Lectures",
+      "item": "http://localhost:1313/texts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community",
+      "item": "http://localhost:1313/texts/seminar-en/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community",
+  "name": "Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community",
+  "description": "Empty",
+  "keywords": [
+    "texts", "religious studies"
+  ],
+  "articleBody": "Here is the text version of my talk on Seminar at the ML PSA Lab.\nOriginal announcement is here\nDear colleagues, thank you very much for the invitation. It is a great honor and an excellent opportunity to participate in this seminar. My name is Nikita Obraztsov.\nI will briefly outline my background: my first degree is in law (I studied in Moscow at the Kutafin Moscow State Law University). After studying law, I made a sharp turn and moved into religious studies because I realized that this is what truly fascinates me. I completed my master’s degree at St. Petersburg State University in 2020, where I focused on the “Brights” movement using qualitative methods—specifically, conducting in-depth interviews. At the time, we didn’t have quantitative or computational methods in our program. Then, in 2025, I enrolled in the European University to study computational sociology, and right now, I have just completed my first year of the master’s program.\nI am working on several parallel tracks. One of my main interests is modern secularization, contemporary freethought, and atheism, as well as the history of freethought as a kind of secondary academic hobby (researching lesser-known freethinkers like John Toland, etc.). The main focus of my interest is secularization processes, secularization theory, and alternative theories—which of them work better, which ones can be tested, and so on.\nThe Problem: Why Does the Secularization Mechanism Fail? When I was thinking about how to structure my coursework and research, I wanted to use methods most relevant to the topic. That’s when the idea for this project was born. The inspiration came from looking at the Amish—these wonderful people in hats, with long beards and no mustaches. They live primarily in Pennsylvania and several other US states. As much as possible, they remain an isolated group. They live in closed communities, speak a specific dialect of Dutch/German, and are often seen as an absolute exception, an extremum in our modern secularizing world.\nSimilar observations can be made regarding Old Believer communities in Russia or ultra-Orthodox Jewish communities in the US (for instance, in New York). If we look at the Amish, over the last 25 years, their population has doubled. And this isn’t because they are attracting new converts—they simply don’t do that. It happens entirely through high birth rates and successful religious transmission. The Amish even have a practice called Rumspringa, where adolescents can take an academic leave from the community, go out into the secular world, travel, and do whatever they want. Yet, even with this option to leave, they maintain their religiosity.\nThis raises a research question. At the macro-level, secularization theory posits that modernization increases existential security, which functionally decreases the need for religion (as noted by Norris and Inglehart). Yet, orthodox minorities persist. At the micro-level, religious decline happens through generational turnover—religion is incompletely transmitted from parents to children. Transmission is the key mechanism; deconversion is secondary. The problem with this “Big Theory” is that while the sequence of stages is described, the underlying generative causal mechanism remains elusive.\nTheoretical Basis: Complex Contagion and Plausibility Structures Under what structural conditions does a religious minority survive without secularizing, even as the surrounding society secularizes? I searched for the answer by combining Agent-Based Modeling (ABM) and Social Network Analysis (SNA).\nThe theoretical basis relies on two key ideas:\nPeter Berger’s “Sacred Canopy” (1967) and Plausibility Structure: Faith remains plausible only as long as it is supported by a consistent social environment. Contact with people of other faiths or secular individuals undermines this canopy. Lawrence Iannaccone’s “Why Strict Churches are Strong” (1994): Strictness and exclusivity filter out free-riders and raise collective commitment. Both of these propositions can be explained using SNA, specifically through the concept of Complex Contagion (Centola \u0026 Macy, 2007). Religious commitment is highly productive to view as a complex contagion. Adopting or maintaining it requires reinforcement from multiple sources; one contact is not enough. The structural consequence is that long “weak ties” (bridges) transfer simple contagions (like a virus or a rumor) but actually weaken complex contagions. A bridge stops complex contagion because the node on the other end only has one infected neighbor. Therefore, a segregated topology preserves religiosity and acts as a buffer against secularization under the pressure of existential security.\nWhy ABM + SNA? Why did I choose this specific methodological approach? In observational data, we face massive confounding. Segregated and integrated communities differ in income, urbanization, and education. A cross-sectional regression provides mixed estimates, and honestly, good observational data on real communities is basically nonexistent.\nA virtual ABM experiment keeps everything constant and varies only one structural parameter: the probability of intergroup ties. This gives us pure identification of the topological effect.\nThere is a brilliant empirical study that justifies this approach: “Segregation in Religion Networks” based on Weibo data (Hu et al., 2018). They analyzed 6,875 believers across four traditions. Interestingly, they translated Muslims as “Islamists,” which is a funny terminology issue, but the data is solid. They found that believers strongly prefer to form ties with their own faith, creating isolated communities. The assortativity index was $0.973$. Only $1.6%$ of ties connected believers of different faiths.\nExperimental Design: The Stochastic Block Model (SBM) I took $p_{cross}$ (the probability of a cross-group tie) as my key variable. I generated a new graph at each level of $p_{cross}$ (with 10 repetitions using different seeds) and ran the same dynamics on each graph.\nThe network architecture is an exogenous Stochastic Block Model (SBM). I used SBM because I am trying to isolate an effect in a segregated community. We have two blocks:\nSecular block: 400 nodes (the majority). Religious block: 100 nodes (the minority). To control for methodology, the intra-block density ($p_{in}$) is fixed identically at $0.15$ for both blocks. Equal internal density eliminates confounding; any difference in outcomes cannot be attributed to one block being denser than the other. The cross-probability ($p_{cross}$) ranges from $0.001$ (nearly complete segregation, like an Old Believer enclave) to $0.15$ (integration).\nStructural Metrics and the 56x Phenomenon When we look at the structural metrics across this gradient:\nBlock Assortativity drops from $0.974$ down to $\\approx 0$. Ego-support (the proportion of co-religionists among neighbors) drops from $0.98$ to $0.20$. Cross-group ties increase from $0.3%$ to $32%$. The most fascinating metric is the betweenness of cross-group edges. In the highly segregated regime ($p_{cross} = 0.001$), these rare bridges carry up to 56 times more betweenness centrality than internal edges. Following Granovetter, weak ties spread information effectively, but for complex contagions, these exact same bridges serve as channels for assimilation pressure. As $p_{cross}$ rises to $0.10$, this structural advantage disappears entirely (ratio drops to $1.0x$).\nThe Three Mechanisms of the Model I embedded three mechanisms into the network dynamics:\nExistential Security: Modernization reduces religiosity. This is driven externally. Social Support Buffer: Complex contagion at work. Reinforcement by co-religionists lowers the effective rate of secularization. This is the mechanism theoretically linked to CREDs (Credibility-Enhancing Displays, Henrich 2009). Bounded Confidence (Deffuant Model): Opinion dynamics over edges with a trust threshold. It’s a pairwise influence where the majority ultimately wins (assimilation). Results: Mechanism Ablation and Bistability When I ran an ablation study to see which mechanism does what, the results were definitive. The social buffer is the only protective mechanism. If you remove the buffer, final religiosity ($R$) collapses from $0.45$ to $0.08$. The Deffuant mechanism acts purely as an assimilation force. Furthermore, the “Reference” scenario (no network mechanisms) remains flat at $0.40$ regardless of topology. This proves that the effect of segregation requires an active mechanism on the network to function.\nThe simulation also revealed a Tipping Point. The topology gradient creates a bistable tipping regime with wide error bands around $p_{cross} \\approx 0.06$. At this threshold, social support drops below $0.40$, and the bistable transition collapses. This aligns with threshold models of collective behavior (Granovetter 1978, Schelling 1971).\nBeating the Confounding: The Generative Approach This brings me to the central identification problem in network sociology: homophily vs. influence. In observational data, the similarity between connected nodes can be explained either by influence (they interact, so they become similar) or by homophily (they are similar, so they connect). They look exactly the same in cross-sectional data.\nMy generative approach completely bypasses this. The structure (SBM) and the influence mechanisms are defined separately. The correlation between a tie and similarity in $R$ does not confound the effect because the problem is eliminated by design. This fits perfectly within Analytical Sociology (Coleman’s boat)—we specify mechanisms as response functions to neighbor states without requiring the agents to “read minds” (Generative Sufficiency).\nLimitations Of course, this is a proof-of-concept, and I must be transparent about its limitations:\nStatic Network: The graph does not co-evolve. I chose this for the pure identification of topology. Exogenous Modernization: Security grows from the outside without feedback from the network. SBM Degrees: Poisson tails instead of heavy tails. Real networks are more clustered. Homogeneous Agents: No heterogeneity in thresholds, which would otherwise smooth out the transition. Scope Limit: This model is strictly about the preservation of religion under secular pressure, not about the spread or origins of religion. A Closing Anecdote To wrap up, I want to share a brief story about interdisciplinary friction. My first public presentation of this ABM was at a religious studies conference in April. I am a religious scholar, I go to these congresses. I was placed in the “Anthropology and Sociology of Religion” section. The colleague speaking right before me was presenting on olfaction in religion—how religion transmits signals through the smell of incense.\nThen I log on, load up my slides on Stochastic Block Models, Agent-Based Modeling, and differential equations. When I finished, there was just dead, grave silence. One colleague gently criticized it, saying it had nothing to do with reality, and I just accepted it. It perfectly illustrates the gap we need to bridge between computational methods and the traditional humanities.\nThank you very much for your attention. I am looking forward to your questions and advice, particularly regarding how to expand the structural metrics and endogenize the network.\n",
+  "wordCount" : "1682",
+  "inLanguage": "en",
+  "datePublished": "2026-06-24T00:00:00Z",
+  "dateModified": "2026-06-24T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Nikita Obraztsov"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/texts/seminar-en/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nikita Obraztsov",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Nikita Obraztsov (Alt + H)">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18">Nikita Obraztsov</a>
+                    <div class="logo-switches">
+                        <ul class="lang-switch"><li>|</li>
+                            <li>
+                                <a href="http://localhost:1313/ru/"
+                                    title="Ru"
+                                    aria-label="Ru">Ru</a>
+                            </li>
+                        </ul>
+                    </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/publications/" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/talks/" title="Talks">
+                    <span>Talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/texts/" title="Texts">
+                    <span>Texts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/media/" title="Media">
+                    <span>Media</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/news/" title="News">
+                    <span>News</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/contact/" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community
+    </h1>
+    <div class="post-meta"><span title='2026-06-24 00:00:00 +0000 UTC'>June 2026</span>&nbsp;&middot;&nbsp;Nikita Obraztsov
+
+</div>
+  </header> 
+  <div class="post-content"><p>Here is the text version of my talk on Seminar at the ML PSA Lab.</p>
+<p><a href="https://anr.hse.ru/en/announcements/1166847041.html" target="_blank">Original announcement is here</a></p>
+<p><strong>Dear colleagues, thank you very much for the invitation. It is a great honor and an excellent opportunity to participate in this seminar. My name is Nikita Obraztsov.</strong></p>
+<p>I will briefly outline my background: my first degree is in law (I studied in Moscow at the Kutafin Moscow State Law University). After studying law, I made a sharp turn and moved into religious studies because I realized that this is what truly fascinates me. I completed my master&rsquo;s degree at St. Petersburg State University in 2020, where I focused on the &ldquo;Brights&rdquo; movement using qualitative methods—specifically, conducting in-depth interviews. At the time, we didn&rsquo;t have quantitative or computational methods in our program. Then, in 2025, I enrolled in the European University to study computational sociology, and right now, I have just completed my first year of the master&rsquo;s program.</p>
+<p>I am working on several parallel tracks. One of my main interests is modern secularization, contemporary freethought, and atheism, as well as the history of freethought as a kind of secondary academic hobby (researching lesser-known freethinkers like John Toland, etc.). The main focus of my interest is secularization processes, secularization theory, and alternative theories—which of them work better, which ones can be tested, and so on.</p>
+<h3 id="the-problem-why-does-the-secularization-mechanism-fail">The Problem: Why Does the Secularization Mechanism Fail?</h3>
+<p>When I was thinking about how to structure my coursework and research, I wanted to use methods most relevant to the topic. That’s when the idea for this project was born. The inspiration came from looking at the Amish—these wonderful people in hats, with long beards and no mustaches. They live primarily in Pennsylvania and several other US states. As much as possible, they remain an isolated group. They live in closed communities, speak a specific dialect of Dutch/German, and are often seen as an absolute exception, an extremum in our modern secularizing world.</p>
+<p>Similar observations can be made regarding Old Believer communities in Russia or ultra-Orthodox Jewish communities in the US (for instance, in New York). If we look at the Amish, over the last 25 years, their population has doubled. And this isn&rsquo;t because they are attracting new converts—they simply don&rsquo;t do that. It happens entirely through high birth rates and successful religious transmission. The Amish even have a practice called <em>Rumspringa</em>, where adolescents can take an academic leave from the community, go out into the secular world, travel, and do whatever they want. Yet, even with this option to leave, they maintain their religiosity.</p>
+<p>This raises a research question. At the macro-level, secularization theory posits that modernization increases existential security, which functionally decreases the need for religion (as noted by Norris and Inglehart). Yet, orthodox minorities persist. At the micro-level, religious decline happens through generational turnover—religion is incompletely transmitted from parents to children. Transmission is the key mechanism; deconversion is secondary. The problem with this &ldquo;Big Theory&rdquo; is that while the sequence of stages is described, the underlying generative causal mechanism remains elusive.</p>
+<h3 id="theoretical-basis-complex-contagion-and-plausibility-structures">Theoretical Basis: Complex Contagion and Plausibility Structures</h3>
+<p>Under what structural conditions does a religious minority survive without secularizing, even as the surrounding society secularizes? I searched for the answer by combining Agent-Based Modeling (ABM) and Social Network Analysis (SNA).</p>
+<p>The theoretical basis relies on two key ideas:</p>
+<ol>
+<li><strong>Peter Berger&rsquo;s &ldquo;Sacred Canopy&rdquo; (1967) and Plausibility Structure:</strong> Faith remains plausible only as long as it is supported by a consistent social environment. Contact with people of other faiths or secular individuals undermines this canopy.</li>
+<li><strong>Lawrence Iannaccone&rsquo;s &ldquo;Why Strict Churches are Strong&rdquo; (1994):</strong> Strictness and exclusivity filter out free-riders and raise collective commitment.</li>
+</ol>
+<p>Both of these propositions can be explained using SNA, specifically through the concept of <strong>Complex Contagion</strong> (Centola &amp; Macy, 2007). Religious commitment is highly productive to view as a complex contagion. Adopting or maintaining it requires reinforcement from multiple sources; one contact is not enough. The structural consequence is that long &ldquo;weak ties&rdquo; (bridges) transfer simple contagions (like a virus or a rumor) but actually weaken complex contagions. A bridge stops complex contagion because the node on the other end only has one infected neighbor. Therefore, a segregated topology preserves religiosity and acts as a buffer against secularization under the pressure of existential security.</p>
+<h3 id="why-abm--sna">Why ABM + SNA?</h3>
+<p>Why did I choose this specific methodological approach? In observational data, we face massive confounding. Segregated and integrated communities differ in income, urbanization, and education. A cross-sectional regression provides mixed estimates, and honestly, good observational data on real communities is basically nonexistent.</p>
+<p>A virtual ABM experiment keeps everything constant and varies only one structural parameter: the probability of intergroup ties. This gives us pure identification of the topological effect.</p>
+<p>There is a brilliant empirical study that justifies this approach: &ldquo;Segregation in Religion Networks&rdquo; based on Weibo data (Hu et al., 2018). They analyzed 6,875 believers across four traditions. Interestingly, they translated Muslims as &ldquo;Islamists,&rdquo; which is a funny terminology issue, but the data is solid. They found that believers strongly prefer to form ties with their own faith, creating isolated communities. The assortativity index was $0.973$. Only $1.6%$ of ties connected believers of different faiths.</p>
+<h3 id="experimental-design-the-stochastic-block-model-sbm">Experimental Design: The Stochastic Block Model (SBM)</h3>
+<p>I took $p_{cross}$ (the probability of a cross-group tie) as my key variable. I generated a new graph at each level of $p_{cross}$ (with 10 repetitions using different seeds) and ran the same dynamics on each graph.</p>
+<p>The network architecture is an exogenous Stochastic Block Model (SBM). I used SBM because I am trying to isolate an effect in a segregated community. We have two blocks:</p>
+<ul>
+<li><strong>Secular block:</strong> 400 nodes (the majority).</li>
+<li><strong>Religious block:</strong> 100 nodes (the minority).</li>
+</ul>
+<p>To control for methodology, the intra-block density ($p_{in}$) is fixed identically at $0.15$ for both blocks. Equal internal density eliminates confounding; any difference in outcomes cannot be attributed to one block being denser than the other. The cross-probability ($p_{cross}$) ranges from $0.001$ (nearly complete segregation, like an Old Believer enclave) to $0.15$ (integration).</p>
+<h3 id="structural-metrics-and-the-56x-phenomenon">Structural Metrics and the 56x Phenomenon</h3>
+<p>When we look at the structural metrics across this gradient:</p>
+<ul>
+<li><strong>Block Assortativity</strong> drops from $0.974$ down to $\approx 0$.</li>
+<li><strong>Ego-support</strong> (the proportion of co-religionists among neighbors) drops from $0.98$ to $0.20$.</li>
+<li><strong>Cross-group ties</strong> increase from $0.3%$ to $32%$.</li>
+</ul>
+<p>The most fascinating metric is the <strong>betweenness of cross-group edges</strong>. In the highly segregated regime ($p_{cross} = 0.001$), these rare bridges carry up to <strong>56 times</strong> more betweenness centrality than internal edges. Following Granovetter, weak ties spread information effectively, but for complex contagions, these exact same bridges serve as channels for assimilation pressure. As $p_{cross}$ rises to $0.10$, this structural advantage disappears entirely (ratio drops to $1.0x$).</p>
+<h3 id="the-three-mechanisms-of-the-model">The Three Mechanisms of the Model</h3>
+<p>I embedded three mechanisms into the network dynamics:</p>
+<ol>
+<li><strong>Existential Security:</strong> Modernization reduces religiosity. This is driven externally.</li>
+<li><strong>Social Support Buffer:</strong> Complex contagion at work. Reinforcement by co-religionists lowers the effective rate of secularization. This is the mechanism theoretically linked to CREDs (Credibility-Enhancing Displays, Henrich 2009).</li>
+<li><strong>Bounded Confidence (Deffuant Model):</strong> Opinion dynamics over edges with a trust threshold. It&rsquo;s a pairwise influence where the majority ultimately wins (assimilation).</li>
+</ol>
+<h3 id="results-mechanism-ablation-and-bistability">Results: Mechanism Ablation and Bistability</h3>
+<p>When I ran an ablation study to see which mechanism does what, the results were definitive. The social buffer is the <em>only</em> protective mechanism. If you remove the buffer, final religiosity ($R$) collapses from $0.45$ to $0.08$. The Deffuant mechanism acts purely as an assimilation force. Furthermore, the &ldquo;Reference&rdquo; scenario (no network mechanisms) remains flat at $0.40$ regardless of topology. This proves that the effect of segregation requires an active mechanism on the network to function.</p>
+<p>The simulation also revealed a <strong>Tipping Point</strong>. The topology gradient creates a bistable tipping regime with wide error bands around $p_{cross} \approx 0.06$. At this threshold, social support drops below $0.40$, and the bistable transition collapses. This aligns with threshold models of collective behavior (Granovetter 1978, Schelling 1971).</p>
+<h3 id="beating-the-confounding-the-generative-approach">Beating the Confounding: The Generative Approach</h3>
+<p>This brings me to the central identification problem in network sociology: homophily vs. influence. In observational data, the similarity between connected nodes can be explained either by influence (they interact, so they become similar) or by homophily (they are similar, so they connect). They look exactly the same in cross-sectional data.</p>
+<p>My generative approach completely bypasses this. The structure (SBM) and the influence mechanisms are defined separately. The correlation between a tie and similarity in $R$ does not confound the effect because the problem is eliminated by design. This fits perfectly within Analytical Sociology (Coleman&rsquo;s boat)—we specify mechanisms as response functions to neighbor states without requiring the agents to &ldquo;read minds&rdquo; (Generative Sufficiency).</p>
+<h3 id="limitations">Limitations</h3>
+<p>Of course, this is a proof-of-concept, and I must be transparent about its limitations:</p>
+<ol>
+<li><strong>Static Network:</strong> The graph does not co-evolve. I chose this for the pure identification of topology.</li>
+<li><strong>Exogenous Modernization:</strong> Security grows from the outside without feedback from the network.</li>
+<li><strong>SBM Degrees:</strong> Poisson tails instead of heavy tails. Real networks are more clustered.</li>
+<li><strong>Homogeneous Agents:</strong> No heterogeneity in thresholds, which would otherwise smooth out the transition.</li>
+<li><strong>Scope Limit:</strong> This model is strictly about the <em>preservation</em> of religion under secular pressure, not about the spread or origins of religion.</li>
+</ol>
+<h3 id="a-closing-anecdote">A Closing Anecdote</h3>
+<p>To wrap up, I want to share a brief story about interdisciplinary friction. My first public presentation of this ABM was at a religious studies conference in April. I am a religious scholar, I go to these congresses. I was placed in the &ldquo;Anthropology and Sociology of Religion&rdquo; section. The colleague speaking right before me was presenting on <em>olfaction</em> in religion—how religion transmits signals through the smell of incense.</p>
+<p>Then I log on, load up my slides on Stochastic Block Models, Agent-Based Modeling, and differential equations. When I finished, there was just dead, grave silence. One colleague gently criticized it, saying it had nothing to do with reality, and I just accepted it. It perfectly illustrates the gap we need to bridge between computational methods and the traditional humanities.</p>
+<p>Thank you very much for your attention. I am looking forward to your questions and advice, particularly regarding how to expand the structural metrics and endogenize the network.</p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/texts/">Texts</a></li>
+      <li><a href="http://localhost:1313/tags/religious-studies/">Religious Studies</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 Nikita Obraztsov</span> · 
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script></body>
+</html>

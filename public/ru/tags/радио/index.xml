@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Радио on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE/</link>
+    <description>Recent content in Радио on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Религия без Бога: буддизм, даосизм и светский гуманизм</title>
+      <link>http://localhost:1313/ru/smi/talks-mayak-religions-ru/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/talks-mayak-religions-ru/</guid>
+      <description>Выступление в программе «Физики и лирики», Радио Маяк, лето 2026.</description>
+    </item>
+    <item>
+      <title>В чём отличие современного атеизма</title>
+      <link>http://localhost:1313/ru/smi/mayak-june-ru/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/mayak-june-ru/</guid>
+      <description>Выступление в программе «Физики и лирики», Радио Маяк, 17 июня 2026 года.</description>
+    </item>
+    <item>
+      <title>Радио Маяк: как нейросети меняют религиозный опыт</title>
+      <link>http://localhost:1313/ru/smi/mayak-2026-1/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/mayak-2026-1/</guid>
+      <description>Никита Образцов в программе «Физики и лирики», Радио Маяк</description>
+    </item>
+    <item>
+      <title>Радио Град Петров: приметы — наука или суеверие?</title>
+      <link>http://localhost:1313/ru/smi/grad-petrov/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/grad-petrov/</guid>
+      <description>Программа «Быть современником», РадиоГрад Петров</description>
+    </item>
+  </channel>
+</rss>

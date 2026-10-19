@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Социология Религии on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/</link>
+    <description>Recent content in Социология Религии on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Many Atheists Are There — and How Do You Count Them</title>
+      <link>http://localhost:1313/texts/atheists-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/atheists-2020/</guid>
+      <description>A breakdown of a scientific paper on the methodology of counting atheists in the United States. Why direct surveys give 3% and indirect methods yield up to 32%.</description>
+    </item>
+  </channel>
+</rss>

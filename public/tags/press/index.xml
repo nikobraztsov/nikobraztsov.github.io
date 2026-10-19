@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Press on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/press/</link>
+    <description>Recent content in Press on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/press/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forbes Russia: Stability, Silence, Community, and Psychotherapy — What Young People Are Looking for in Religion</title>
+      <link>http://localhost:1313/media/forbes-en/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/forbes-en/</guid>
+      <description>Expert commentary for Forbes Young on Gen Z religiosity, patchwork faith, and the compensatory appeal of religious communities.</description>
+    </item>
+    <item>
+      <title>Stability, Silence, Community, and Psychotherapy: What Young People Are Looking for in Religion</title>
+      <link>http://localhost:1313/texts/forbes-text-en/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/forbes-text-en/</guid>
+      <description>English translation of a Forbes Young article by Elena Strelkova. On Gen Z religiosity in Russia and globally, featuring expert commentary.</description>
+    </item>
+    <item>
+      <title>Izvestia: Book of the Week — Religions of the World</title>
+      <link>http://localhost:1313/media/izvestia-en/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/izvestia-en/</guid>
+      <description>Book review by Lidia Maslova in Izvestia</description>
+    </item>
+    <item>
+      <title>Sobaka.ru: How to Spot Conspiracy Theories and Pseudoscience</title>
+      <link>http://localhost:1313/media/sobaka-en/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/sobaka-en/</guid>
+      <description>Expert commentary for Sobaka.ru</description>
+    </item>
+  </channel>
+</rss>

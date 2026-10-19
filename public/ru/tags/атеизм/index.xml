@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Атеизм on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%B0%D1%82%D0%B5%D0%B8%D0%B7%D0%BC/</link>
+    <description>Recent content in Атеизм on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B0%D1%82%D0%B5%D0%B8%D0%B7%D0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>В чём отличие современного атеизма</title>
+      <link>http://localhost:1313/ru/smi/mayak-june-ru/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/mayak-june-ru/</guid>
+      <description>Выступление в программе «Физики и лирики», Радио Маяк, 17 июня 2026 года.</description>
+    </item>
+    <item>
+      <title>Разумный дизайн — не наука. Дело Китцмиллер против школьного округа Довер</title>
+      <link>http://localhost:1313/ru/texts/dover-ru/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/dover-ru/</guid>
+      <description>Разбор важнейшего судебного процесса в истории американского образования — дела Китцмиллер против школьного округа Довер (2005). Демаркация науки, креационизм и Первая поправка.</description>
+    </item>
+    <item>
+      <title>О религии, атеизме и науке: интервью для канала «Трикстер»</title>
+      <link>http://localhost:1313/ru/texts/trickster-interview-ru/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/trickster-interview-ru/</guid>
+      <description>Интервью для канала Александра Быданцева. О религиоведении как науке, движении Brights, агностицизме, сциентизме и границах научного метода.</description>
+    </item>
+    <item>
+      <title>Агностицизм: между верой и неверием</title>
+      <link>http://localhost:1313/ru/texts/agnosticism-ru-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/agnosticism-ru-2021/</guid>
+      <description>Что такое агностицизм на самом деле, чем он отличается от атеизма и скептицизма, и почему Бертран Рассел называл себя агностиком в кругу коллег, а для широкой аудитории — атеистом.</description>
+    </item>
+  </channel>
+</rss>

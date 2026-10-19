@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Интервью on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/</link>
+    <description>Recent content in Интервью on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Подкаст СПИЧ (Литрес): Что такое религия и как её создать</title>
+      <link>http://localhost:1313/ru/smi/litres-speech-ru/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/litres-speech-ru/</guid>
+      <description>Интервью для подкаста Литреса о природе религии, квазирелигиях, трансгуманизме, ИИ в духовной жизни и о том, что нужно для создания новой религии.</description>
+    </item>
+    <item>
+      <title>Интервью для кафедры религиоведения СПбГУ</title>
+      <link>http://localhost:1313/ru/smi/spbu-ru/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/spbu-ru/</guid>
+      <description>Дал интервью своей альма-матер. Поговорили о популяризации науки, смене профессии и хороших книгах.</description>
+    </item>
+    <item>
+      <title>Интервью Трикстеру: О религии, атеизме и науке</title>
+      <link>http://localhost:1313/ru/smi/trikster-ru/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/trikster-ru/</guid>
+      <description>Интервью для канала Александра Быданцева (Трикстер) на Яндекс Дзен.</description>
+    </item>
+    <item>
+      <title>О религии, атеизме и науке: интервью для канала «Трикстер»</title>
+      <link>http://localhost:1313/ru/texts/trickster-interview-ru/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/trickster-interview-ru/</guid>
+      <description>Интервью для канала Александра Быданцева. О религиоведении как науке, движении Brights, агностицизме, сциентизме и границах научного метода.</description>
+    </item>
+  </channel>
+</rss>

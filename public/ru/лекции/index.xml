@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Лекции on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/</link>
+    <description>Recent content in Лекции on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Пародийные религии: от Дискордии до Летающего Макаронного Монстра</title>
+      <link>http://localhost:1313/ru/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/parody-religions-ru/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/parody-religions-ru/</guid>
+      <description>Расшифровка публичной лекции, Москва, март 2026. О социологии пародийной религиозности — от пастафарианства до дискордианства и Церкви СабГения.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Philosophy on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does It Mean to Be a Rational Person?</title>
+      <link>http://localhost:1313/texts/rationality-en/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/rationality-en/</guid>
+      <description>Based on an appearance on the Pascal&amp;#39;s Wager podcast. On the nature of rationality, its limits, astrology, and why rationality is a tool rather than a sacred cow.</description>
+    </item>
+    <item>
+      <title>Benedict Spinoza: Heretic, Lens Grinder, and God as Substance</title>
+      <link>http://localhost:1313/texts/spinoza-en/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/spinoza-en/</guid>
+      <description>On the life and philosophy of Spinoza: excommunication from the synagogue, pantheism, the Ethics, and why Einstein invoked his name when asked about God.</description>
+    </item>
+    <item>
+      <title>Agnosticism: Between Belief and Unbelief</title>
+      <link>http://localhost:1313/texts/agnosticism-en-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/agnosticism-en-2021/</guid>
+      <description>What agnosticism actually is, how it differs from atheism and scepticism, and why Bertrand Russell called himself an agnostic among colleagues but an atheist for public audiences.</description>
+    </item>
+  </channel>
+</rss>

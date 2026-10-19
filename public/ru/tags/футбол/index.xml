@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Футбол on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/</link>
+    <description>Recent content in Футбол on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Футбол как квазирелигия: научный анализ</title>
+      <link>http://localhost:1313/ru/texts/football-ru/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/football-ru/</guid>
+      <description>Почему Месси называют богом, что общего у футбола с религией и является ли футбол религией на самом деле. Разбор с позиций религиоведения.</description>
+    </item>
+  </channel>
+</rss>

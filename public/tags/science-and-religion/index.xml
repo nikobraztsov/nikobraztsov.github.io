@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Science and Religion on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/science-and-religion/</link>
+    <description>Recent content in Science and Religion on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/science-and-religion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feynman on Science, Religion, and Doubt</title>
+      <link>http://localhost:1313/texts/feynman-en/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/feynman-en/</guid>
+      <description>A reading of The Meaning of It All. Why scientists tend not to believe, what NOMA gets right, and where Feynman goes wrong on religion.</description>
+    </item>
+    <item>
+      <title>Intelligent Design Is Not Science: The Kitzmiller v. Dover Case</title>
+      <link>http://localhost:1313/texts/dover-en/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/dover-en/</guid>
+      <description>A close reading of one of the most significant court cases in American educational history — Kitzmiller v. Dover Area School District (2005). Science, creationism, and the First Amendment.</description>
+    </item>
+  </channel>
+</rss>

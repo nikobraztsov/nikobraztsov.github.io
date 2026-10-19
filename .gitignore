@@ -1,5 +1,20 @@
-# Hugo build artifacts
-public/
-resources/
-.hugo_build.lock
-.obsidian/
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/
+
+# Rendered output
+output/*.html
+!output/.gitkeep
+
+# Data
+data/**/*.dta
+data/**/*.csv
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

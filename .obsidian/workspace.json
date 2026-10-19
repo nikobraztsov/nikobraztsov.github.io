@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "bc6eb0484f3fa328",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db352cacb11cf59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4c3c9d0afc41857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/news/news-rro-congress-en.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "news-rro-congress-en"
+            }
+          },
+          {
+            "id": "6f46e818727f14f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content-ru/news/news-rro-congress-ru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "news-rro-congress-ru"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b82f5c8a9332673b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb5a7fe36bdf82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8de57ec7f852a74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7fd3a4b229a34f45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atheists",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6ddb0f67c99a785a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81f3dac5ca7f0eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a69e06540620f4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85da20975f1fe9c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/news/lecture-religionwithoutgod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для lecture-religionwithoutgod"
+            }
+          },
+          {
+            "id": "ddeff146120ce01c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/news/lecture-religionwithoutgod.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из lecture-religionwithoutgod"
+            }
+          },
+          {
+            "id": "71215d4cbebcf15f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "caf13009b41861f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "71bf31fc3f3c64f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/news/lecture-religionwithoutgod.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура lecture-religionwithoutgod"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6f46e818727f14f7",
+  "lastOpenFiles": [
+    "docs/religiosity-slides.pdf 1.md",
+    "content/news/news-rro-congress-en.md",
+    "content-ru/news/news-rro-congress-ru.md",
+    "docs/religiosity-slides.pdf.md",
+    "content-ru/news/conference-eusp-2026-ru.md",
+    "static/images/nikita-presentation.jpg",
+    "_templates/img.md",
+    "content/news/olimpiad-2026-en.md",
+    "_templates/pdf-link.md",
+    "static/docs/religiosity-slides.pdf",
+    "content-ru/news/mayak-new-transgumanism.md",
+    "public/ru/news/mayak-new-transgumanism/index.html",
+    "public/ru/news/mayak-new-transgumanism",
+    "content-ru/smi/mayak-transgumanism.md",
+    "public/ru/smi/mayak-transgumanism/index.html",
+    "public/ru/smi/mayak-transgumanism",
+    "content-ru/smi/_index.md",
+    "content-ru/smi/pingvinopitec-2023-ru.md",
+    "content-ru/smi/mayak-2026-1.md",
+    "content-ru/smi/mayak-2026.md",
+    "content-ru/smi/grad-petrov.md",
+    "content-ru/news/Круглый стол.md",
+    "public/ru/smi/deepseek_markdown_20261013_5f870d/index.html",
+    "public/ru/smi/deepseek_markdown_20261013_5f870d",
+    "public/ru/news/deepseek_markdown_20261013_f219bb/index.html",
+    "public/ru/news/deepseek_markdown_20261013_f219bb",
+    "content-ru/news/_index.md",
+    "content-ru/news/Новости Пушкина.md",
+    "content-ru/news/forbes-news-ru.md",
+    "content-ru/news/olimpiad-2026-ru.md",
+    "content-ru/news/news-tergar-ru.md",
+    "content-ru/news/news-mediomodo-spb-ru.md",
+    "content-ru/news/news-mediomodo-msk-ru.md",
+    "content-ru/news/news-mayak-ru.md",
+    "content-ru/news/news-mayak-religions-ru.md",
+    "content-ru/news/news-eusn-ru.md",
+    "public/ru/news/круглый-стол/index.html",
+    "public/Favicon.svg",
+    "static/Favicon.svg",
+    "public/Logo.svg",
+    "static/Logo.svg",
+    "public/images/ceramania.jpg",
+    "public/images/miya.jpeg",
+    "static/images/ceramania.jpg",
+    "static/images/miya.jpeg",
+    "static/docs/ai-culture.jpg"
+  ]
+}

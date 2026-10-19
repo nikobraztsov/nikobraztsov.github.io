@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Secularization on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/secularization/</link>
+    <description>Recent content in Secularization on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/secularization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stability, Silence, Community, and Psychotherapy: What Young People Are Looking for in Religion</title>
+      <link>http://localhost:1313/texts/forbes-text-en/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/forbes-text-en/</guid>
+      <description>English translation of a Forbes Young article by Elena Strelkova. On Gen Z religiosity in Russia and globally, featuring expert commentary.</description>
+    </item>
+    <item>
+      <title>What Does the Modern Person Believe? From Horoscopes to Neural Networks</title>
+      <link>http://localhost:1313/texts/lecture-moscow-20052026/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/lecture-moscow-20052026/</guid>
+      <description>Lecture transcript, Moscow, May 2026. On the contemporary religious situation, secularization theory, and the transformation of religion.</description>
+    </item>
+    <item>
+      <title>The Concept of Belonging Without Believing in the Context of Orthodox Identity Formation in Russia</title>
+      <link>http://localhost:1313/texts/belonging-without-believing-en/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/belonging-without-believing-en/</guid>
+      <description>Conference paper presented at the VII All-Russian Sociological Congress, Moscow, November 2025. On the gap between declared Orthodox affiliation and actual religious practice in contemporary Russia.</description>
+    </item>
+    <item>
+      <title>The Religiosity of Young People Today: Data and Interpretations</title>
+      <link>http://localhost:1313/texts/religiosity-en/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/religiosity-en/</guid>
+      <description>A paper presented at the XXX International Educational Readings. What sociological data tell us about the religiosity of young people in Russia and the United States — and how it differs from older generations.</description>
+    </item>
+  </channel>
+</rss>

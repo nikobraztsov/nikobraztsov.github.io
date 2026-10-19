@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Atheism on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/atheism/</link>
+    <description>Recent content in Atheism on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/atheism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Makes Contemporary Atheism Different</title>
+      <link>http://localhost:1313/media/talks-mayak-en/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/talks-mayak-en/</guid>
+      <description>Appearance on &amp;#39;Fiziki i Liriki&amp;#39; (Scientists and Humanists), Radio Mayak, 17 June 2026.</description>
+    </item>
+    <item>
+      <title>Intelligent Design Is Not Science: The Kitzmiller v. Dover Case</title>
+      <link>http://localhost:1313/texts/dover-en/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/dover-en/</guid>
+      <description>A close reading of one of the most significant court cases in American educational history — Kitzmiller v. Dover Area School District (2005). Science, creationism, and the First Amendment.</description>
+    </item>
+    <item>
+      <title>On Religion, Atheism, and Science: Interview for the Trickster Channel</title>
+      <link>http://localhost:1313/texts/trickster-interview-en/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/trickster-interview-en/</guid>
+      <description>Interview for Alexander Bydantsev&amp;#39;s channel. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method.</description>
+    </item>
+    <item>
+      <title>Agnosticism: Between Belief and Unbelief</title>
+      <link>http://localhost:1313/texts/agnosticism-en-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/agnosticism-en-2021/</guid>
+      <description>What agnosticism actually is, how it differs from atheism and scepticism, and why Bertrand Russell called himself an agnostic among colleagues but an atheist for public audiences.</description>
+    </item>
+    <item>
+      <title>How Many Atheists Are There — and How Do You Count Them</title>
+      <link>http://localhost:1313/texts/atheists-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/atheists-2020/</guid>
+      <description>A breakdown of a scientific paper on the methodology of counting atheists in the United States. Why direct surveys give 3% and indirect methods yield up to 32%.</description>
+    </item>
+  </channel>
+</rss>

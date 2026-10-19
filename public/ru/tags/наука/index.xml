@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Наука on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</link>
+    <description>Recent content in Наука on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Никита Образцов принял участие в летней школе AIM-CC 2026 в Астане</title>
+      <link>http://localhost:1313/ru/news/news-aimcc-ru/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/news/news-aimcc-ru/</guid>
+      <description>&lt;p&gt;В августе Никита Образцов участвовал в летней школе AI &amp;amp; Methods in Computational Communication, организованной Kazakhstan Sociology Lab на базе Университета Назарбаева в Астане. Программа включала лекции и воркшопы по сетевому анализу, изучению поляризации и применению ИИ-агентов в исследовательской деятельности. Никита представил постер с агентной моделью и в финальный день выступил с итоговым докладом.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Никита Образцов выступил на 8-й Европейской конференции по социальным сетям (EUSN 2026)</title>
+      <link>http://localhost:1313/ru/news/news-eusn-ru/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/news/news-eusn-ru/</guid>
+      <description>&lt;p&gt;Этим летом я впервые выступил на крупной международной конференции — 8th European Conference on Social Networks (EUSN 2026), которая проходила в Норрчёпинге (Швеция). Доклад был посвящён агентной модели устойчивости религиозных сообществ в условиях секуляризующего давления. Выступление прошло дистанционно.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/EUSN.pdf&#34;&gt;Слайды и материалы →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

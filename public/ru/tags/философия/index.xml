@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Философия on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F/</link>
+    <description>Recent content in Философия on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что значит быть рациональным человеком?</title>
+      <link>http://localhost:1313/ru/texts/rationality-ru/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/rationality-ru/</guid>
+      <description>По мотивам подкаста «Ставка Паскаля». О природе рациональности, её границах, астрологии и о том, почему рациональность — инструмент, а не священная корова.</description>
+    </item>
+    <item>
+      <title>Бенедикт Спиноза: еретик, шлифовальщик линз и бог-субстанция</title>
+      <link>http://localhost:1313/ru/texts/spinoza/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/spinoza/</guid>
+      <description>О жизни и философии Спинозы: отлучение от синагоги, пантеизм, «Этика» и почему именно его имя упомянул Эйнштейн в ответ на вопрос о вере в бога.</description>
+    </item>
+    <item>
+      <title>Агностицизм: между верой и неверием</title>
+      <link>http://localhost:1313/ru/texts/agnosticism-ru-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/agnosticism-ru-2021/</guid>
+      <description>Что такое агностицизм на самом деле, чем он отличается от атеизма и скептицизма, и почему Бертран Рассел называл себя агностиком в кругу коллег, а для широкой аудитории — атеистом.</description>
+    </item>
+  </channel>
+</rss>

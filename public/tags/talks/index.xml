@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Talks on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/talks/</link>
+    <description>Recent content in Talks on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nikita Obraztsov Lectured at the Ceramania Festival</title>
+      <link>http://localhost:1313/news/news-ceramania-en/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-ceramania-en/</guid>
+      <description>&lt;p&gt;On 7 March 2026, Nikita Obraztsov gave a lecture at Ceramania — Russia&amp;rsquo;s largest handmade ceramics festival. The topic: &amp;lsquo;Goddesses and Their Many Faces: Why Mythological Female Images Are More Complex Than They Seem&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/ceramania/8033&#34; target=&#34;_blank&#34;&gt;Announcement →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nikita Obraztsov Spoke at the &#39;Buddha, Brain, and the Neurophysiology of Happiness&#39; Conference</title>
+      <link>http://localhost:1313/news/news-tergar-en/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news-tergar-en/</guid>
+      <description>&lt;p&gt;On 2 November 2025, Nikita Obraztsov gave a talk at the online conference &amp;lsquo;Buddha, Brain, and the Neurophysiology of Happiness&amp;rsquo;, organised by the Tergar Meditation Centre. The talk was titled &amp;lsquo;How Religions Answer the Question of Meaning: Finding Common Ground in Diversity&amp;rsquo;. Other participants included neuroscientist Richard Davidson (University of Wisconsin) and meditation master Mingyur Rinpoche.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conference.tergar.ru/&#34; target=&#34;_blank&#34;&gt;Conference website →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

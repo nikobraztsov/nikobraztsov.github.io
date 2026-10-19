@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Премия on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F/</link>
+    <description>Recent content in Премия on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Хрустальный пингвинопитек 2023: лучшие просветительские ролики</title>
+      <link>http://localhost:1313/ru/smi/pingvinopitec-2023-ru/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/pingvinopitec-2023-ru/</guid>
+      <description>Финалист премии Хрустальный пингвинопитек за лучший научно-популярный ролик 2023 года.</description>
+    </item>
+  </channel>
+</rss>

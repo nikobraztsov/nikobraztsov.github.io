@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>History on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erasmus of Rotterdam: The Man Who Defined His Age</title>
+      <link>http://localhost:1313/texts/erasmus-2020/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/erasmus-2020/</guid>
+      <description>The life and ideas of Erasmus of Rotterdam: from illegitimate son of a priest to the intellectual arbiter of Europe. A close reading of The Praise of Folly, the dispute with Luther on free will, and Soviet reception.</description>
+    </item>
+  </channel>
+</rss>

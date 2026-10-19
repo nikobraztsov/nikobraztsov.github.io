@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Philosophy on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does It Mean to Be a Rational Person?</title>
+      <link>http://localhost:1313/ru/texts/rationality-en/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/rationality-en/</guid>
+      <description>Based on an appearance on the Pascal&amp;#39;s Wager podcast. On the nature of rationality, its limits, astrology, and why rationality is a tool rather than a sacred cow.</description>
+    </item>
+  </channel>
+</rss>

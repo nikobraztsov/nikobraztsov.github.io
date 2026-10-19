@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Социология Религии on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/</link>
+    <description>Recent content in Социология Религии on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Во что верит современный человек: от гороскопов до нейросетей</title>
+      <link>http://localhost:1313/ru/texts/lecture-200526-moscow/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/lecture-200526-moscow/</guid>
+      <description>Расшифровка публичной лекции, Москва, март 2026. О современной религиозной ситуации, теории секуляризации и трансформации религии.</description>
+    </item>
+    <item>
+      <title>Пародийные религии: от Дискордии до Летающего Макаронного Монстра</title>
+      <link>http://localhost:1313/ru/texts/parody-religions-ru/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/parody-religions-ru/</guid>
+      <description>Расшифровка публичной лекции, Москва, май 2026. О социологии пародийной религиозности — от пастафарианства до дискордианства и Церкви СабГения.</description>
+    </item>
+    <item>
+      <title>Футбол как квазирелигия: научный анализ</title>
+      <link>http://localhost:1313/ru/texts/football-ru/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/football-ru/</guid>
+      <description>Почему Месси называют богом, что общего у футбола с религией и является ли футбол религией на самом деле. Разбор с позиций религиоведения.</description>
+    </item>
+    <item>
+      <title>Религиозность современной молодёжи: данные и интерпретации</title>
+      <link>http://localhost:1313/ru/texts/religiosity-ru/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/religiosity-ru/</guid>
+      <description>Доклад на XXX Международных образовательных чтениях. Что социологические данные говорят о религиозности молодёжи в России и США — и чем она отличается от религиозности старших поколений.</description>
+    </item>
+    <item>
+      <title>Сколько атеистов в мире — и как это посчитать?</title>
+      <link>http://localhost:1313/ru/texts/atheists/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/atheists/</guid>
+      <description>Разбор научной статьи о методологии подсчёта атеистов в США. Почему прямые опросы дают 3%, а косвенные методы — до 32%</description>
+    </item>
+  </channel>
+</rss>

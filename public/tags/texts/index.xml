@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Texts on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/texts/</link>
+    <description>Recent content in Texts on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/texts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community</title>
+      <link>http://localhost:1313/texts/seminar-en/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/seminar-en/</guid>
+      <description>Empty</description>
+    </item>
+    <item>
+      <title>Stability, Silence, Community, and Psychotherapy: What Young People Are Looking for in Religion</title>
+      <link>http://localhost:1313/texts/forbes-text-en/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/forbes-text-en/</guid>
+      <description>English translation of a Forbes Young article by Elena Strelkova. On Gen Z religiosity in Russia and globally, featuring expert commentary.</description>
+    </item>
+    <item>
+      <title>Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Randomised Experiment</title>
+      <link>http://localhost:1313/texts/essay-causality/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/essay-causality/</guid>
+      <description>&lt;p&gt;Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Randomised Experiment&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Essay for the course &amp;ldquo;Introduction to Causality&amp;rdquo; Nikita Obraztsov, European University at St. Petersburg, 2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/deconversion-en.pdf&#34;&gt;Read the article →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Concept of Belonging Without Believing in the Context of Orthodox Identity Formation in Russia</title>
+      <link>http://localhost:1313/texts/belonging-without-believing-en/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/belonging-without-believing-en/</guid>
+      <description>Conference paper presented at the VII All-Russian Sociological Congress, Moscow, November 2025. On the gap between declared Orthodox affiliation and actual religious practice in contemporary Russia.</description>
+    </item>
+    <item>
+      <title>What Does It Mean to Be a Rational Person?</title>
+      <link>http://localhost:1313/texts/rationality-en/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/rationality-en/</guid>
+      <description>Based on an appearance on the Pascal&amp;#39;s Wager podcast. On the nature of rationality, its limits, astrology, and why rationality is a tool rather than a sacred cow.</description>
+    </item>
+    <item>
+      <title>On Religion, Atheism, and Science: Interview for the Trickster Channel</title>
+      <link>http://localhost:1313/texts/trickster-interview-en/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/trickster-interview-en/</guid>
+      <description>Interview for Alexander Bydantsev&amp;#39;s channel. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method.</description>
+    </item>
+  </channel>
+</rss>

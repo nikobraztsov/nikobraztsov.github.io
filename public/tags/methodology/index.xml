@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Methodology on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/methodology/</link>
+    <description>Recent content in Methodology on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does Religion Exist? Three Approaches to Studying It</title>
+      <link>http://localhost:1313/texts/exist-en/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/exist-en/</guid>
+      <description>Realism, phenomenology, and constructivism — three frameworks scholars use when approaching the phenomenon of religion. A breakdown with examples and criticism of each.</description>
+    </item>
+  </channel>
+</rss>

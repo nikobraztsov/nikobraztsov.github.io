@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Религиоведение on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Религиоведение on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sic Mundus #1: Нейросеть как оракул — ИИ и религия</title>
+      <link>http://localhost:1313/ru/smi/podcast-sic-mundus-ru/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/podcast-sic-mundus-ru/</guid>
+      <description>Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.</description>
+    </item>
+    <item>
+      <title>Религия без Бога: буддизм, даосизм и светский гуманизм</title>
+      <link>http://localhost:1313/ru/smi/talks-mayak-religions-ru/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/talks-mayak-religions-ru/</guid>
+      <description>Выступление в программе «Физики и лирики», Радио Маяк, лето 2026.</description>
+    </item>
+    <item>
+      <title>В чём отличие современного атеизма</title>
+      <link>http://localhost:1313/ru/smi/mayak-june-ru/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/mayak-june-ru/</guid>
+      <description>Выступление в программе «Физики и лирики», Радио Маяк, 17 июня 2026 года.</description>
+    </item>
+    <item>
+      <title>Подкаст СПИЧ (Литрес): Что такое религия и как её создать</title>
+      <link>http://localhost:1313/ru/smi/litres-speech-ru/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/litres-speech-ru/</guid>
+      <description>Интервью для подкаста Литреса о природе религии, квазирелигиях, трансгуманизме, ИИ в духовной жизни и о том, что нужно для создания новой религии.</description>
+    </item>
+    <item>
+      <title>Существует ли религия? Три подхода к её изучению</title>
+      <link>http://localhost:1313/ru/texts/exist-ru/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/exist-ru/</guid>
+      <description>Реализм, феноменология и конструктивизм — три системы координат, с которых учёные подходят к феномену религии. Разбор с примерами и критикой каждого подхода.</description>
+    </item>
+    <item>
+      <title>Интервью для кафедры религиоведения СПбГУ</title>
+      <link>http://localhost:1313/ru/smi/spbu-ru/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/spbu-ru/</guid>
+      <description>Дал интервью своей альма-матер. Поговорили о популяризации науки, смене профессии и хороших книгах.</description>
+    </item>
+    <item>
+      <title>Главный миф о религии: разбор концепции прамонотеизма</title>
+      <link>http://localhost:1313/ru/texts/primordial-ru/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/primordial-ru/</guid>
+      <description>Что такое прамонотеизм, откуда взялась эта идея, почему она привлекательна и почему этнографические данные её опровергают.</description>
+    </item>
+    <item>
+      <title>О религии, атеизме и науке: интервью для канала «Трикстер»</title>
+      <link>http://localhost:1313/ru/texts/trickster-interview-ru/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/trickster-interview-ru/</guid>
+      <description>Интервью для канала Александра Быданцева. О религиоведении как науке, движении Brights, агностицизме, сциентизме и границах научного метода.</description>
+    </item>
+    <item>
+      <title>Агностицизм: между верой и неверием</title>
+      <link>http://localhost:1313/ru/texts/agnosticism-ru-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/agnosticism-ru-2021/</guid>
+      <description>Что такое агностицизм на самом деле, чем он отличается от атеизма и скептицизма, и почему Бертран Рассел называл себя агностиком в кругу коллег, а для широкой аудитории — атеистом.</description>
+    </item>
+    <item>
+      <title>Безбожники: краткая история атеизма от античности до наших дней</title>
+      <link>http://localhost:1313/ru/texts/atheism-history-ru/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/atheism-history-ru/</guid>
+      <description>Обзорная лекция по истории атеизма и свободомыслия: от античных нечестивцев до новых атеистов XXI века.</description>
+    </item>
+    <item>
+      <title>Эразм Роттердамский: человек, который определил свое время</title>
+      <link>http://localhost:1313/ru/texts/erasmus-ru/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/erasmus-ru/</guid>
+      <description>Биография и идеи Эразма Роттердамского: от незаконнорождённого сына священника до властителя умов Европы. Разбор «Похвалы глупости», спора с Лютером о свободе воли и советской рецепции.</description>
+    </item>
+  </channel>
+</rss>

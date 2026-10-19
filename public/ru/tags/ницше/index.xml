@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ницше on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%BD%D0%B8%D1%86%D1%88%D0%B5/</link>
+    <description>Recent content in Ницше on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BD%D0%B8%D1%86%D1%88%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Фридрих Ницше и его критика христианства</title>
+      <link>http://localhost:1313/ru/texts/nitshe-ru/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/texts/nitshe-ru/</guid>
+      <description>Вторая лекция цикла «Атеизм и свободомыслие». Ницше как литератор, а не учёный: воля к власти, рессентимент, «Антихристианин» и почему его критика религии ненаучна.</description>
+    </item>
+  </channel>
+</rss>

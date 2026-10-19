@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcast</title>
+      <link>http://localhost:1313/tags/podcast/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/podcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religious Studies</title>
+      <link>http://localhost:1313/tags/religious-studies/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/religious-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sic Mundus</title>
+      <link>http://localhost:1313/tags/sic-mundus/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sic-mundus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/tags/media/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texts</title>
+      <link>http://localhost:1313/tags/texts/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/texts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atheism</title>
+      <link>http://localhost:1313/tags/atheism/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/atheism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radio</title>
+      <link>http://localhost:1313/tags/radio/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>http://localhost:1313/tags/interview/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Press</title>
+      <link>http://localhost:1313/tags/press/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/press/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secularization</title>
+      <link>http://localhost:1313/tags/secularization/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/secularization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociology of Religion</title>
+      <link>http://localhost:1313/tags/sociology-of-religion/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sociology-of-religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture</title>
+      <link>http://localhost:1313/tags/lecture/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Report</title>
+      <link>http://localhost:1313/tags/report/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/report/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Announcement</title>
+      <link>http://localhost:1313/tags/announcement/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/tags/awards/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/awards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parody Religions</title>
+      <link>http://localhost:1313/tags/parody-religions/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/parody-religions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/tags/talks/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academic</title>
+      <link>http://localhost:1313/tags/academic/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/academic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orthodoxy</title>
+      <link>http://localhost:1313/tags/orthodoxy/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/orthodoxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rationality</title>
+      <link>http://localhost:1313/tags/rationality/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rationality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Methodology</title>
+      <link>http://localhost:1313/tags/methodology/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/methodology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phenomenology</title>
+      <link>http://localhost:1313/tags/phenomenology/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/phenomenology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spbu</title>
+      <link>http://localhost:1313/tags/spbu/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spbu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feynman</title>
+      <link>http://localhost:1313/tags/feynman/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/feynman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freethought</title>
+      <link>http://localhost:1313/tags/freethought/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/freethought/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History of Atheism</title>
+      <link>http://localhost:1313/tags/history-of-atheism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history-of-atheism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machiavelli</title>
+      <link>http://localhost:1313/tags/machiavelli/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machiavelli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy of Science</title>
+      <link>http://localhost:1313/tags/philosophy-of-science/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/philosophy-of-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Political Philosophy</title>
+      <link>http://localhost:1313/tags/political-philosophy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/political-philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science and Religion</title>
+      <link>http://localhost:1313/tags/science-and-religion/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/science-and-religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Award</title>
+      <link>http://localhost:1313/tags/award/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/award/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literature</title>
+      <link>http://localhost:1313/tags/literature/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quasi-Religion</title>
+      <link>http://localhost:1313/tags/quasi-religion/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quasi-religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religion and Culture</title>
+      <link>http://localhost:1313/tags/religion-and-culture/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/religion-and-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spinoza</title>
+      <link>http://localhost:1313/tags/spinoza/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spinoza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>USA</title>
+      <link>http://localhost:1313/tags/usa/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/usa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Football</title>
+      <link>http://localhost:1313/tags/football/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/football/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History of Religion</title>
+      <link>http://localhost:1313/tags/history-of-religion/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history-of-religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Myths About Religion</title>
+      <link>http://localhost:1313/tags/myths-about-religion/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/myths-about-religion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religiosity</title>
+      <link>http://localhost:1313/tags/religiosity/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/religiosity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youth</title>
+      <link>http://localhost:1313/tags/youth/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/youth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renaissance</title>
+      <link>http://localhost:1313/tags/renaissance/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/renaissance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nietzsche</title>
+      <link>http://localhost:1313/tags/nietzsche/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nietzsche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enlightenment</title>
+      <link>http://localhost:1313/tags/enlightenment/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/enlightenment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociology</title>
+      <link>http://localhost:1313/tags/sociology/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sociology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Социология Религии</title>
+      <link>http://localhost:1313/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%B8/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

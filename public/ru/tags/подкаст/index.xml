@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Подкаст on Nikita Obraztsov</title>
+    <link>http://localhost:1313/ru/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/</link>
+    <description>Recent content in Подкаст on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sic Mundus #1: Нейросеть как оракул — ИИ и религия</title>
+      <link>http://localhost:1313/ru/smi/podcast-sic-mundus-ru/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/podcast-sic-mundus-ru/</guid>
+      <description>Первый выпуск подкаста Sic Mundus. Как большие языковые модели устроены изнутри, почему их называют оракулами и как они встраиваются в религиозную жизнь.</description>
+    </item>
+    <item>
+      <title>Подкаст СПИЧ (Литрес): Что такое религия и как её создать</title>
+      <link>http://localhost:1313/ru/smi/litres-speech-ru/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/litres-speech-ru/</guid>
+      <description>Интервью для подкаста Литреса о природе религии, квазирелигиях, трансгуманизме, ИИ в духовной жизни и о том, что нужно для создания новой религии.</description>
+    </item>
+    <item>
+      <title>Ставка Паскаля: Что значит быть рациональным человеком?</title>
+      <link>http://localhost:1313/ru/smi/leman-ru/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/smi/leman-ru/</guid>
+      <description>Подкаст «Ставка Паскаля» — о природе рациональности, науке, астрологии и мышлении.</description>
+    </item>
+  </channel>
+</rss>

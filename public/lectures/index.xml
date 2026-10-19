@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lectures on Nikita Obraztsov</title>
+    <link>http://localhost:1313/lectures/</link>
+    <description>Recent content in Lectures on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/lectures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does the Modern Person Believe? From Horoscopes to Neural Networks</title>
+      <link>http://localhost:1313/lectures/lecture-moscow-20052026/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lectures/lecture-moscow-20052026/</guid>
+      <description>Lecture transcript, Moscow, May 2026. On the contemporary religious situation, secularization theory, and the transformation of religion.</description>
+    </item>
+    <item>
+      <title>Parody Religions: From Discordia to the Flying Spaghetti Monster</title>
+      <link>http://localhost:1313/lectures/parody-religions/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lectures/parody-religions/</guid>
+      <description>Lecture transcript, Moscow, March 2026. On the sociology of parody religiosity — from Pastafarianism to Discordianism and the Church of the SubGenius.</description>
+    </item>
+  </channel>
+</rss>

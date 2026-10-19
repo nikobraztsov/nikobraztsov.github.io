@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Interview on Nikita Obraztsov</title>
+    <link>http://localhost:1313/tags/interview/</link>
+    <description>Recent content in Interview on Nikita Obraztsov</description>
+    <generator>Hugo -- 0.161.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPEECH Podcast (Litres): What Is Religion and How to Create One</title>
+      <link>http://localhost:1313/media/litres-speech-en/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/litres-speech-en/</guid>
+      <description>Interview for the Litres podcast on the nature of religion, quasi-religions, transhumanism, AI in spiritual life, and what it actually takes to start a new religion.</description>
+    </item>
+    <item>
+      <title>Interview for the project &#39;Where do Religious Scholars Work? Our Alumni&#39;</title>
+      <link>http://localhost:1313/media/spbu-en/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/spbu-en/</guid>
+      <description>I recently gave an interview to my alma mater. We talked about science popularization, changing professions, and good books.</description>
+    </item>
+    <item>
+      <title>Interview for Trikster Channel:  On Religion, Atheism and Science</title>
+      <link>http://localhost:1313/media/trikster-en/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/trikster-en/</guid>
+      <description>Interview for Alexander Bydantsev&amp;#39;s channel on Yandex Zen.</description>
+    </item>
+    <item>
+      <title>On Religion, Atheism, and Science: Interview for the Trickster Channel</title>
+      <link>http://localhost:1313/texts/trickster-interview-en/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/trickster-interview-en/</guid>
+      <description>Interview for Alexander Bydantsev&amp;#39;s channel. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method.</description>
+    </item>
+  </channel>
+</rss>
