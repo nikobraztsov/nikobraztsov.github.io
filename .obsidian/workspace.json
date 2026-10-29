@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content-ru/news/news-rro-congress-ru.md",
+                "file": "content-ru/about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "news-rro-congress-ru"
+              "title": "index"
             }
           }
         ],
@@ -201,9 +201,12 @@
   },
   "active": "6f46e818727f14f7",
   "lastOpenFiles": [
-    "docs/religiosity-slides.pdf 1.md",
-    "content/news/news-rro-congress-en.md",
+    "content/about/index.md",
+    "content-ru/news/Круглый стол.md",
     "content-ru/news/news-rro-congress-ru.md",
+    "content/news/news-rro-congress-en.md",
+    "content/talks/index.md",
+    "docs/religiosity-slides.pdf 1.md",
     "docs/religiosity-slides.pdf.md",
     "content-ru/news/conference-eusp-2026-ru.md",
     "static/images/nikita-presentation.jpg",
@@ -222,7 +225,6 @@
     "content-ru/smi/mayak-2026-1.md",
     "content-ru/smi/mayak-2026.md",
     "content-ru/smi/grad-petrov.md",
-    "content-ru/news/Круглый стол.md",
     "public/ru/smi/deepseek_markdown_20261013_5f870d/index.html",
     "public/ru/smi/deepseek_markdown_20261013_5f870d",
     "public/ru/news/deepseek_markdown_20261013_f219bb/index.html",
@@ -235,8 +237,6 @@
     "content-ru/news/news-mediomodo-spb-ru.md",
     "content-ru/news/news-mediomodo-msk-ru.md",
     "content-ru/news/news-mayak-ru.md",
-    "content-ru/news/news-mayak-religions-ru.md",
-    "content-ru/news/news-eusn-ru.md",
     "public/ru/news/круглый-стол/index.html",
     "public/Favicon.svg",
     "static/Favicon.svg",
