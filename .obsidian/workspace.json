@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content-ru/about/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,7 +201,10 @@
   },
   "active": "6f46e818727f14f7",
   "lastOpenFiles": [
+    "Obraztsov_CV.pdf.md",
     "content/about/index.md",
+    "static/docs/Obraztsov_CV.pdf",
+    "content-ru/about/index.md",
     "content-ru/news/Круглый стол.md",
     "content-ru/news/news-rro-congress-ru.md",
     "content/news/news-rro-congress-en.md",
@@ -235,9 +238,6 @@
     "content-ru/news/olimpiad-2026-ru.md",
     "content-ru/news/news-tergar-ru.md",
     "content-ru/news/news-mediomodo-spb-ru.md",
-    "content-ru/news/news-mediomodo-msk-ru.md",
-    "content-ru/news/news-mayak-ru.md",
-    "public/ru/news/круглый-стол/index.html",
     "public/Favicon.svg",
     "static/Favicon.svg",
     "public/Logo.svg",
