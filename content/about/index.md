@@ -44,4 +44,4 @@ BA diploma can be found [Here →](/docs/bak-diploma.pdf)
 
 ### CV
 
-[Download CV (EN)](/Obraztsov_CV)
+[Download CV (EN)](/Obraztsov_CV.pdf)
