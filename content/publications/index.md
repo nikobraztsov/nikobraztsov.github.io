@@ -22,7 +22,7 @@ Supervisor: Prof. Marianna Shakhnovich.
 
 [Full text (Russian) →](/papers/ma-thesis-obraztsov.pdf)
 
-[Introduction and conclusion (English) →](/papers/brights-thesis-en.pdf)) 
+[Introduction and conclusion (English) →](/papers/brights-thesis-en.pdf) 
 
 ---
 
@@ -49,7 +49,7 @@ Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Random
 
 *Essay for the course "Introduction to Causality" Nikita Obraztsov, European University at St. Petersburg, 2025*
 
-[Read the article →](/docs/deconversion-en.pdf)
+[Read the article →](/docs/causality-en.pdf)
 
 Chaves, M. (2010). Rain Dances in the Dry Season: Overcoming the Religious Congruence Fallacy. Journal for the Scientific Study of Religion, 49(1), 1–14.
 

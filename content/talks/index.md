@@ -5,32 +5,39 @@ description: "Conference presentations, public lectures, and video lectures by N
  
 ## Conference presentations
 
+**The Operationalisation of Religiosity as an Unresolved Problem in Contemporary Religious Studies: A Computational Perspective**
+IX Congress of the Russian Religious Studies Society, 15 October 2026.
+
+**Agent-Based Modelling in the Sociology of Religion: Possibilities and Limits of the Method**
+All-Russian roundtable on methodological strategies for the study of religiosity, Kazan, 9 October 2026.
+
+
 **Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
 European Social Networks Conference (EUSN 2026), Norrköping, Sweden, August 2026 [Conference program →](/docs/EUSN_Program.pdf)
 
-[My slides →](/docs/EUSN.pdf)
+[Slides →](/docs/EUSN.pdf)
 
 EU SPb Computational Social Science conference (CSS 2026), St. Petersburg, April 2026. [About the conference](https://cssconference.eusp.org/)
 
 **Structural Limits of Religious Minority Resilience in Secular Society: An Agent-Based Modeling Approach**
-All-Russian Academic Conference "Studies of Religion: Past, Present, Future", Russian Religious Studies Association, online, April 2026. [My sertificate (in Russian) →](/docs/spring-2026.pdf)
+All-Russian Academic Conference "Studies of Religion: Past, Present, Future", Russian Religious Studies Association, online, April 2026. [Certificate (in Russian) →](/docs/spring-2026.pdf)
 
 **"Belonging Without Believing" in the Context of Orthodox Identity Formation in Russia**
-VII All-Russian Sociological Congress, Russian Society of Sociologists, Moscow, November 2025. [My sertificate (in Russian) →](/docs/soc-congress.pdf)
+VII All-Russian Sociological Congress, Russian Society of Sociologists, Moscow, November 2025. [Certificate (in Russian) →](/docs/soc-congress.pdf)
 
 **From Description to Explanation: Analytical Sociology as a Methodological Resource for Religious Studies**
-International Conference "Religious Studies in Tsarskoye Selo", St. Petersburg, November 2025. [My sertificate (in Russian) →](/docs/tsartskoye-selo.pdf)
+International Conference "Religious Studies in Tsarskoye Selo", St. Petersburg, November 2025. [Certificate (in Russian) →](/docs/tsartskoye-selo.pdf)
 
 **Computational Methods in Religious Studies: Effectiveness and Limits**
-VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025. [My sertificate (in Russian) →](/docs/rel-congress.pdf)
+VIII Congress of the Russian Religious Studies Society, Vladimir, October 2025. [Certificate (in Russian) →](/docs/rel-congress.pdf)
 
 **The Popularity of Religious Chatbots as an Indicator of Religious Transformation**
-II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [My sertificate (in Russian) →](/docs/ai-culture.jpg) 
+II International Conference "Artificial Intelligence and Spiritual Culture", Plekhanov Russian University of Economics, Moscow, October 2025. [Certificate (in Russian) →](/docs/ai-culture.jpg) 
 
 **The Religiosity of Young People Today: Data and Interpretations**
 XXX International Educational Readings "Peter the Great at 350: A Secular World and Religiosity", Moscow, May 2022. [Read paper →](/texts/religiosity-en/)
 
-![описание](/images/religiosity.png)
+![Presentation on youth religiosity](/images/religiosity.png)
 
 ---
 
@@ -55,22 +62,24 @@ Moscow, March 2026.
 [Lecture transcript →](/texts/lecture-moscow-20052026/)
 
 **Goddesses and Their Many Faces: Why Mythological Female Images Are More Complex Than They Seem**
-Ceramania Festival (Russia's largest handmade ceramics festival), St. Petersburh, March 2026. [Announcement →](https://t.me/ceramania/8033)
+Ceramania ceramics festival, St. Petersburg, March 2026. [Announcement →](https://t.me/ceramania/8033)
 
 
 ![Nikita Obraztsov lecturing on the Goddesses](/images/ceramania.jpg)
 
 **Religious Meanings in the Harry Potter Novels**
 Tele2 Art Space, Yelagin Island, St. Petersburg, August 2023. [Read text →](/texts/potter-en/) [Video →](https://www.youtube.com/watch?v=AgXWRvpMtEc&t=1937s)
-![описание](/images/potter.png)
+![Public lecture on religion in Harry Potter](/images/potter.png)
 
 **Online-conference** 
 How Religions Answer the Question of Meaning: Finding Common Ground in Diversity
 Online conference "Buddha, Brain, and the Neurophysiology of Happiness", Tergar Meditation Centre, November 2025. Other participants included neuroscientist Richard Davidson (University of Wisconsin) and meditation master Mingyur Rinpoche. [Conference website →](https://conference.tergar.ru/)
 
+## Teaching and educational projects
+
 **Pravoe Polusharie Introverta**
 Staff lecturer since 2022. 100+ lectures on world religions, Orthodox Christianity, and cultural history of religion. Available on the platform via subscription.
-[My page →](https://new.artforintrovert.ru/lecturer/63c79ad8f3cf3a0028f9b335/)
+[Lecturer profile →](https://new.artforintrovert.ru/lecturer/63c79ad8f3cf3a0028f9b335/)
 
 ---
 

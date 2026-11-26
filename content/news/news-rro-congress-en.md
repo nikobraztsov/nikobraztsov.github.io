@@ -1,9 +1,9 @@
 ---
-title: "Nikita Obraztsov Presented at the Russian Religious Studies Society Congress"
+title: "Presentation at the Russian Religious Studies Society Congress"
 date: 2026-10-15
 tags: ["news", "research", "computational religious studies"]
 ---
-On 15 October 2026, Nikita Obraztsov presented at the IX Congress of the Russian Religious Studies Society. The talk, titled "The Operationalisation of Religiosity as an Unresolved Problem in Contemporary Religious Studies: A Computational Perspective," reported the first stage of an ongoing research project.
+On 15 October 2026, I presented at the IX Congress of the Russian Religious Studies Society. The talk, titled "The Operationalisation of Religiosity as an Unresolved Problem in Contemporary Religious Studies: A Computational Perspective," reported the first stage of an ongoing research project.
 
 ![Presenting at the IX Congress of the Russian Religious Studies Society](/images/nikita-presentation.jpg)
 

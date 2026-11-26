@@ -8,4 +8,4 @@ aliases:
 ---
 On June 22 at 3:00 PM, the International Laboratory for Applied Network Research will host a seminar featuring Nikita Obraztsov, a Master's student in Computational Sociology at the European University in St. Petersburg and a Master in Religious Studies at St. Petersburg State University.
 
-[The full text can found here](/texts/seminar-en/)
+[Read the seminar transcript](/texts/seminar-en/)
