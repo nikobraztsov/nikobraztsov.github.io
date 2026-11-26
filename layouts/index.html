@@ -1,18 +1,68 @@
 {{- define "main" }}
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $paginator := .Paginate $pages }}
-
-{{- if site.Params.profileMode.enabled }}
-{{- partial "index_profile.html" . }}
+{{- /* Preserve former home pagination URLs for incoming links. */ -}}
+{{- $legacy := where site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{- $paginator := .Paginate $legacy -}}
+{{- $d := index hugo.Data.homepage11 .Lang -}}
+{{- if eq $paginator.PageNumber 1 }}
+<div class="academic-home">
+  <div class="ah-hero">
+    <div class="ah-intro">
+      <h1>{{ $d.name }}</h1>
+      <p class="ah-aff">{{ $d.affiliation }}</p>
+      <p class="ah-lead">{{ $d.intro }}</p>
+      <div class="ah-links" aria-label="{{ $d.profiles_label }}">
+        {{- range $d.profiles }}<a href="{{ .url }}">{{ .label }}</a>{{ end }}
+      </div>
+    </div>
+    <img class="ah-portrait" src="{{ "/picture.jpeg" | relURL }}" width="176" height="176" alt="{{ $d.name }}" fetchpriority="high">
+  </div>
+  <section class="ah-section" aria-labelledby="ah-research-title">
+    <div class="ah-section-head"><h2 id="ah-research-title">{{ $d.research_heading }}</h2><a href="{{ $d.research_url }}">{{ $d.research_all }} <span aria-hidden="true">→</span></a></div>
+    <article class="ah-feature">
+      <div>
+        <p class="ah-meta">{{ $d.feature.meta }}</p>
+        <h3><a href="{{ $d.feature.url }}">{{ $d.feature.title }}</a></h3>
+        <p>{{ $d.feature.description }}</p>
+        <div class="ah-links"><a href="{{ $d.feature.url }}">{{ $d.project_link }}</a><a href="{{ $d.feature.code }}">GitHub</a></div>
+      </div>
+      {{- with $d.feature.figure }}
+      <figure class="ah-figure">
+        <a href="{{ .source }}" aria-label="{{ .source_label }}"><img src="{{ .image }}" width="{{ .width }}" height="{{ .height }}" alt="{{ .alt }}" loading="lazy" decoding="async"></a>
+        <figcaption><strong>{{ .label }}</strong> {{ .caption }} <a href="{{ .source }}">{{ .source_label }}</a></figcaption>
+      </figure>
+      {{- end }}
+    </article>
+    <div class="ah-secondary">
+      {{- range $d.projects }}
+      <article>
+        <p class="ah-meta">{{ .meta }}</p>
+        <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+        <p>{{ .description }}</p>
+        <div class="ah-links"><a href="{{ .url }}">{{ $d.project_link }}</a>{{ with .code }}<a href="{{ . }}">GitHub</a>{{ end }}</div>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+  <section class="ah-section" aria-labelledby="ah-updates-title">
+    <div class="ah-section-head"><h2 id="ah-updates-title">{{ $d.updates_heading }}</h2><a href="{{ $d.news_url }}">{{ $d.news_all }} <span aria-hidden="true">→</span></a></div>
+    {{- $updates := partial "academic-update-pages.html" . -}}
+    {{- $updates = where $updates "Params.hide_on_homepage" "ne" true -}}
+    {{- partial "academic-update-list.html" (dict "pages" (first 5 $updates) "lang" .Lang "empty" $d.no_updates) -}}
+  </section>
+  <section class="ah-section" aria-labelledby="ah-public-title">
+    <h2 id="ah-public-title">{{ $d.public_heading }}</h2>
+    <div class="ah-public">
+      {{- range $d.public }}<article><h3><a href="{{ .url }}">{{ .title }}</a></h3><p>{{ .description }}</p></article>{{ end }}
+    </div>
+  </section>
+  {{- with .Content }}<div class="post-content ah-extra">{{ . }}</div>{{ end }}
+</div>
 {{- else }}
-{{- partial "index_archives.html" . }}
-{{- end }}
-
-{{- with .Content }}
-<div style="max-width:640px; margin:3rem auto 0; padding:0 1rem; text-align:center;">
-  <hr style="margin-bottom:2rem;">
-  {{ . }}
+<div class="academic-home ah-legacy">
+  <h1>{{ $d.older_heading }}</h1>
+  <p><a href="{{ site.Home.RelPermalink }}">{{ $d.home_link }}</a></p>
+  {{- partial "academic-update-list.html" (dict "pages" $paginator.Pages "lang" .Lang "empty" $d.no_updates) -}}
+  {{- partial "academic-pagination.html" (dict "pager" $paginator "lang" .Lang) -}}
 </div>
 {{- end }}
-
 {{- end }}

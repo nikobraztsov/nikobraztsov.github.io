@@ -1,0 +1,7 @@
+{{- $ru := eq .lang "ru" -}}
+{{- if gt .pager.TotalPages 1 }}
+<nav class="pagination ah-pagination" aria-label="{{ cond $ru "Страницы" "Pagination" }}">
+  {{- if .pager.HasPrev }}<a class="prev" href="{{ .pager.Prev.URL }}">← {{ cond $ru "Назад" "Previous" }}</a>{{ end }}
+  {{- if .pager.HasNext }}<a class="next" href="{{ .pager.Next.URL }}">{{ cond $ru "Далее" "Next" }} →</a>{{ end }}
+</nav>
+{{- end }}

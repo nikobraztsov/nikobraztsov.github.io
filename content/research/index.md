@@ -7,6 +7,8 @@ draft: false
 
 My research focuses on social influence in networks. I am particularly interested in how patterns of interaction among individuals shape the persistence of beliefs and practices within communities, and what information about social ties we need to predict these outcomes.
 
+<span id="network-persistence"></span>
+
 ## Current project: Network characteristics and the persistence of social practices
 
 *Master's research, European University at St. Petersburg, 2025–2027.*
@@ -53,11 +55,15 @@ The figures below come from my August 2026 presentation. This earlier model used
 
 [Full presentation (PDF)](/docs/EUSN.pdf)
 
+<span id="religiosity-measurement"></span>
+
 ## Measuring religiosity in research literature
 
 In a separate project, I examine how religiosity is conceptualised across research fields. In October 2026 I presented an exploratory bibliometric analysis of approximately 30,000 articles after preprocessing OpenAlex records. Clustering abstracts suggests substantial variation across research domains; whether these clusters correspond to distinct operationalisation strategies still requires manual coding of articles.
 
 [Research presentation and description](/news/news-rro-congress-en/) · [Slides (Russian, PDF)](/docs/religiosity-slides.pdf)
+
+<span id="religiosity-reanalysis"></span>
 
 ## Reanalysis of a published religiosity measure
 

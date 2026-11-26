@@ -42,7 +42,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            {{- $label_text := (site.Params.label.text | default site.Title) }}
+            {{- $label_text := (site.Home.Title | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
@@ -108,7 +108,7 @@
                                     {{- if (and site.Params.displayFullLangName (.Language.Label)) }}
                                     {{- .Language.Label | emojify -}}
                                     {{- else }}
-                                    {{- .Lang | title -}}
+                                    {{- .Lang | upper -}}
                                     {{- end -}}
                                 </a>
                             </li>

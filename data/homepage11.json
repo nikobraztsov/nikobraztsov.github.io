@@ -1,0 +1,176 @@
+{
+  "en": {
+    "name": "Nikita Obraztsov",
+    "affiliation": "MA student in Computational Sociology · European University at St. Petersburg",
+    "intro": "I study how social networks and social influence shape the persistence of beliefs and practices. My work combines agent-based modelling and data analysis, with religious communities as a key empirical context.",
+    "profiles_label": "Academic profiles and contacts",
+    "profiles": [
+      {
+        "label": "CV",
+        "url": "/cv.pdf"
+      },
+      {
+        "label": "Email",
+        "url": "mailto:nikobrazets@gmail.com"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=tYxoJv8AAAAJ"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0001-1377-6188"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/nikobraztsov"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nikobraztsov/"
+      }
+    ],
+    "research_heading": "Current research",
+    "research_url": "/research/",
+    "research_all": "All research",
+    "project_link": "Project overview",
+    "feature": {
+      "meta": "Master’s research · 2025–2027",
+      "title": "Network characteristics and the persistence of social practices",
+      "description": "What information about social ties helps predict whether a practice persists: network composition, interaction frequency and strength, or social context?",
+      "url": "/research/#network-persistence",
+      "code": "https://github.com/nikobraztsov/abm-secularization",
+      "figure": {
+        "image": "/images/research/eusn-2026-connectivity.png",
+        "width": 1265,
+        "height": 790,
+        "alt": "Original EUSN 2026 plot: mean religiosity versus cross-group tie probability, on a logarithmic horizontal axis.",
+        "label": "Earlier model · EUSN 2026.",
+        "caption": "Simulation results for an earlier specification, not the current thesis model.",
+        "source": "/docs/EUSN.pdf",
+        "source_label": "Slides (PDF), p. 13."
+      }
+    },
+    "projects": [
+      {
+        "meta": "Course research project · 2026",
+        "title": "Reanalysis of a religiosity measure",
+        "description": "Scale dimensionality, reliability and the distinction between belief and practice.",
+        "url": "/research/#religiosity-reanalysis",
+        "code": "https://github.com/nikobraztsov/faith-factor-reanalysis"
+      },
+      {
+        "meta": "Independent project · since 2025",
+        "title": "Measuring religiosity in research literature",
+        "description": "Bibliometric analysis and the operationalisation of religiosity.",
+        "url": "/research/#religiosity-measurement"
+      }
+    ],
+    "updates_heading": "Recent updates",
+    "news_url": "/news/",
+    "news_all": "All news",
+    "no_updates": "No updates yet.",
+    "older_heading": "Earlier posts",
+    "home_link": "Home",
+    "public_heading": "Teaching and public engagement",
+    "public": [
+      {
+        "title": "Teaching",
+        "url": "/teaching/",
+        "description": "Religious studies lectures, Cultural Studies course mentoring, and public lectures on computational methods."
+      },
+      {
+        "title": "Media",
+        "url": "/media/",
+        "description": "Interviews, commentary, podcasts and radio appearances."
+      }
+    ]
+  },
+  "ru": {
+    "name": "Никита Образцов",
+    "affiliation": "Магистрант программы «Вычислительная социология» · Европейский университет в Санкт-Петербурге",
+    "intro": "Изучаю, как структура социальных сетей и социальное влияние определяют устойчивость убеждений и практик. Использую агентное моделирование и анализ данных; религиозные сообщества — один из основных эмпирических контекстов моей работы.",
+    "profiles_label": "Академические профили и контакты",
+    "profiles": [
+      {
+        "label": "Резюме",
+        "url": "/cv-ru.pdf"
+      },
+      {
+        "label": "Почта",
+        "url": "mailto:nikobrazets@gmail.com"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=tYxoJv8AAAAJ"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0001-1377-6188"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/nikobraztsov"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nikobraztsov/"
+      }
+    ],
+    "research_heading": "Текущие исследования",
+    "research_url": "/ru/research/",
+    "research_all": "Все исследования",
+    "project_link": "Описание проекта",
+    "feature": {
+      "meta": "Магистерское исследование · 2025–2027",
+      "title": "Характеристики социальных связей и устойчивость практик",
+      "description": "Какая информация о социальных связях помогает предсказать сохранение практики: состав сети, частота и сила контактов, контекст взаимодействия?",
+      "url": "/ru/research/#network-persistence",
+      "code": "https://github.com/nikobraztsov/abm-secularization",
+      "figure": {
+        "image": "/images/research/eusn-2026-connectivity.png",
+        "width": 1265,
+        "height": 790,
+        "alt": "Оригинальный график EUSN 2026: средняя религиозность в зависимости от вероятности межгрупповой связи, горизонтальная ось логарифмическая.",
+        "label": "Ранняя версия модели · EUSN 2026.",
+        "caption": "Результаты симуляций ранней спецификации, не текущей магистерской модели.",
+        "source": "/docs/EUSN.pdf",
+        "source_label": "Слайды (PDF), с. 13."
+      }
+    },
+    "projects": [
+      {
+        "meta": "Учебный исследовательский проект · 2026",
+        "title": "Реанализ шкалы религиозности",
+        "description": "Проверка размерности шкалы, надёжности и различий между верой и практикой.",
+        "url": "/ru/research/#religiosity-reanalysis",
+        "code": "https://github.com/nikobraztsov/faith-factor-reanalysis"
+      },
+      {
+        "meta": "Самостоятельный проект · с 2025",
+        "title": "Измерение религиозности в научной литературе",
+        "description": "Библиометрический анализ и исследование способов операционализации религиозности.",
+        "url": "/ru/research/#religiosity-measurement"
+      }
+    ],
+    "updates_heading": "Последние события",
+    "news_url": "/ru/news/",
+    "news_all": "Все новости",
+    "no_updates": "Пока нет новостей.",
+    "older_heading": "Ранее опубликованные материалы",
+    "home_link": "Главная",
+    "public_heading": "Преподавание и публичная деятельность",
+    "public": [
+      {
+        "title": "Преподавание",
+        "url": "/ru/teaching/",
+        "description": "Лекции по религиоведению, кураторство программы «Культуролог» и публичные лекции по вычислительным методам."
+      },
+      {
+        "title": "СМИ",
+        "url": "/ru/smi/",
+        "description": "Интервью, комментарии, подкасты и выступления на радио."
+      }
+    ]
+  }
+}

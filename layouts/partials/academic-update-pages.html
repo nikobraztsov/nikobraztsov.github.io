@@ -1,0 +1,9 @@
+{{- /* News is included by default. Other sections are opt-in. The Ambivert
+       interview is included as a known existing item, without duplicating it. */ -}}
+{{- $pages := .Site.RegularPages -}}
+{{- $news := where $pages "Section" "news" -}}
+{{- $optIn := where $pages "Params.homepage_update" true -}}
+{{- $ambivert := where $pages "Slug" "ambivert-interview" -}}
+{{- $all := union (union $news $optIn) $ambivert -}}
+{{- $all = where $all "Params.hide_from_updates" "ne" true -}}
+{{- return (sort $all "Date" "desc") -}}

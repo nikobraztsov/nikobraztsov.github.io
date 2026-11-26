@@ -1,4 +1,7 @@
 {{- define "main" }}
+{{- if and (eq .Kind "section") (eq .Section "news") }}
+{{- partial "academic-news-section.html" . }}
+{{- else }}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
@@ -22,6 +25,8 @@
   {{- else }}{{ .Content }}{{ end }}
 </div>
 {{- end }}
+
+{{- if and (eq .Kind "section") (eq .Section "texts") }}{{- partial "academic-text-search.html" . }}{{- end }}
 
 {{- $pages := union .RegularPages .Sections }}
 
@@ -102,5 +107,7 @@
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}
+
+{{- end }}{{- /* end news override */ -}}
 
 {{- end }}{{- /* end main */ -}}

@@ -13,6 +13,7 @@
     {{ . | markdownify }}
     {{- print " · "}}
     {{- end }}
+    <span><a href="{{ cond (eq .Lang "ru") "/ru/contact/" "/contact/" }}">{{ cond (eq .Lang "ru") "Контакты" "Contact" }}</a></span>
 </footer>
 {{- end }}
 

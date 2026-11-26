@@ -1,0 +1,9 @@
+{{- $d := index hugo.Data.homepage11 .Lang -}}
+{{- $pages := partial "academic-update-pages.html" . -}}
+{{- $pager := .Paginate $pages -}}
+<div class="academic-news">
+  <header class="page-header"><h1>{{ .Title }}</h1></header>
+  {{- with .Content }}<div class="post-content">{{ . }}</div>{{ end }}
+  {{- partial "academic-update-list.html" (dict "pages" $pager.Pages "lang" .Lang "empty" $d.no_updates) -}}
+  {{- partial "academic-pagination.html" (dict "pager" $pager "lang" .Lang) -}}
+</div>

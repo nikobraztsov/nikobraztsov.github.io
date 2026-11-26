@@ -1,0 +1,13 @@
+{{- $ru := eq .Lang "ru" -}}
+<div class="ah-text-search" data-text-search hidden>
+  <label for="ah-text-query">{{ cond $ru "Поиск по текстам" "Search texts" }}</label>
+  <input id="ah-text-query" type="search" placeholder="{{ cond $ru "Название, тема или ключевое слово" "Title, topic or keyword" }}" autocomplete="off" />
+  <p class="ah-meta" role="status" aria-live="polite" data-search-status data-label="{{ cond $ru "Найдено" "Found" }}"></p>
+  <ul class="ah-search-results" data-search-results hidden>
+    {{- range (where site.RegularPages "Section" "texts").ByDate.Reverse }}
+    {{- $tags := delimit (.Params.tags | default (slice)) " " -}}
+    <li hidden data-search="{{ printf "%s %s %v %s" .Title .Description (.Params.summary | default "") $tags }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</div>
+<script src="{{ "/js/academic-text-search.js" | relURL }}" defer></script>
