@@ -3,7 +3,7 @@ title: How Many Atheists Are There — and How Do You Count Them
 date: 2020-01-01
 description: A breakdown of a scientific paper on the methodology of counting atheists in the United States. Why direct surveys give 3% and indirect methods yield up to 32%.
 tags:
-  - социология религии
+  - sociology of religion
   - lecture
   - sociology
   - atheism

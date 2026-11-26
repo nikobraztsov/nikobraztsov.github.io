@@ -7,7 +7,7 @@ tags: ["texts", "philosophy", "rationality"]
 
 *Based on an appearance on the [Pascal's Wager podcast](https://www.youtube.com/@LuckyStrikePhilosophy), November 2024. This is not a transcript but a reconstruction of the main ideas from the conversation.*
 
-*Video: [YouTube]([https://www.youtube.com/watch?v=LINK](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)*
+*Video: [YouTube](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)*
 
 ---
 

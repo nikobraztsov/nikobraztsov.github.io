@@ -4,13 +4,11 @@ date: 2026-05-31
 description: "Expert commentary for Forbes Young on Gen Z religiosity, patchwork faith, and the compensatory appeal of religious communities."
 tags: ["media", "press"]
 ---
-Commentary for a Forbes Young feature by Elena Strelkova on why young people are increasingly turning to religion.
-
-Forbes is one of the world's leading business publications; the Russian edition has been in operation since 2004.
+I contributed to a Forbes Young feature by Elena Strelkova on young people’s interest in religion.
 
 In the article I explain why religious communities appeal to Gen Z: the gym, the co-working space, the university are all places where people are near each other without being together. Religious communities have historically offered something different — a regular rhythm of shared practice and a common language for talking about what matters most. Compensatory mechanisms kick in.
 
-I also discuss "patchwork religiosity" concept: most young people today assemble their faith from pieces, without committing to a single tradition. 
+I also discuss the concept of patchwork religiosity: some young people combine beliefs and practices drawn from different traditions. The available evidence does not establish a general religious revival among young people. 
 
 [Read the article in English→](/texts/forbes-text-en/)
 

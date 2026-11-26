@@ -1,5 +1,5 @@
 ---
-title: "Machiavelli on Religion: Analyses of his views"
+title: "Machiavelli on Religion: An Analysis of His Views"
 date: 2024-01-01
 description: What Machiavelli thought about religion, why he almost never used the word God, how his views differed from Luther's, and whether he belongs among the freethinkers.
 tags:

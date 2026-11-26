@@ -96,15 +96,15 @@ See [Teaching & Outreach](/teaching/) for my teaching experience, course mentori
 Popular science podcast on religion and culture.
 [Listen →](https://youtube.com/playlist?list=PLXZlQ2xEveU5dDGfPRMCjLdc-nv2WF-G5)
 
-**[Religion of Ancient Egypt: A Full Overview](https://youtu.be/jKPtSZEXTJM?si=0BOoY8G83JO9FTT7)**
+**[Religion of Ancient Egypt: A Full Overview](https://youtu.be/jKPtSZEXTJM)**
 
-**[Slavic Mythology: Key Themes](https://youtu.be/e4e2NroLkJA?si=_S4eB-2fNAj-LZli)**
+**[Slavic Mythology: Key Themes](https://youtu.be/e4e2NroLkJA)**
 
-**[Norse Mythology: A Cultural Tradition](https://youtu.be/MQUbRrQPyes?si=0ojmRr1HJv2Ho3Ff)**
+**[Norse Mythology: A Cultural Tradition](https://youtu.be/MQUbRrQPyes)**
 
-**[Parody Religions: Why They Spread](https://youtu.be/CJTyzREBLEQ?si=lu8QANsdaE5xOLEq)**
+**[Parody Religions: Why They Spread](https://youtu.be/CJTyzREBLEQ)**
 
-**[Why Does Christianity Have Four Gospels?](https://youtu.be/bR_p6sLJBmQ?si=Q9lY0lzI_9VK4RXx)**
+**[Why Does Christianity Have Four Gospels?](https://youtu.be/bR_p6sLJBmQ)**
 
 ---
 

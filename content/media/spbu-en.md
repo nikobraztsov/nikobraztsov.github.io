@@ -1,12 +1,7 @@
 ---
 title: Interview for the project 'Where do Religious Scholars Work? Our Alumni'
 date: 2024-06-01
-tags:
-  - news
-  - interview
-  - religious-studies
-  - spbu
-  - books
+tags: ["news", "interview", "religious studies", "spbu", "books"]
 description: I recently gave an interview to my alma mater. We talked about science popularization, changing professions, and good books.
 ---
 

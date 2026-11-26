@@ -1,4 +1,4 @@
 ---
-title: "Lectures"
-description: "Lecture transcripts and texts by Nikita Obraztsov"
+title: "Texts"
+description: "Essays, lecture transcripts, interviews and selected research materials."
 ---

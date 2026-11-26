@@ -98,15 +98,15 @@ Tele2 Art Space, Елагин остров, Санкт-Петербург, ав�
 Научно-популярный подкаст о религии и культуре.
 [Слушать →](https://youtube.com/playlist?list=PLXZlQ2xEveU5dDGfPRMCjLdc-nv2WF-G5)
 
-**[Религия Древнего Египта: полный разбор](https://youtu.be/jKPtSZEXTJM?si=0BOoY8G83JO9FTT7)**
+**[Религия Древнего Египта: полный разбор](https://youtu.be/jKPtSZEXTJM)**
 
-**[Главное о славянской мифологии](https://youtu.be/e4e2NroLkJA?si=_S4eB-2fNAj-LZli)**
+**[Главное о славянской мифологии](https://youtu.be/e4e2NroLkJA)**
 
-**[Мифы Скандинавии: разбор культурной традиции](https://youtu.be/MQUbRrQPyes?si=0ojmRr1HJv2Ho3Ff)**
+**[Мифы Скандинавии: разбор культурной традиции](https://youtu.be/MQUbRrQPyes)**
 
-**[Пародийные религии: причины широкого распространения](https://youtu.be/CJTyzREBLEQ?si=lu8QANsdaE5xOLEq)**
+**[Пародийные религии: причины широкого распространения](https://youtu.be/CJTyzREBLEQ)**
 
-**[Почему в христианстве четыре Евангелия?](https://youtu.be/bR_p6sLJBmQ?si=Q9lY0lzI_9VK4RXx)**
+**[Почему в христианстве четыре Евангелия?](https://youtu.be/bR_p6sLJBmQ)**
 
 ---
 

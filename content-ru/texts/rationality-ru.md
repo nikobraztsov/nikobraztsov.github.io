@@ -7,7 +7,7 @@ tags: ["тексты", "философия", "рациональность"]
 
 *По мотивам подкаста [«Ставка Паскаля»](https://www.youtube.com/@LuckyStrikePhilosophy), ноябрь 2024. Это не прямая расшифровка, а изложение основных идей разговора.*
 
-*Видео: [YouTube]([https://www.youtube.com/watch?v=ССЫЛКА](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)*
+*Видео: [YouTube](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)*
 
 ---
 

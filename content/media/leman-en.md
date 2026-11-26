@@ -5,8 +5,8 @@ description: "Guest appearance on the Pascal's Wager podcast — on rationality,
 tags: ["media", "podcast"]
 ---
 
-Guest on the [Pascal's Wager podcast](https://www.youtube.com/@LuckyStrikePhilosophy). On the nature of rationality, science, astrology, and how we form beliefs.
+I joined the [Pascal's Wager podcast](https://www.youtube.com/@LuckyStrikePhilosophy). We discussed rationality, science, astrology, and how people form beliefs.
 
 [Read the text →](/texts/rationality-en/)
 
-[Watch In Russian →](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)
+[Watch (in Russian) →](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)

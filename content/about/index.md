@@ -41,3 +41,7 @@ Outside academia, I play chess and run long distances. One race I am particularl
 ## CV
 
 [Download CV (English)](/cv.pdf) · [CV (Russian)](/cv-ru.pdf)
+
+## Contact and updates
+
+[Contact](/contact/) · [News](/news/)

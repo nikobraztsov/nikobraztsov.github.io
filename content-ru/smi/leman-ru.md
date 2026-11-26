@@ -4,8 +4,8 @@ date: 2024-11-24
 description: "Подкаст «Ставка Паскаля» — о природе рациональности, науке, астрологии и мышлении."
 tags: ["СМИ", "подкаст"]
 ---
-Выступил гостем подкаста [«Ставка Паскаля» известного философа Андрея Лемана](https://www.youtube.com/@LuckyStrikePhilosophy). Говорим о природе рациональности, науке, астрологии и мышлении.
+Выступил гостем подкаста [«Ставка Паскаля» Андрея Лемана](https://www.youtube.com/@LuckyStrikePhilosophy). Поговорили о природе рациональности, науке, астрологии и мышлении.
 
 [Читать текст по мотивам →](/ru/texts/rationality-ru/)
 
-[Смотреть →]([https://www.youtube.com/watch?v=ССЫЛКА](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)
+[Смотреть →](https://www.youtube.com/watch?v=dLjz-OKEaqU&t=251s)

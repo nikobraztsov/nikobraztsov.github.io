@@ -60,3 +60,7 @@ The following recordings are in Russian.
 - [Why Does Christianity Have Four Gospels?](https://youtu.be/bR_p6sLJBmQ)
 
 For academic presentations and research materials, see [Research](/research/) and [Talks](/talks/). [Contact](/contact/) · [Academic CV (PDF)](/cv.pdf)
+
+## Further materials
+
+[Lecture transcripts and essays](/texts/)

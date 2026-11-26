@@ -1,7 +1,7 @@
 ---
 title: "Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community"
 date: 2026-06-24
-description: Empty
+description: "Research seminar on intergroup connectivity and religious resilience, including an agent-based model."
 tags:
   - texts
   - religious studies

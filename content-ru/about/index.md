@@ -41,3 +41,7 @@ translationKey: "about"
 ## CV
 
 [Скачать CV (русский)](/cv-ru.pdf) · [CV (английский)](/cv.pdf)
+
+## Контакты и новости
+
+[Контакты](/ru/contact/) · [Новости](/ru/news/)

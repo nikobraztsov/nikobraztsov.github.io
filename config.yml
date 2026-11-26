@@ -26,18 +26,14 @@ languages:
             url: /research/
           - name: Publications
             url: /publications/
-          - name: Talks
-            url: /talks/
-          - name: "Teaching & Outreach"
+          - name: Teaching
             url: /teaching/
-          - name: Texts
-            url: /texts/
           - name: Media
             url: /media/
+          - name: Texts
+            url: /texts/
           - name: News
             url: /news/
-          - name: Contact
-            url: /contact/
           - name: RU
             url: /ru/
     menu:
@@ -51,24 +47,15 @@ languages:
         - name: Publications
           url: /publications/
           weight: 3
-        - name: Talks
-          url: /talks/
-          weight: 4
-        - name: "Teaching & Outreach"
+        - name: Teaching
           url: /teaching/
+          weight: 4
+        - name: Media
+          url: /media/
           weight: 5
         - name: Texts
           url: /texts/
           weight: 6
-        - name: Media
-          url: /media/
-          weight: 7
-        - name: News
-          url: /news/
-          weight: 8
-        - name: Contact
-          url: /contact/
-          weight: 9
   ru:
     languageName: ""
     weight: 2
@@ -89,20 +76,14 @@ languages:
             url: /ru/research/
           - name: Публикации
             url: /ru/publications/
-          - name: Выступления
-            url: /ru/talks/
-          - name: "Преподавание"
+          - name: Преподавание
             url: /ru/teaching/
-          - name: Тексты
-            url: /ru/texts/
           - name: СМИ
             url: /ru/smi/
+          - name: Тексты
+            url: /ru/texts/
           - name: Новости
             url: /ru/news/
-          - name: Контакты
-            url: /ru/contact/
-          - name: Консультации
-            url: /ru/consult/
           - name: EN
             url: /
     menu:
@@ -116,27 +97,15 @@ languages:
         - name: Публикации
           url: /ru/publications/
           weight: 3
-        - name: Выступления
-          url: /ru/talks/
-          weight: 4
-        - name: "Преподавание"
+        - name: Преподавание
           url: /ru/teaching/
+          weight: 4
+        - name: СМИ
+          url: /ru/smi/
           weight: 5
         - name: Тексты
           url: /ru/texts/
           weight: 6
-        - name: СМИ
-          url: /ru/smi/
-          weight: 7
-        - name: Новости
-          url: /ru/news/
-          weight: 8
-        - name: Консультации
-          url: /ru/consult/
-          weight: 10
-        - name: Контакты
-          url: /ru/contact/
-          weight: 9
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
