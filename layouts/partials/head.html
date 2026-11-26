@@ -141,7 +141,11 @@
 
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
+{{- if .IsHome }}
+{{- partial "profile-schema.html" . }}
+{{- else }}
 {{- partial "templates/schema_json.html" . }}
+{{- end }}
 
 {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
 {{- partial "analytics.html" . }}

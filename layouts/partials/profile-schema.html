@@ -1,0 +1,27 @@
+{{- $person := dict
+    "@type" "Person"
+    "@id" "https://nikitaobraztsov.com/#person"
+    "name" "Nikita Obraztsov"
+    "alternateName" "Никита Образцов"
+    "url" "https://nikitaobraztsov.com/"
+    "image" "https://nikitaobraztsov.com/picture.jpeg"
+    "description" site.Params.description
+    "sameAs" (slice
+        "https://scholar.google.com/citations?user=tYxoJv8AAAAJ"
+        "https://www.linkedin.com/in/nikobraztsov/"
+        "https://www.youtube.com/@ON_religio"
+    )
+}}
+
+{{- $profile := dict
+    "@context" "https://schema.org"
+    "@type" "ProfilePage"
+    "@id" (printf "%s#profile" .Permalink)
+    "url" .Permalink
+    "inLanguage" .Language.Lang
+    "mainEntity" $person
+}}
+
+<script type="application/ld+json">
+{{ $profile | jsonify | safeJS }}
+</script>

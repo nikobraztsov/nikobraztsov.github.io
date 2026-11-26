@@ -11,6 +11,7 @@ languages:
     weight: 1
     contentDir: content
     params:
+      description: "Computational social science, social network analysis, agent-based modelling, and sociology of religion. Research, publications, and talks."
       profileMode:
         enabled: true
         title: Nikita Obraztsov
@@ -63,6 +64,7 @@ languages:
     weight: 2
     contentDir: content-ru
     params:
+      description: "Вычислительная социология, анализ социальных сетей, агентное моделирование и социология религии. Исследования, публикации и выступления."
       profileMode:
         enabled: true
         title: Никита Образцов
@@ -125,7 +127,8 @@ taxonomies:
     tag: tags
 
 params:
-    description: "Nikita Obraztsov — sociologist of religion, computational social scientist."
+    description: "Computational social science, social network analysis, agent-based modelling, and sociology of religion. Research, publications, and talks."
+    images: ["/picture.jpeg"]
     author: Nikita Obraztsov
     DateFormat: "January 2006"
     defaultTheme: light
@@ -154,7 +157,7 @@ params:
         - name: Email
           url: mailto:nikobrazets@gmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=ru&user=tYxoJv8AAAAJ&view_op=list_works&gmla=AIqSsVvQBcgHLNkByHfvhNJk-ILIUDxpm9YKwCjv3YTW7_85A5W8npKqNnPcLrPo-I0wSa-I5FOTTExf7EcQxM2icbdy9cnD1bQmqGCfnigUkw
+          url: https://scholar.google.com/citations?user=tYxoJv8AAAAJ
         - name: YouTube
           url: https://www.youtube.com/@ON_religio
         - name: LinkedIn
