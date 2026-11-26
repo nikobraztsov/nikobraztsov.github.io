@@ -1,11 +1,11 @@
 ---
 title: "Seminar at the ML PSA Lab: Intergroup Connectivity and Religious Resilience"
 date: 2026-06-25
-description: ""
+description: "Research seminar on intergroup connectivity and religious resilience, 22 June 2026."
 tags:
   - news
 aliases:
 ---
-On June 22 at 3:00 PM, the International Laboratory for Applied Network Research will host a seminar featuring Nikita Obraztsov, a Master's student in Computational Sociology at the European University in St. Petersburg and a Master in Religious Studies at St. Petersburg State University.
+On 22 June 2026, I presented my agent-based model of intergroup connectivity and religious resilience at a seminar of the International Laboratory for Applied Network Research (ML PSA Lab).
 
 [Read the seminar transcript](/texts/seminar-en/)

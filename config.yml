@@ -28,6 +28,8 @@ languages:
             url: /publications/
           - name: Talks
             url: /talks/
+          - name: "Teaching & Outreach"
+            url: /teaching/
           - name: Texts
             url: /texts/
           - name: Media
@@ -52,18 +54,21 @@ languages:
         - name: Talks
           url: /talks/
           weight: 4
+        - name: "Teaching & Outreach"
+          url: /teaching/
+          weight: 5
         - name: Texts
           url: /texts/
-          weight: 5
+          weight: 6
         - name: Media
           url: /media/
-          weight: 6
+          weight: 7
         - name: News
           url: /news/
-          weight: 7
+          weight: 8
         - name: Contact
           url: /contact/
-          weight: 8
+          weight: 9
   ru:
     languageName: ""
     weight: 2
@@ -86,6 +91,8 @@ languages:
             url: /ru/publications/
           - name: Выступления
             url: /ru/talks/
+          - name: "Преподавание"
+            url: /ru/teaching/
           - name: Тексты
             url: /ru/texts/
           - name: СМИ
@@ -112,21 +119,24 @@ languages:
         - name: Выступления
           url: /ru/talks/
           weight: 4
+        - name: "Преподавание"
+          url: /ru/teaching/
+          weight: 5
         - name: Тексты
           url: /ru/texts/
-          weight: 5
+          weight: 6
         - name: СМИ
           url: /ru/smi/
-          weight: 6
+          weight: 7
         - name: Новости
           url: /ru/news/
-          weight: 7
+          weight: 8
         - name: Консультации
           url: /ru/consult/
-          weight: 9
+          weight: 10
         - name: Контакты
           url: /ru/contact/
-          weight: 8
+          weight: 9
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

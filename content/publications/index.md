@@ -1,61 +1,41 @@
 ---
 title: "Publications"
-description: "Books, articles, and working papers by Nikita Obraztsov"
+description: "Academic publications, thesis, books and selected coursework by Nikita Obraztsov."
+translationKey: "publications"
 ---
 
-## Books
+## Academic publications
 
-**Religions of the World: How to Decode the Sacred Side of Humanity**
-Bombora/EKSMO, 2024.
-A popular science introduction to world religions for a general audience.
-[Publisher's page →](https://eksmo.ru/book/religioznyy-prosvet-kak-razgadat-sakralnuyu-storonu-chelovechestva-ITD1360441/)
+### Conference proceedings
 
-**Orthodox Traditions and Holidays** *(forthcoming)*
-Mann, Ivanov & Ferber (MIF). Under contract.
+**Obraztsov, N. A. (2025). The Concept of Belonging Without Believing in the Context of Orthodox Identity Formation in Russia.** In *Sociology and Society: Formation and Functioning of Social Memory*. Proceedings of the VII All-Russian Sociological Congress, pp. 3304–3308. EDN: QUINAN. (In Russian.)
 
----
-## MA Thesis
+I examine the applicability of belonging without believing to Russian Orthodox identity, focusing on the gap between declared religious affiliation and practice.
 
-**The Brights Movement as a Phenomenon of Contemporary Culture**
-St. Petersburg State University, MA in Religious Studies, 2020.
-Supervisor: Prof. Marianna Shakhnovich.
+[Original (PDF)](/papers/obraztsov-belonging.pdf) · [English translation](/texts/belonging-without-believing-en/)
 
-[Full text (Russian) →](/papers/ma-thesis-obraztsov.pdf)
+## Research in progress
 
-[Introduction and conclusion (English) →](/papers/brights-thesis-en.pdf) 
+**Network characteristics and the persistence of social practices** — Master's research, European University at St. Petersburg, 2025–2027. Earlier results were presented at EUSN 2026 and CSS 2026. [Project overview](/research/) · [EUSN slides (PDF)](/docs/EUSN.pdf)
 
----
+## Master's thesis
 
-## Journal articles and conference papers
+**Obraztsov, N. A. (2020). The Brights Movement as a Phenomenon of Contemporary Culture.** MA thesis in Religious Studies, St. Petersburg State University. Supervisor: Prof. Marianna M. Shakhnovich.
 
-**The Concept of Belonging Without Believing in the Context of Orthodox Identity Formation in Russia**
-In: *Sociology and Society: Formation and Functioning of Social Memory*. Proceedings of the VII All-Russian Sociological Congress. Moscow, November 2025. EDN QUINAN.
+[Full text in Russian (PDF)](/papers/ma-thesis-obraztsov.pdf) · [Selected excerpts in English: introduction, chapter 1 and conclusion (PDF)](/papers/brights-thesis-en.pdf)
 
-Analyzing the religious identity of Orthodox Christians in contemporary Russia, the author concludes that the concept of belonging without believing can be successfully applied to interpret sociological data. The article draws attention to a significant gap between declared religiosity and actual religious practice, and proposes possible mechanisms for interpreting empirically observable facts.
+## Books for a general audience
 
-[PDF →](/papers/obraztsov-belonging.pdf)
+**Obraztsov, N. A. (2024). Religions of the World: How to Decode the Sacred Side of Humanity.** Bombora/EKSMO. 208 pp. ISBN 978-5-04-192309-9. (In Russian.) [Publisher's page](https://eksmo.ru/book/religioznyy-prosvet-kak-razgadat-sakralnuyu-storonu-chelovechestva-ITD1360441/)
 
-[English translation →](/texts/belonging-without-believing-en/)
+**Orthodox Traditions and Holidays** — under contract with Mann, Ivanov & Ferber (MIF); not yet published.
 
----
-## Essays 
+## Selected coursework
 
-Why Do Young People with Higher Education Deconvert from Religion More Often?
+European University at St. Petersburg, 2025. These texts were written as course assignments.
 
-*Essay for the course "Introduction to Analytical Sociology" Nikita Obraztsov, European University at St. Petersburg, 2025*
-[Read the article →](/docs/deconversion-en.pdf)
+- **Why Do Young People with Higher Education Deconvert from Religion More Often?** Introduction to Analytical Sociology. [English (PDF)](/docs/deconversion-en.pdf) · [Russian (PDF)](/docs/deconversion.pdf)
+- **Does a Secular Course in Religious Studies Reduce Religiosity? A Proposed Randomised Experiment.** Introduction to Causality. [Essay (PDF)](/docs/causality-en.pdf)
+- **Review of Mark Chaves (2010), “Rain Dances in the Dry Season: Overcoming the Religious Congruence Fallacy”.** [Review (PDF)](/docs/chaves-review.pdf)
 
-Does a Secular Course in Religious Studies Affect Religiosity? A Proposed Randomised Experiment
-
-*Essay for the course "Introduction to Causality" Nikita Obraztsov, European University at St. Petersburg, 2025*
-
-[Read the article →](/docs/causality-en.pdf)
-
-Chaves, M. (2010). Rain Dances in the Dry Season: Overcoming the Religious Congruence Fallacy. Journal for the Scientific Study of Religion, 49(1), 1–14.
-
-_Academic review written for the European University at St. Petersburg, 2025._
-
-[Read the article →](/docs/chaves-review.pdf)
-
-
-
+[Google Scholar](https://scholar.google.com/citations?user=tYxoJv8AAAAJ) · [CV (PDF)](/cv.pdf)

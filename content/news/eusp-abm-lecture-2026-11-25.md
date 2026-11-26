@@ -3,6 +3,7 @@ title: "Public Lecture on Agent-Based Modelling at EUSP"
 date: 2026-11-25
 description: "Four studies illustrating the uses and limitations of computer simulations in sociology."
 tags: ["lecture", "agent-based modelling", "computational social science"]
+slug: "eusp-abm-lecture-2026-11-25"
 translationKey: "eusp-abm-lecture-2026-11-25"
 ---
 

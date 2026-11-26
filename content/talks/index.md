@@ -1,6 +1,7 @@
 ---
 title: "Talks"
 description: "Conference presentations, public lectures, and video lectures by Nikita Obraztsov"
+translationKey: "talks"
 ---
  
 ## Conference presentations
@@ -13,7 +14,7 @@ All-Russian roundtable on methodological strategies for the study of religiosity
 
 
 **Network Segregation as a Buffer Against Secularization: An Agent-Based Model**
-European Social Networks Conference (EUSN 2026), Norrköping, Sweden, August 2026 [Conference program →](/docs/EUSN_Program.pdf)
+8th European Conference on Social Networks (EUSN 2026), Norrköping, Sweden, 11–15 August 2026 (remote presentation). [Conference programme (PDF)](/docs/EUSN_Program.pdf)
 
 [Slides →](/docs/EUSN.pdf)
 
@@ -41,6 +42,14 @@ XXX International Educational Readings "Peter the Great at 350: A Secular World 
 
 ---
 
+## Research seminars and summer schools
+
+**AI & Methods in Computational Communication (AIM-CC)** — Nazarbayev University, Astana, August 2026. Poster presentation on agent-based modelling and closing talk. [Report](/news/news-aimcc-en/)
+
+**Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community** — ML PSA Lab seminar, 22 June 2026. [Transcript](/texts/seminar-en/)
+
+---
+
 ## Public lectures
  
 **How Computer Simulations Can Help Sociologists: Four Studies Worth Knowing**
@@ -54,11 +63,11 @@ Public lecture on agent-based modelling, School of Computational Social Sciences
 St. Petersburg, May 2026. Organised by [Medio Modo](https://mediomodo.ru).
 
 **From Discordia to the Flying Spaghetti Monster: Parody Religions in the Modern World**
-Moscow, May 2026. 
+Moscow, 2026.
 [Lecture transcript →](/texts/parody-religions/)
 
 **What Does the Modern Person Believe? From Horoscopes to Neural Networks**
-Moscow, March 2026.
+Moscow, 2026.
 [Lecture transcript →](/texts/lecture-moscow-20052026/)
 
 **Goddesses and Their Many Faces: Why Mythological Female Images Are More Complex Than They Seem**
@@ -73,13 +82,11 @@ Tele2 Art Space, Yelagin Island, St. Petersburg, August 2023. [Read text →](/t
 
 **Online-conference** 
 How Religions Answer the Question of Meaning: Finding Common Ground in Diversity
-Online conference "Buddha, Brain, and the Neurophysiology of Happiness", Tergar Meditation Centre, November 2025. Other participants included neuroscientist Richard Davidson (University of Wisconsin) and meditation master Mingyur Rinpoche. [Conference website →](https://conference.tergar.ru/)
+Online conference "Buddha, Brain, and the Neurophysiology of Happiness", Tergar Meditation Centre, November 2025. [Conference website →](https://conference.tergar.ru/)
 
 ## Teaching and educational projects
 
-**Pravoe Polusharie Introverta**
-Staff lecturer since 2022. 100+ lectures on world religions, Orthodox Christianity, and cultural history of religion. Available on the platform via subscription.
-[Lecturer profile →](https://new.artforintrovert.ru/lecturer/63c79ad8f3cf3a0028f9b335/)
+See [Teaching & Outreach](/teaching/) for my teaching experience, course mentoring and selected recordings.
 
 ---
 
