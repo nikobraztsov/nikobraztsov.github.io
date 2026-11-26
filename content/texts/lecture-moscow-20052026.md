@@ -11,6 +11,9 @@ translationKey: "texts-modern-belief"
 showToc: true
 ---
 
+**Editorial note, 26 November 2026.** The demographic projections have been updated since the lecture. The [2015 Pew projection](https://www.pewresearch.org/religious-landscape-study/2015/04/02/religious-projections-2010-2050/) still placed Christianity first in 2050. In the [new projection published on 18 November 2026](https://doi.org/10.58094/qx43-nn81), Muslims account for a projected 32.1% of the world population in 2050, Christians 28.5%, and the unaffiliated 19.9% ([data table](https://www.pewresearch.org/future-of-world-religions/region/world/)). These are conditional projections that incorporate demographic and religious-switching assumptions. They concern affiliation, not the prevalence of particular beliefs or practices. The lecture's Russian survey figures are retained as historical claims pending verification against original questionnaires. The transformation of religion and secularisation are competing or complementary analytical frameworks; a decline in institutional affiliation does not by itself establish growth in alternative spirituality.
+
+
 _Transcript of a public lecture delivered in Moscow in 2026._
 
 Good afternoon. Thank you for spending a sunny day on my lecture. Today I will be talking about religion in the modern world through a specific theoretical lens. The plan: first a short theoretical preamble, then we will discuss the contemporary religious situation — what kind of world we live in, where we are heading. Then secularization theory and its current state — is it alive, dead, more dead than alive? Views differ. Then how contemporary sociologists look at the religious situation anew. And finally, what the title promises: what does the modern person believe?
@@ -19,7 +22,7 @@ Good afternoon. Thank you for spending a sunny day on my lecture. Today I will b
 
 Before talking about social reality, we need to be clear that we always depart from some theoretical premise. The most basic one sounds like this: the world can be objectively known, including the social world around us.
 
-There are opposing positions — constructivist ones, arguing that religion does not exist as such, that it is a construct scholars agreed to call something. Paradigm wars continue in the social sciences to this day. Auguste Comte, the recognized founder of sociology as a science, was also the founder of positivist philosophy. In the 20th century a genuine battle broke out between neo-positivists — Bertrand Russell, Karl Popper — and constructivists.
+Constructivist approaches question how the category of religion is formed and used. The history of philosophy of science includes debates over positivism, scientific realism and other positions. Auguste Comte was a major figure in the development of positivism; Karl Popper was a critic of logical positivism and developed critical rationalism ([overview](https://plato.stanford.edu/entries/popper/)).
 
 I am not hiding this and am prepared to say it publicly: I am a supporter of the positivist paradigm. I think we can talk about religion objectively, or at least try. This is an important methodological stance.
 
@@ -89,7 +92,7 @@ If we add questions about regular communion, Bible reading, prayer — the figur
 
 - Only 9% of Orthodox Russians knew the dogma of the Holy Trinity (FOM, 2013). This is the central dogma — it is what makes someone a Christian.
 - Only 2% of respondents take communion regularly.
-- 69% of Orthodox Christians believe the Holy Spirit proceeds from both the Father and the Son — which is the Catholic position, not Orthodox. So 70% of Russia's Orthodox Christians are, theologically speaking, covert Catholics.
+- A figure of 69% is cited in the lecture for agreement with a formulation associated with the filioque. The original survey wording and denominator need verification. A response to one doctrinal question does not establish Catholic affiliation.
 
 This gap is very well explained by the PIB model: first practice leaves, then importance, then belonging. Russia is at an intermediate stage.
 
@@ -99,7 +102,7 @@ The mainstream sociological position is that Soviet anti-religious policy suppre
 
 The developed world is becoming less religious — where conditions for this exist. But this does not mean religion is dying.
 
-According to Pew Research, between 2010 and 2020 Christianity grew by 120 million. Islam grew by 350 million — the fastest-growing religion in the world in both absolute and relative terms. The second-fastest-growing group: the religiously unaffiliated, plus 270 million. Pew projects that by 2050 Islam will be the world's largest religion — purely demographic statistics, driven by birth rates.
+According to [Pew Research (2025)](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/), the Christian population grew by 122 million, the Muslim population by 347 million and the religiously unaffiliated population by 270 million between 2010 and 2020. These figures concern religious affiliation. The 2015 demographic projection still placed Christianity first in 2050; see the dated update above for the revised projection.
 
 A quarter of the world's population are now religiously unaffiliated (nones). In the Netherlands — already 72%, Norway 62%, the UK 58%. Crucially: these are not atheists. A person who answered "none" to a religion question may perfectly well order a tarot reading that evening. Nones hold very diverse views — what unites them is not being satisfied by institutional religion.
 
@@ -127,7 +130,7 @@ Grace Davie formulated the concept of **vicarious religion**: most people approv
 
 **Science and pseudoscience.** 33% of American adults believe humans existed in their current form from the very beginning — no evolution. 60% accept evolution. Education itself is not a significant predictor of religiosity: in Russia there is no significant correlation between education level and frequency of church attendance. Some data suggest the more educated tend to attend religious institutions slightly more often.
 
-**Generational theory.** The idea that each generation — Gen Z, Millennials, Boomers — has its own defining characteristics is not empirically supported. Research shows: generational differences exist at the time of measurement, but over time, people of the same age value the same things, regardless of birth year. How is this different from astrology? "You were born an Aries — live accordingly." "You were born a Zoomer — you are a Zoomer forever." This is a good example of what sometimes replaces religion: equally non-scientific ideas.
+**Generational theory.** Popular descriptions of generations often attribute differences to birth cohorts without separating age and period effects. Cohort effects can be investigated empirically, but they require suitable data and identifying assumptions ([Pew, 2023](https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/)).
 
 ## The Digitization of Religion
 
@@ -141,7 +144,7 @@ I spent about half an hour chatting with Magisterium AI. I tried to convert it t
 
 When religion exits the domain of knowledge, that domain is often filled by strange things — completely unproven but highly influential. Astrology, conspiracy theories, generational theory are examples.
 
-Religion is intimately connected to the social — Durkheim wrote about this, virtually every sociologist of religion has. This is currently the biggest challenge: how does the socialization of modern people work? In some countries, people simply do not interact with one another. There have been attempts to create "atheist churches" — Sunday Assembly in the UK (2013). Nothing came of it. For now, this aspect of religion — the social glue — is something non-religious society can barely replace.
+Religion is closely connected with social life, a topic central to Durkheim. Secular organisations also experiment with collective rituals. A [field study of Sunday Assembly](https://doi.org/10.1371/journal.pone.0242546) found increases in reported social bonding and positive affect after meetings. This does not establish that secular congregations can replace all social functions of religious institutions, but it does provide evidence of one mechanism of secular solidarity.
 
 Two directions of religious process:
 

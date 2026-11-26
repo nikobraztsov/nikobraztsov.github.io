@@ -8,6 +8,9 @@ translationKey: "texts-concept-of-religion"
 showToc: true
 ---
 
+**Editorial note, 26 November 2026.** The three approaches presented here are a teaching framework rather than an exhaustive taxonomy. Scientific realism, naturalism, essentialism and reductionism concern different philosophical questions; they need not be adopted together (see [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)). Geertz's interpretive anthropology is used as an illustration of attention to meaning, rather than classified as identical to phenomenology of religion. Constructivist analyses of the category of religion also need not deny the existence of the practices and institutions being classified (see [On the Category of Religion](https://doi.org/10.1093/jaarel/lfad065)).
+
+
 *Based on a video lecture.*
 
 *Video lecture: [YouTube](https://www.youtube.com/watch?v=pP4sGKRgOb0)*
@@ -24,7 +27,7 @@ Three approaches, then. Three frameworks through which scholars approach the phe
 
 The realist approach rests on two claims. First: the phenomenon exists objectively, in the real world. Second: it can be studied objectively, through facts and theories. That is, religion genuinely exists, it can be grasped through empirical investigation, it is a fact of reality that can be explained through other facts arranged into a complex theory.
 
-This worldview is called scientific essentialism, naturalism, or reductionism. The word "reductionism" is key: critics argue that followers of this approach try to collapse all the complexity of reality, all the complexity of the phenomenon, into a single simple construction.
+Realism may be combined with naturalistic explanations. Essentialism and reductionism are distinct methodological or philosophical positions, and neither follows automatically from realism. Critics of reductionism question whether complex religious phenomena can be adequately explained at a single level of analysis.
 
 The classic example is Pascal Boyer's cognitive science of religion. For Boyer, religion is an objectively existing thing that can be measured and examined — a fact of reality. This fact is explained through other facts: Boyer proposes starting from brain functions and the adaptive capacities of the organism. His book is titled accordingly: *Religion Explained*. It reads almost like a manifesto.
 

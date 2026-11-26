@@ -13,6 +13,9 @@ translationKey: "texts-youth-religiosity"
 showToc: true
 ---
 
+**Editorial note, 26 November 2026.** This lecture uses surveys available in 2022. Its percentages should not be read as current estimates. Comparisons between students, young adults and the general population require comparable sampling, question wording and denominators. A cross-sectional difference between age groups cannot by itself identify a generational effect: age, period and cohort must be distinguished ([Pew, 2023](https://www.pewresearch.org/decoded/2023/05/22/assessing-the-effects-of-generation-using-age-period-cohort-analysis/)). The numerical claims are retained pending verification against the original survey instruments; neither doctrinal knowledge nor attendance alone establishes a person's religious identity.
+
+
 *Paper presented at the XXX International Educational Readings "Peter the Great at 350: A Secular World and Religiosity", May 2022.*
 
 *Video recording: [YouTube](https://www.youtube.com/watch?v=D5vf2G5Wfx4)*
@@ -41,7 +44,7 @@ One more thing: the value hierarchy of Tambov students. First place: family, at 
 
 Now for some data that genuinely astonished me when I first encountered them — and which have received remarkably little attention.
 
-According to the Public Opinion Foundation (FOM), around 69% of Orthodox Russians believe that the Holy Spirit proceeds from both the Father and the Son. This is the Catholic position — the filioque formula. This precise theological disagreement was at the heart of the Great Schism between the Eastern and Western churches in 1054. The Orthodox position is that the Holy Spirit proceeds from the Father alone.
+The lecture cites a Public Opinion Foundation (FOM) figure of around 69% for agreement with the formulation associated with the filioque. The exact question and denominator require verification. The filioque was among several disputes contributing to the East–West Schism, alongside questions of ecclesiastical authority ([historical overview](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-papacy/schism-of-1054/70C9594AB09FBB67487F1BF00BF7CCEE)).
 
 Only around 10% of respondents gave the answer that corresponds to Orthodox teaching.
 
@@ -97,4 +100,4 @@ Both young people and older generations frequently lack basic knowledge of doctr
 
 One cannot say that young people differ fundamentally from older generations. The religious landscape is relatively uniform, with a modest intergenerational gap.
 
-And the main conclusion, which I consider essential: we live in a predominantly secular society. Whether this is good or bad is a value judgement — not my department. But it is a fact that all available data consistently confirm.
+The indicators considered here suggest a substantial gap between religious affiliation and regular practice. Whether this warrants describing society as secular depends on the definition and indicators of secularisation.

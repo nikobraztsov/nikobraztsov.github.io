@@ -8,6 +8,9 @@ translationKey: "texts-primordial-monotheism"
 showToc: true
 ---
 
+**Editorial note, 26 November 2026.** The comparative evidence discussed in this lecture does not establish a universal sequence of religious evolution. Belief in a supreme deity, exclusive monotheism and belief in morally punitive gods are different variables. [Peoples, Duda and Marlowe (2016)](https://doi.org/10.1007/s12110-016-9260-0) reconstruct ancestral religious traits from contemporary hunter-gatherer data; their analysis supports neither the prevalence of high gods among ancestral hunter-gatherers nor the identification of living communities with prehistoric societies. The reconstruction remains model-dependent. [Stark (2001)](https://doi.org/10.1111/0021-8294.00081) reports an association between moralising gods and social complexity, which does not establish their temporal ordering. The 2019 Nature paper on the ordering of social complexity and moralising gods was subsequently [retracted](https://doi.org/10.1038/s41586-021-03656-3). The ethnographic evidence gives reasons to question primordial monotheism; it cannot establish the exact beliefs of the earliest humans. The archaeological chronology in the original lecture requires a separate source check: Lee's 1979 study concerns the !Kung San, rather than a universal chronology of ancient ritual.
+
+
 *Based on a video lecture.*
 
 *Video lecture: [YouTube](https://www.youtube.com/watch?v=FTJeXHeftw8)*
@@ -44,7 +47,7 @@ One important point must be made here. The fact that primordial monotheism is us
 
 ## How to Test the Claim
 
-The logic of the test is straightforward. If a complex, personal, moral, single god genuinely existed at early stages of civilizational development, then most societies at those same stages of development should possess such gods. Otherwise the theory contradicts both logic and basic knowledge of how societies work.
+One way to evaluate the hypothesis is to compare religious traits across societies. This tests implications of the hypothesis under assumptions about the relevance of contemporary ethnographic evidence; it does not directly reconstruct prehistoric beliefs.
 
 So: do simple societies, hunter-gatherers in particular, tend toward monotheism? We can now answer this question with substantial data.
 
@@ -70,9 +73,9 @@ Many cultures traditionally regarded as "pagan" did have a conception of a supre
 
 ## The Verdict
 
-The evidence is consistent: monotheism is not the original form of religion. Gods become more complex and acquire moral dimensions as societies themselves become more complex. The idea of primordial monotheism grew from theological needs and was developed most fully by scholars with a confessional starting point. That does not make it automatically false, but the empirical record does not support it.
+The comparative evidence gives reasons to question the hypothesis of primordial monotheism. Associations between social complexity and moralising gods are informative, but cannot by themselves establish a universal sequence of religious evolution.
 
-Today there is scientific consensus: primordial monotheism is a scholarly myth.
+A universal primordial monotheism is not established by the available empirical evidence.
 
 ---
 
