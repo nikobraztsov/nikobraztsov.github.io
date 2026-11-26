@@ -18,3 +18,21 @@ data/**/*.csv
 # OS
 .DS_Store
 Thumbs.db
+
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# macOS
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/

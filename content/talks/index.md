@@ -36,6 +36,12 @@ XXX International Educational Readings "Peter the Great at 350: A Secular World 
 
 ## Public lectures
  
+**How Computer Simulations Can Help Sociologists: Four Studies Worth Knowing**
+
+Public lecture on agent-based modelling, School of Computational Social Sciences, European University at St. Petersburg, November 2026.
+
+[University event page →](https://eusp.org/events/chem-kompyuternye-simulyacii-polezny-sociologu-chetyre-issledovaniya-kotorye-stoit-znat)
+[Lecture overview →](/news/eusp-abm-lecture-2026-11-25/)
 
 **Religion Without God: Buddhism, Daoism, and Secular Humanism**
 St. Petersburg, May 2026. Organised by [Medio Modo](https://mediomodo.ru).
