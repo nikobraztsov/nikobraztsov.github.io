@@ -15,13 +15,15 @@ languages:
       profileMode:
         enabled: true
         title: Nikita Obraztsov
-        subtitle: "MA student in Computational Sociology at the European University at St. Petersburg (exp. 2027). MA in Religious Studies, St. Petersburg State University. Member of the Russian Religious Studies Association. Research: secularization theory, contemporary religiosity, computational methods in the study of religion."
+        subtitle: "MA student in Computational Sociology at the European University at St. Petersburg (2025–2027). My research focuses on social networks, agent-based modelling, social influence, and the persistence of social practices. I also hold an MA in Religious Studies from St. Petersburg State University."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
         buttons:
           - name: About
             url: /about/
+          - name: Research
+            url: /research/
           - name: Publications
             url: /publications/
           - name: Talks
@@ -41,24 +43,27 @@ languages:
         - name: About
           url: /about/
           weight: 1
+        - name: Research
+          url: /research/
+          weight: 2
         - name: Publications
           url: /publications/
-          weight: 2
+          weight: 3
         - name: Talks
           url: /talks/
-          weight: 3
+          weight: 4
         - name: Texts
           url: /texts/
-          weight: 4
+          weight: 5
         - name: Media
           url: /media/
-          weight: 5
+          weight: 6
         - name: News
           url: /news/
-          weight: 6
+          weight: 7
         - name: Contact
           url: /contact/
-          weight: 7
+          weight: 8
   ru:
     languageName: ""
     weight: 2
@@ -68,13 +73,15 @@ languages:
       profileMode:
         enabled: true
         title: Никита Образцов
-        subtitle: "Магистрант вычислительной социологии, Европейский университет в Санкт-Петербурге (выпуск 2027). Магистр религиоведения СПбГУ. Член Русского религиоведческого общества. Научные интересы: современная религиозная ситуация, теория секуляризации, компьютерные методы в религиоведении."
+        subtitle: "Магистрант программы «Вычислительная социология» Европейского университета в Санкт-Петербурге (2025–2027). Занимаюсь анализом социальных сетей, агентным моделированием, изучением социального влияния и устойчивости социальных практик. Магистр религиоведения СПбГУ."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
         buttons:
           - name: Обо мне
             url: /ru/about/
+          - name: Исследования
+            url: /ru/research/
           - name: Публикации
             url: /ru/publications/
           - name: Выступления
@@ -96,27 +103,30 @@ languages:
         - name: Обо мне
           url: /ru/about/
           weight: 1
+        - name: Исследования
+          url: /ru/research/
+          weight: 2
         - name: Публикации
           url: /ru/publications/
-          weight: 2
+          weight: 3
         - name: Выступления
           url: /ru/talks/
-          weight: 3
+          weight: 4
         - name: Тексты
           url: /ru/texts/
-          weight: 4
+          weight: 5
         - name: СМИ
           url: /ru/smi/
-          weight: 5
+          weight: 6
         - name: Новости
           url: /ru/news/
-          weight: 6
+          weight: 7
         - name: Консультации
           url: /ru/consult/
-          weight: 8
+          weight: 9
         - name: Контакты
           url: /ru/contact/
-          weight: 7
+          weight: 8
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

@@ -1,47 +1,43 @@
 ---
 title: "About"
-description: "About Nikita Obraztsov"
----
-My name is Nikita Obraztsov. I am a religious studies scholar, computational social scientist, and science communicator, based in St. Petersburg.
-
-I have been engaged with the social sciences since the age of fourteen. In 2013, I won the national stage of the All-Russian Olympiad in Social Studies, which gave me the opportunity to enrol at Kutafin Moscow State Law University without entrance exams. I graduated with distinction in 2018. But the real interest, the study of world religions, had already taken over. I read Fraser, Eliade, Boyer, took academic courses on Coursera, and eventually enrolled in the Religious Studies MA at St. Petersburg State University, again without exams, after winning the HSE Olympiad in Philosophy of Religion.
-
-My academic supervisor was Marianna Mikhailovna Shakhnovich (1957-2025), Doctor of Philosophy, longtime head of the Department of Philosophy of Religion and Religious Studies at SPbSU, author of more than 300 scholarly works, and one of the founders of the contemporary St. Petersburg school of religious studies. My dissertation examined the Brights movement as a phenomenon of contemporary culture. I graduated with distinction in 2020.
-
-After completing the MA, I launched the ON Religion popular science project: over 250 videos on the scientific study of religion on YouTube, including a lecture series on the history of atheism and freethought. In 2023, a video lecture was shortlisted for the Khrustalny Pingvinopitec award, an annual competition for the best popular science video in Russian, run by Antropogenez.ru. Since December 2022 I have been a staff lecturer and course curator at Pravoe Polusharie Introverta, and I give public lectures at the Medio Modo lecture series. In 2024, my book _World Religions: How to Decode the Sacred Side of Humanity_ was published by Bombora/EKSMO.
-
-In 2025, I decided to pursue an academic career and enrolled in the Computational Sociology MA at the European University at St. Petersburg. I am interested in applying computational methods, machine learning, social network analysis, agent-based modelling, to the study of religion, a combination I believe remains underexplored. My current project is an agent-based model of religious communities on stochastic block model graphs. After completing the MA, I plan to pursue a PhD in Computational Social Science.
-
-Outside of work: I play chess (ELO 1950), and I run. Two marathons, six half-marathons, one Backyard Ultra. I ran the Road of Life Marathon at -16°C in under four hours, and that one I am particularly proud of. Personal bests: 10 km — 47:05, 30 km — 2:29:26. Currently training for HYROX and the Comrades Marathon. My favourite band is King Crimson, my favourite writer is Thomas Mann, and I have a deep appreciation for the poetry of T. S. Eliot.
-
+description: "Academic background, research interests, education and selected achievements of Nikita Obraztsov."
+translationKey: "about"
 ---
 
-### Research Interests
+I am an MA student in Computational Sociology at the [European University at St. Petersburg](https://eusp.org/en/programs/magcomputationalsociology). My research concerns social influence, the structure of social networks, and the persistence of beliefs and practices. I am currently developing an agent-based model to examine how the characteristics of social ties affect the persistence of practices under majority influence. [More about my research →](/research/)
 
-- Sociology of religion and secularization theory
+I have been interested in the social sciences since I was fourteen. In 2013, I won the final round of the All-Russian School Olympiad in Social Studies, which allowed me to enter Kutafin Moscow State Law University without entrance exams. I graduated with distinction in 2018. During my law degree, I became increasingly interested in the academic study of religion. I read Frazer, Eliade and Boyer, took university courses online, and eventually entered the MA programme in Religious Studies at St. Petersburg State University after winning an HSE philosophy olympiad.
+
+My MA supervisor was Marianna Mikhailovna Shakhnovich (1957–2025), a scholar of religion and longtime head of the Department of Philosophy of Religion and Religious Studies at St. Petersburg State University. I wrote my thesis on the Brights movement as a phenomenon of contemporary culture and graduated with distinction in 2020.
+
+After completing my MA, I started [ON Religion](https://www.youtube.com/@ON_religio), a science communication project that grew to more than 250 videos, including a lecture series on the history of atheism and freethought. Since 2022, I have worked as a lecturer and course curator at Pravoe Polusharie Introverta and have given public lectures in other venues, including the Medio Modo lecture series. In 2024, my book *Religions of the World: How to Decode the Sacred Side of Humanity* was published in Russian by Bombora (EKSMO). I am a member of the Russian Religious Studies Association.
+
+In 2025, I returned to university to study computational social science. My background in religious studies continues to inform my research questions, especially those concerning social influence and the conditions under which communities maintain shared practices. I plan to pursue doctoral research in computational social science after completing my current degree in 2027.
+
+Outside academia, I play chess and run long distances. One race I am particularly proud of is the Road of Life Marathon, which I completed in under four hours at −16°C. My favourite band is King Crimson, my favourite novelist is Thomas Mann, and I also enjoy the poetry of T. S. Eliot.
+
+## Research interests
+
+- Social network analysis and network science
 - Agent-based modelling of social processes
-- Social network analysis and network topology
-- History of atheism and freethought
-- Religion and popular culture
-- Orthodox Christianity: theology, liturgics, folk tradition
+- Social influence, opinion dynamics and cultural transmission
+- Persistence and change of social practices
+- Analytical sociology and mechanism-based explanation
+- Sociology of religion and secularisation
 
-### Education
+## Education
 
-- **MA student, Computational Social Sciences** — European University at St. Petersburg (exp. 2027)
-- **MA in Religious Studies** (with distinction, 2020) — St. Petersburg State University. [MA thesis →](/papers/ma-thesis-obraztsov.pdf)
+- **MA in Computational Sociology** (in progress, 2025–2027) — European University at St. Petersburg.
+- **MA in Religious Studies** (with distinction, 2020) — St. Petersburg State University. [MA thesis](/papers/ma-thesis-obraztsov.pdf) · [Diploma](/docs/diploma-spbu.pdf)
+- **Bachelor's degree in Law** (with distinction, 2018) — Kutafin Moscow State Law University. [Diploma](/docs/bak-diploma.pdf)
 
-My MA diploma is [Here →](/docs/diploma-spbu.pdf)
-- **BA in Law** (with distinction, 2018) — Kutafin Moscow State Law University
+## Selected achievements
 
-BA diploma can be found [Here →](/docs/bak-diploma.pdf)
+- **All-Russian Student Olympiad “Sociologist of the 21st Century” (2026):** third place in the individual competition and recognition in three categories: video essay, VCIOM data analysis, and Russian Field autoethnography. [University announcement](https://eusp.org/news/nikita-obrazcov-stal-trizhdy-prizyorom-olimpiady-sociolog-v-xxi-veke) · [Certificate](/docs/sociolog.pdf)
+- **Crystal Penguinopithecus Award (2023):** finalist in the annual Russian-language popular science video competition.
+- **HSE Olympiad in Philosophy (2018):** first-degree diploma in the Philosophy and History of Religion track, 84/100. [Certificate](/docs/religiovedenie-hse.pdf)
+- **All-Russian School Olympiad in Social Studies (2013):** winner of the final round. [Certificate](/docs/vseross.pdf)
 
-### Selected Achievements
+## CV
 
-- Triple prize-winner, IV All-Russian Student Olympiad "Sociologist of the 21st Century" (2026): 3rd place individual ranking; Best Video Essay; Best VCIOM Analytics Report ([source](https://eusp.org/news/nikita-obrazcov-stal-trizhdy-prizyorom-olimpiady-sociolog-v-xxi-veke)). Diploma is [Here →](/docs/sociolog.pdf)
-- Shortlisted for the Crystal Penguinopithecus Award (2023) for best popular science video of the year. 
-- First-degree diploma, HSE Olympiad for Students and Graduates in Philosophy (track: Philosophy and History of Religion), 84/100 (2018). [Certificate →](/docs/religiovedenie-hse.pdf)
-- Winner, All-Russian Olympiad in Social Studies, national level (2013). Diploma is [here →](/docs/sociolog.pdf)
-
-### CV
-
-[Download CV (EN)](/cv.pdf)
+[Download CV (English)](/cv.pdf) · [CV (Russian)](/cv-ru.pdf)
