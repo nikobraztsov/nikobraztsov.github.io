@@ -10,6 +10,10 @@ description: "Contact Nikita Obraztsov"
 
 ## Academic profiles
 
+**ORCID:** [0009-0001-1377-6188](https://orcid.org/0009-0001-1377-6188)
+
+**GitHub:** [nikobraztsov](https://github.com/nikobraztsov)
+
 **Google Scholar:** [Nikita Obraztsov ](https://scholar.google.com/citations?user=tYxoJv8AAAAJ)
 
 **LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)

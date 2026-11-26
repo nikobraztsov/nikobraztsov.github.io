@@ -7,13 +7,15 @@ description: "Контактная информация"
 
 **Email:** [nikobrazets@gmail.com](mailto:nikobrazets@gmail.com)
 
-**Резервная почта** [nikobraz19@yandex.ru]
+**Резервная почта:** [nikobraz19@yandex.ru](mailto:nikobraz19@yandex.ru)
 
 **Личный контакт в telegram:** [@nikobraz19](https://t.me/nikobraz19)
 
-**LinkedIn:** [nikobraztsov](https://www.linkedin.com/in/nikobraztsov/)
-
 ## Академические профили:
+
+**ORCID:** [0009-0001-1377-6188](https://orcid.org/0009-0001-1377-6188)
+
+**GitHub:** [nikobraztsov](https://github.com/nikobraztsov)
 
 **Google Scholar**: [Nikita Obraztsov](https://scholar.google.com/citations?user=tYxoJv8AAAAJ)
 

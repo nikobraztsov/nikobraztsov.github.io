@@ -4,13 +4,13 @@ description: "Academic background, research interests, education and selected ac
 translationKey: "about"
 ---
 
-I am an MA student in Computational Sociology at the [European University at St. Petersburg](https://eusp.org/en/programs/magcomputationalsociology). My research concerns social influence, the structure of social networks, and the persistence of beliefs and practices. I am currently developing an agent-based model to examine how the characteristics of social ties affect the persistence of practices under majority influence. [More about my research →](/research/)
+I am an MA student in Computational Sociology at the [European University at St. Petersburg](https://eusp.org/en/programs/magcomputationalsociology). I study social influence in networks and the persistence of beliefs and practices. [More about my research →](/research/)
 
 I have been interested in the social sciences since I was fourteen. In 2013, I won the final round of the All-Russian School Olympiad in Social Studies, which allowed me to enter Kutafin Moscow State Law University without entrance exams. I graduated with distinction in 2018. During my law degree, I became increasingly interested in the academic study of religion. I read Frazer, Eliade and Boyer, took university courses online, and eventually entered the MA programme in Religious Studies at St. Petersburg State University after winning an HSE philosophy olympiad.
 
 My MA supervisor was Marianna Mikhailovna Shakhnovich (1957–2025), a scholar of religion and longtime head of the Department of Philosophy of Religion and Religious Studies at St. Petersburg State University. I wrote my thesis on the Brights movement as a phenomenon of contemporary culture and graduated with distinction in 2020.
 
-After completing my MA, I started [ON Religion](https://www.youtube.com/@ON_religio), a science communication project that grew to more than 250 videos, including a lecture series on the history of atheism and freethought. Since 2022, I have worked as a lecturer and course curator at Pravoe Polusharie Introverta and have given public lectures in other venues, including the Medio Modo lecture series. In 2024, my book *Religions of the World: How to Decode the Sacred Side of Humanity* was published in Russian by Bombora (EKSMO). I am a member of the Russian Religious Studies Association.
+After completing my MA, I started [ON Religion](https://www.youtube.com/@ON_religio), a science communication project that grew to more than 250 videos, including a lecture series on the history of atheism and freethought. Since 2022, I have taught at [Pravoe Polusharie Introverta](/teaching/) and have given public lectures in other venues, including the Medio Modo lecture series. In 2024, my book *Religions of the World: How to Decode the Sacred Side of Humanity* was published in Russian by Bombora (EKSMO). I am a member of the Russian Religious Studies Association.
 
 In 2025, I returned to university to study computational social science. My background in religious studies continues to inform my research questions, especially those concerning social influence and the conditions under which communities maintain shared practices. I plan to pursue doctoral research in computational social science after completing my current degree in 2027.
 
@@ -34,7 +34,7 @@ Outside academia, I play chess and run long distances. One race I am particularl
 ## Selected achievements
 
 - **All-Russian Student Olympiad “Sociologist of the 21st Century” (2026):** third place in the individual competition and recognition in three categories: video essay, VCIOM data analysis, and Russian Field autoethnography. [University announcement](https://eusp.org/news/nikita-obrazcov-stal-trizhdy-prizyorom-olimpiady-sociolog-v-xxi-veke) · [Certificate](/docs/sociolog.pdf)
-- **Crystal Penguinopithecus Award (2023):** finalist in the annual Russian-language popular science video competition.
+- **Crystal Penguinopithecus Award (2023):** third place in the Master category and winner of the audience vote. [Official results](https://videopitek.ru/blog/final-2023/)
 - **HSE Olympiad in Philosophy (2018):** first-degree diploma in the Philosophy and History of Religion track, 84/100. [Certificate](/docs/religiovedenie-hse.pdf)
 - **All-Russian School Olympiad in Social Studies (2013):** winner of the final round. [Certificate](/docs/vseross.pdf)
 
@@ -44,4 +44,6 @@ Outside academia, I play chess and run long distances. One race I am particularl
 
 ## Contact and updates
 
-[Contact](/contact/) · [News](/news/)
+[Email](mailto:nikobrazets@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=tYxoJv8AAAAJ) · [ORCID](https://orcid.org/0009-0001-1377-6188) · [GitHub](https://github.com/nikobraztsov)
+
+[All contact details](/contact/) · [News](/news/)

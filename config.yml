@@ -15,27 +15,13 @@ languages:
       profileMode:
         enabled: true
         title: Nikita Obraztsov
-        subtitle: "MA student in Computational Sociology at the European University at St. Petersburg (2025–2027). My research focuses on social networks, agent-based modelling, social influence, and the persistence of social practices. I also hold an MA in Religious Studies from St. Petersburg State University."
+        subtitle: "MA student in Computational Sociology at the European University at St. Petersburg. I study social networks, social influence and the persistence of social practices using computational methods."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
         buttons:
-          - name: About
-            url: /about/
-          - name: Research
-            url: /research/
-          - name: Publications
-            url: /publications/
-          - name: Teaching
-            url: /teaching/
-          - name: Media
-            url: /media/
-          - name: Texts
-            url: /texts/
           - name: News
             url: /news/
-          - name: RU
-            url: /ru/
     menu:
       main:
         - name: About
@@ -61,31 +47,30 @@ languages:
     weight: 2
     contentDir: content-ru
     params:
+      socialIcons:
+        - name: "CV"
+          url: "/cv-ru.pdf"
+        - name: "Email"
+          url: "mailto:nikobrazets@gmail.com"
+        - name: "Google Scholar"
+          url: "https://scholar.google.com/citations?user=tYxoJv8AAAAJ"
+        - name: "ORCID"
+          url: "https://orcid.org/0009-0001-1377-6188"
+        - name: "GitHub"
+          url: "https://github.com/nikobraztsov"
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/nikobraztsov/"
       description: "Вычислительная социология, анализ социальных сетей, агентное моделирование и социология религии. Исследования, публикации и выступления."
       profileMode:
         enabled: true
         title: Никита Образцов
-        subtitle: "Магистрант программы «Вычислительная социология» Европейского университета в Санкт-Петербурге (2025–2027). Занимаюсь анализом социальных сетей, агентным моделированием, изучением социального влияния и устойчивости социальных практик. Магистр религиоведения СПбГУ."
+        subtitle: "Магистрант программы «Вычислительная социология» ЕУСПб. Изучаю социальные сети, социальное влияние и устойчивость социальных практик с помощью вычислительных методов."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
         buttons:
-          - name: Обо мне
-            url: /ru/about/
-          - name: Исследования
-            url: /ru/research/
-          - name: Публикации
-            url: /ru/publications/
-          - name: Преподавание
-            url: /ru/teaching/
-          - name: СМИ
-            url: /ru/smi/
-          - name: Тексты
-            url: /ru/texts/
           - name: Новости
             url: /ru/news/
-          - name: EN
-            url: /
     menu:
       main:
         - name: Обо мне
@@ -141,18 +126,18 @@ params:
     math: true
 
     socialIcons:
-        - name: CV
-          url: /cv.pdf
-        - name: Email
-          url: mailto:nikobrazets@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=tYxoJv8AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@ON_religio
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/nikobraztsov/
-        - name: Telegram
-          url: https://t.me/nikitaobraztsov
+      - name: "CV"
+        url: "/cv.pdf"
+      - name: "Email"
+        url: "mailto:nikobrazets@gmail.com"
+      - name: "Google Scholar"
+        url: "https://scholar.google.com/citations?user=tYxoJv8AAAAJ"
+      - name: "ORCID"
+        url: "https://orcid.org/0009-0001-1377-6188"
+      - name: "GitHub"
+        url: "https://github.com/nikobraztsov"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/nikobraztsov/"
 
     assets:
         disableScrollBarStyle: true

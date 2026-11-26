@@ -1,0 +1,26 @@
+/* Academic portfolio: header, profile and responsive navigation. */
+.main .profile {
+    min-height: 0;
+    padding: clamp(24px, 6vw, 64px) 0;
+}
+.profile .profile_inner { width: 100%; min-width: 0; gap: 12px; }
+.profile .profile_inner > span { max-width: 640px; line-height: 1.65; }
+.profile .profile_inner h1 { font-size: clamp(1.7rem, 5vw, 2.2rem); line-height: 1.2; }
+.profile .social-icons { display: flex; flex-wrap: wrap; gap: 4px; }
+.profile .social-icons a { padding: 9px; min-width: 44px; min-height: 44px; align-items: center; justify-content: center; }
+.profile .social-icons a svg { width: 24px; height: 24px; }
+.profile .buttons { gap: 8px; }
+.profile .button { margin: 0; padding: 8px 10px; min-height: 44px; display: inline-flex; align-items: center; }
+.nav #menu { min-width: 0; flex-wrap: wrap; white-space: normal; gap: 0 16px; overflow-x: visible; }
+.nav #menu li + li { margin-inline-start: 0; }
+.nav a:focus-visible, .profile a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+@media (max-width: 900px) {
+    .nav { flex-direction: column; align-items: stretch; line-height: 1.4; padding-block: 4px 8px; }
+    .nav .logo, .nav #menu { margin: 0 var(--gap); }
+    .nav .logo { min-height: 44px; align-items: center; }
+    .nav #menu { gap: 0 16px; }
+    .nav #menu a { display: flex; align-items: center; min-height: 44px; font-size: 15px; }
+    .nav .lang-switch a { display: inline-flex; min-height: 44px; align-items: center; padding-inline: 5px; }
+    .profile img { transform: none; max-width: 100%; height: auto; }
+    .main .profile { padding-block: 24px; }
+}
