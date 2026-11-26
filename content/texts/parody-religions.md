@@ -1,11 +1,14 @@
 ---
 title: "Parody Religions: From Discordia to the Flying Spaghetti Monster"
 date: 2026-03-21
-description: "Lecture transcript, Moscow, March 2026. On the sociology of parody religiosity — from Pastafarianism to Discordianism and the Church of the SubGenius."
+description: "Public lecture in Moscow in 2026 on parody religions, including Pastafarianism, Discordianism and the Church of the SubGenius."
 tags: ["lecture", "sociology of religion", "parody religions"]
+summary: "Public lecture in Moscow in 2026 on parody religions, including Pastafarianism, Discordianism and the Church of the SubGenius."
+translationKey: "texts-parody-religions"
+showToc: true
 ---
 
-*Transcript of a public lecture delivered in Moscow, 21 March 2026.*
+*Transcript of a public lecture delivered in Moscow in 2026.*
 
 ---
 
@@ -15,7 +18,7 @@ My name is Nikita Obraztsov. I hold an MA in Religious Studies from St. Petersbu
 
 Tonight we will cover why the topic matters, some sociological theory, the concept of parody religiosity itself — which is ethically complex — the context in which parody religions emerge, and specific examples. Because when we see someone with a colander on their head, the first instinct is to ask what is going on. But behind that image lie cultural and social phenomena of considerable depth.
 
-On the opening slide — five figures. Here is the Dude from *The Big Lebowski*, here is a stereotypical 1950s salesman with a white-toothed smile straight off an American poster, here is Darth Vader as played by Alec Guinness, who famously refused to take the role seriously and said: "I am a Shakespearean actor, you are making me play some man with a glowing stick." What unites all of them? In one form or another, they have become objects of quasi-religious veneration in the 21st century. And since the 1960s, this phenomenon has been developing intensively.
+On the opening slide — five figures. Here is the Dude from *The Big Lebowski*, here is a stereotypical 1950s salesman with a white-toothed smile straight off an American poster, here is Darth Vader, portrayed in the original film by David Prowse and voiced by James Earl Jones. What unites all of them? In one form or another, they have become objects of quasi-religious veneration in the 21st century. And since the 1960s, this phenomenon has been developing intensively.
 
 ## The Institutional Decline of Religion
 

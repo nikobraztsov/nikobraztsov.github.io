@@ -7,6 +7,9 @@ tags:
   - history of atheism
   - freethought
   - religious studies
+summary: "A survey lecture on the history of atheism and freethought: from ancient impiety to the New Atheists of the twenty-first century."
+translationKey: "texts-atheism-history"
+showToc: true
 ---
 
 *Transcript of a public lecture delivered in St. Petersburg, 25 May.*

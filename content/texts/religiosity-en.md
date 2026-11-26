@@ -8,6 +8,9 @@ tags:
   - religiosity
   - youth
   - secularization
+summary: "A paper presented at the XXX International Educational Readings. What sociological data tell us about the religiosity of young people in Russia and the United States — and how it differs from older generations."
+translationKey: "texts-youth-religiosity"
+showToc: true
 ---
 
 *Paper presented at the XXX International Educational Readings "Peter the Great at 350: A Secular World and Religiosity", May 2022.*

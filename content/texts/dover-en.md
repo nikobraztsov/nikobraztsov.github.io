@@ -3,6 +3,9 @@ title: "Intelligent Design Is Not Science: The Kitzmiller v. Dover Case"
 date: 2023-02-16
 description: "A close reading of one of the most significant court cases in American educational history — Kitzmiller v. Dover Area School District (2005). Science, creationism, and the First Amendment."
 tags: ["lecture", "science and religion", "atheism", "philosophy of science", "USA"]
+summary: "A close reading of one of the most significant court cases in American educational history — Kitzmiller v. Dover Area School District (2005). Science, creationism, and the First Amendment."
+translationKey: "texts-dover"
+showToc: true
 ---
 
 *Based on a video lecture.*

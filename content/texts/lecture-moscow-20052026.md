@@ -1,14 +1,17 @@
 ---
-title: What Does the Modern Person Believe? From Horoscopes to Neural Networks
+title: "What Do People Believe Today? From Horoscopes to Neural Networks"
 date: 2026-05-20
-description: Lecture transcript, Moscow, May 2026. On the contemporary religious situation, secularization theory, and the transformation of religion.
+description: "Public lecture in Moscow in 2026 on contemporary religious life, secularisation and religious change."
 tags:
   - lecture
   - sociology of religion
   - secularization
+summary: "Public lecture in Moscow in 2026 on contemporary religious life, secularisation and religious change."
+translationKey: "texts-modern-belief"
+showToc: true
 ---
 
-_Transcript of a public lecture delivered in Moscow, 20 May 2026._
+_Transcript of a public lecture delivered in Moscow in 2026._
 
 Good afternoon. Thank you for spending a sunny day on my lecture. Today I will be talking about religion in the modern world through a specific theoretical lens. The plan: first a short theoretical preamble, then we will discuss the contemporary religious situation — what kind of world we live in, where we are heading. Then secularization theory and its current state — is it alive, dead, more dead than alive? Views differ. Then how contemporary sociologists look at the religious situation anew. And finally, what the title promises: what does the modern person believe?
 

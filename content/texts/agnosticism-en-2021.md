@@ -7,11 +7,14 @@ tags:
   - religious studies
   - atheism
   - philosophy
+summary: "What agnosticism actually is, how it differs from atheism and scepticism, and why Bertrand Russell called himself an agnostic among colleagues but an atheist for public audiences."
+translationKey: "texts-agnosticism"
+showToc: true
 ---
 
 *Based on a video lecture.*
 
-*Video lecture: [YouTube](https://www.youtube.com/)*
+*Original video link is not currently available.*
 
 ---
 

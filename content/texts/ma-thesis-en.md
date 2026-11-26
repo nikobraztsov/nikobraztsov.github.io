@@ -1,8 +1,10 @@
 ---
-title: "The Brights Movement as a Phenomenon of Contemporary Culture: Introduction and Conclusion"
+title: "The Brights Movement as a Phenomenon of Contemporary Culture: Selected Excerpts"
 date: 2020-06-01
-description: "Excerpts from an MA thesis in religious studies (St. Petersburg State University, 2020). The Brights movement — a naturalistic worldview network founded in the United States in 2003 — examined as a phenomenon of contemporary secular culture."
+description: "English excerpts from my 2020 MA thesis in religious studies: introduction, chapter 1 and conclusion."
 tags: ["texts", "religious studies", "atheism", "freethought", "secular movements"]
+summary: "English excerpts from my 2020 MA thesis in religious studies: introduction, chapter 1 and conclusion."
+aliases: ["/ru/texts/ma-thesis-en/"]
 ---
 
 *Excerpts from the MA thesis "The Brights Movement as a Phenomenon of Contemporary Culture" (St. Petersburg State University, MA in Religious Studies, 2020). Supervisor: Prof. Marianna Shakhnovich.*

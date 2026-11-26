@@ -3,6 +3,9 @@ title: "What Does It Mean to Be a Rational Person?"
 date: 2024-11-24
 description: "Based on an appearance on the Pascal's Wager podcast. On the nature of rationality, its limits, astrology, and why rationality is a tool rather than a sacred cow."
 tags: ["texts", "philosophy", "rationality"]
+summary: "Based on an appearance on the Pascal's Wager podcast. On the nature of rationality, its limits, astrology, and why rationality is a tool rather than a sacred cow."
+translationKey: "texts-rationality"
+showToc: true
 ---
 
 *Based on an appearance on the [Pascal's Wager podcast](https://www.youtube.com/@LuckyStrikePhilosophy), November 2024. This is not a transcript but a reconstruction of the main ideas from the conversation.*

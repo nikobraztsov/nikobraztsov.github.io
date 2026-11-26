@@ -3,6 +3,9 @@ title: "Religious Meanings in the Harry Potter Novels"
 date: 2023-08-26
 description: "Public lecture at Tele2 Art Space, Yelagin Island, St. Petersburg. From fairy tale structure to Christian theology: five layers of meaning in Rowling's novels."
 tags: ["lecture", "religion and culture", "quasi-religion", "literature"]
+summary: "Public lecture at Tele2 Art Space, Yelagin Island, St. Petersburg. From fairy tale structure to Christian theology: five layers of meaning in Rowling's novels."
+translationKey: "texts-harry-potter"
+showToc: true
 ---
 
 *Public lecture at Tele2 Art Space, Yelagin Island, St. Petersburg, August 26, 2023.*

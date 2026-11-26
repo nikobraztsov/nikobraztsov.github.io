@@ -1,12 +1,15 @@
 ---
-title: "Erasmus of Rotterdam: The Man Who Defined His Age"
+title: "Erasmus of Rotterdam: Life and Ideas"
 date: 2020-12-27
-description: "The life and ideas of Erasmus of Rotterdam: from illegitimate son of a priest to the intellectual arbiter of Europe. A close reading of The Praise of Folly, the dispute with Luther on free will, and Soviet reception."
+description: "A lecture on Erasmus, The Praise of Folly, the dispute with Luther over free will and the reception of Erasmus in Soviet scholarship."
 tags:
   - lecture
   - history
   - religious studies
   - renaissance
+summary: "A lecture on Erasmus, The Praise of Folly, the dispute with Luther over free will and the reception of Erasmus in Soviet scholarship."
+translationKey: "texts-erasmus"
+showToc: true
 ---
 
 *Based on a video lecture.* 

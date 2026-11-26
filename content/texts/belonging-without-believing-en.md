@@ -3,6 +3,7 @@ title: "The Concept of Belonging Without Believing in the Context of Orthodox Id
 date: 2025-11-01
 description: "Conference paper presented at the VII All-Russian Sociological Congress, Moscow, November 2025. On the gap between declared Orthodox affiliation and actual religious practice in contemporary Russia."
 tags: ["texts", "sociology of religion", "secularization", "orthodoxy", "academic"]
+summary: "Conference paper presented at the VII All-Russian Sociological Congress, Moscow, November 2025. On the gap between declared Orthodox affiliation and actual religious practice in contemporary Russia."
 ---
 
 *Published in: Sociology and Society: Formation and Functioning of Social Memory. Proceedings of the VII All-Russian Sociological Congress. Moscow, November 2025. EDN QUINAN.*

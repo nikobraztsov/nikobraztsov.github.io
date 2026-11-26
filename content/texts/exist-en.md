@@ -3,6 +3,9 @@ title: "Does Religion Exist? Three Approaches to Studying It"
 date: 2024-08-05
 description: "Realism, phenomenology, and constructivism — three frameworks scholars use when approaching the phenomenon of religion. A breakdown with examples and criticism of each."
 tags: ["lecture", "religious studies", "methodology", "phenomenology"]
+summary: "Realism, phenomenology, and constructivism — three frameworks scholars use when approaching the phenomenon of religion. A breakdown with examples and criticism of each."
+translationKey: "texts-concept-of-religion"
+showToc: true
 ---
 
 *Based on a video lecture.*

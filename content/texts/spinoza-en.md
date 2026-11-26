@@ -3,6 +3,9 @@ title: "Benedict Spinoza: Heretic, Lens Grinder, and God as Substance"
 date: 2023-03-08
 description: "On the life and philosophy of Spinoza: excommunication from the synagogue, pantheism, the Ethics, and why Einstein invoked his name when asked about God."
 tags: ["lecture", "history of atheism", "freethought", "spinoza", "philosophy"]
+summary: "On the life and philosophy of Spinoza: excommunication from the synagogue, pantheism, the Ethics, and why Einstein invoked his name when asked about God."
+translationKey: "texts-spinoza"
+showToc: true
 ---
 
 *Based on a video lecture.*

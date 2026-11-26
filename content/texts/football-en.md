@@ -1,8 +1,11 @@
 ---
-title: "Football as Quasi-Religion: A Scientific Analysis"
+title: "Football as Quasi-Religion"
 date: 2022-12-20
-description: "Why Messi is called God, what football and religion have in common, and whether football is actually a religion. An analysis from the perspective of religious studies."
+description: "A religious studies perspective on the similarities between football fandom and religion, and the limits of the comparison."
 tags: ["lecture", "sociology of religion", "quasi-religion", "football"]
+summary: "A religious studies perspective on the similarities between football fandom and religion, and the limits of the comparison."
+translationKey: "texts-football"
+showToc: true
 ---
 
 *Based on a video lecture.*

@@ -3,6 +3,8 @@ title: "On Religion, Atheism, and Science: Interview for the Trickster Channel"
 date: 2022-04-08
 description: "Interview for Alexander Bydantsev's channel. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method."
 tags: ["texts", "interview", "religious studies", "atheism"]
+summary: "Interview for Alexander Bydantsev's channel. On religious studies as a science, the Brights movement, agnosticism, scientism, and the limits of the scientific method."
+translationKey: "texts-trickster-interview"
 ---
 
 *Published in April 2022 on Alexander Bydantsev's Yandex Zen channel ("Trickster"). [Read the original (Russian) →](https://dzen.ru/a/YlAFQBX5QBrAGBen)*

@@ -1,8 +1,11 @@
 ---
-title: "The Main Myth About Religion: Debunking Primordial Monotheism"
+title: "Primordial Monotheism: A Critical Examination"
 date: 2022-07-01
-description: "What primordial monotheism is, where the idea came from, why it appeals to people, and why ethnographic data refutes it."
+description: "The origins of the theory of primordial monotheism and the ethnographic evidence used in debates about it."
 tags: ["lecture", "religious studies", "history of religion", "myths about religion"]
+summary: "The origins of the theory of primordial monotheism and the ethnographic evidence used in debates about it."
+translationKey: "texts-primordial-monotheism"
+showToc: true
 ---
 
 *Based on a video lecture.*

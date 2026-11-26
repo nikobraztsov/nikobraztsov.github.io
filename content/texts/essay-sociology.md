@@ -1,14 +1,13 @@
 ---
 title: Why Do Young People with Higher Education Deconvert from Religion More Often?
 date: 2026-11-25
-description: ""
+description: "Course essay in analytical sociology (2025) on possible mechanisms linking higher education and religious deconversion among young people."
 tags:
   - texts
   - religious studies
+summary: "Course essay in analytical sociology (2025) on possible mechanisms linking higher education and religious deconversion among young people."
 ---
-
-Why Do Young People with Higher Education Deconvert from Religion More Often?
 
 *Essay for the course "Introduction to Analytical Sociology" Nikita Obraztsov, European University at St. Petersburg, 2025*
 
-[Read the article →](/docs/deconversion-en.pdf)
+[Read the course essay (PDF) →](/docs/deconversion-en.pdf)

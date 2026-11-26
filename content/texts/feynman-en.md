@@ -3,6 +3,9 @@ title: "Feynman on Science, Religion, and Doubt"
 date: 2024-01-01
 description: "A reading of The Meaning of It All. Why scientists tend not to believe, what NOMA gets right, and where Feynman goes wrong on religion."
 tags: ["lecture", "science and religion", "Feynman", "philosophy of science"]
+summary: "A reading of The Meaning of It All. Why scientists tend not to believe, what NOMA gets right, and where Feynman goes wrong on religion."
+translationKey: "texts-feynman"
+showToc: true
 ---
 
 *Based on a video lecture.*

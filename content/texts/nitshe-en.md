@@ -1,8 +1,11 @@
 ---
 title: "Friedrich Nietzsche and His Critique of Christianity"
 date: 2020-10-12
-description: "Second lecture in the series on atheism and freethought. Nietzsche as a literary figure rather than a scientist: will to power, ressentiment, The Antichrist, and why his critique of religion is not scholarship."
+description: "A lecture on Nietzsche’s critique of Christianity, ressentiment, the will to power and The Antichrist."
 tags: ["lecture", "history of atheism", "freethought", "nietzsche"]
+summary: "A lecture on Nietzsche’s critique of Christianity, ressentiment, the will to power and The Antichrist."
+translationKey: "texts-nietzsche"
+showToc: true
 ---
 
 *Based on a video lecture.*

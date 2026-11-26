@@ -1,5 +1,5 @@
 ---
-title: "John Toland: The Forgotten Genius of the Enlightenment"
+title: "John Toland and the Enlightenment"
 date: 2020-06-19
 description: "The first lecture in a series on the history of atheism and freethought. John Toland (1669/1670–1722): biography, Christianity not Mysterious, Letters to Serena, and his place in the history of European thought."
 tags:
@@ -7,6 +7,9 @@ tags:
   - history of atheism
   - freethought
   - enlightenment
+summary: "The first lecture in a series on the history of atheism and freethought. John Toland (1669/1670–1722): biography, Christianity not Mysterious, Letters to Serena, and his place in the history of European thought."
+translationKey: "texts-toland"
+showToc: true
 ---
 *Based on a video lecture.*
 

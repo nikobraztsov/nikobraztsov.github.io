@@ -1,12 +1,15 @@
 ---
 title: "Intergroup Connectivity and Religious Resilience: An Agent-Based Model of an Orthodox Religious Community"
 date: 2026-06-24
-description: "Research seminar on intergroup connectivity and religious resilience, including an agent-based model."
+description: "Text of my June 2026 research seminar on intergroup connectivity and religious resilience, presenting an earlier version of my agent-based model."
 tags:
   - texts
   - religious studies
+summary: "Text of my June 2026 research seminar on intergroup connectivity and religious resilience, presenting an earlier version of my agent-based model."
 ---
-Here is the text version of my talk on Seminar at the ML PSA Lab. 
+Text of my research seminar at the ML PSA Lab, June 2026.
+
+*Note (November 2026): this talk presents an earlier specification of the model. Its numerical results are conditional on that specification. See my [current research](/research/) for subsequent developments.* 
 
  [Original announcement is here](https://anr.hse.ru/en/announcements/1166847041.html)
 

@@ -1,8 +1,11 @@
 ---
 title: "Stability, Silence, Community, and Psychotherapy: What Young People Are Looking for in Religion"
 date: 2026-05-31
-description: "English translation of a Forbes Young article by Elena Strelkova. On Gen Z religiosity in Russia and globally, featuring expert commentary."
+description: "English translation of Elena Strelkova’s Forbes Young article on youth religiosity, including my expert commentary."
 tags: ["texts", "sociology of religion", "secularization", "press"]
+summary: "English translation of Elena Strelkova’s Forbes Young article on youth religiosity, including my expert commentary."
+author: "Elena Strelkova"
+showToc: true
 ---
 
 *Translation of an article by Elena Strelkova, published in Forbes Young (Russia), 31 May 2026. [Original in Russian →](https://www.forbes.ru/young/561711-stabil-nost-tisina-obsina-i-psihoterapia-cto-molodye-ludi-isut-v-religii). Translated and published here with attribution.*
