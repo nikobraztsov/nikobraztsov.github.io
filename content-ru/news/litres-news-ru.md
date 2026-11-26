@@ -9,4 +9,4 @@ tags: ["новости", "СМИ"]
 
 [Смотреть на YouTube →](https://www.youtube.com/watch?v=9CkDI7JvsQU)
 
-[Подробнее о чём говорили →](/smi/litres-speech-ru/)
+[Подробнее о чём говорили →](/ru/smi/litres-speech-ru/)

@@ -8,4 +8,4 @@ Forbes Young published a piece by Elena Strelkova - "Stability, Silence, Communi
 
 [Read the article (Russian) →](https://www.forbes.ru/young/561711-stabil-nost-tisina-obsina-i-psihoterapia-cto-molodye-ludi-isut-v-religii)
 
-[English translation →](/texts/forbes-translation-en/)
+[English translation →](/texts/forbes-text-en/)

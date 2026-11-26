@@ -8,6 +8,6 @@ On 7 September, the European University at St. Petersburg team took part in the 
 
 [University news →](https://eusp.org/news/komanda-eu-prinyala-uchastie-v-99-m-zabege-pushkin-sankt-peterburg)
 
-[Diploma →](/docs/Diploma-run.pdf)
+[Diploma →](/docs/diploma-run.pdf)
 
 
